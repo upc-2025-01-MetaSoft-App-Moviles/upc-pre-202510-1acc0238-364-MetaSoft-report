@@ -177,7 +177,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 #### [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams]()
 #### [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams]()
 #### [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams]()
-#### [2.6.1.6.2. Bounded Context Database Design Diagram]()
+#### [4.2.1.6.2. Bounded Context Database Design Diagram]()
 # [Capítulo V: Solution UI/UX Design]()
 ## [5.1. Product design]()
 ### [5.1.1. Style Guidelines]()
