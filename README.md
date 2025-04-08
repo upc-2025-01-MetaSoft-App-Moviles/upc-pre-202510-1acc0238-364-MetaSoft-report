@@ -24,7 +24,7 @@
 * **Abraham Andres Estrada Cajamune     U202112164**
 * **Raúl Ronaldo Quispe Erasmo          U20211B682**
 * **Fernando Jesus Lizano Coll Cardenas U202214522**
-* **Nombres y Apellidos             Código**
+* **Fabricio Apaza Morales              U201922146**
 
 
 
@@ -100,8 +100,8 @@ Github Collaboration Insights proporciona un cronograma que muestra las principa
 * Gustavo Esau Huanca Navarro         (petitavo)
 * Abraham Andres Estrada Cajamune     (Abraham0310)
 * Raúl Ronaldo Quispe Erasmo          (R)
-* Fernando Jesus Lizano Coll Cardenas (Nombre GitHub)
-* Nombres y Apellidos                 (Nombre GitHub)
+* Fernando Jesus Lizano Coll Cardenas (GuardianDeity)
+* Fabricio Apaza Morales              (Fabricio011001)
 
 El repositorio se estructuró de la siguiente manera para mejorar la colaboración y la organización del proyecto:
 
