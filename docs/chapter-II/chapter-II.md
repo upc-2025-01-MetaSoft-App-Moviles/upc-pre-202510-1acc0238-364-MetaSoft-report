@@ -113,6 +113,10 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Después de haber comparado nuestra propuesta con las soluciones actuales en el mercado, el equipo definirá las estrategias y técnicas que deberán implementarse para destacar frente a la competencia.
+
+
+
 
 ## 2.2. Entrevistas
 
