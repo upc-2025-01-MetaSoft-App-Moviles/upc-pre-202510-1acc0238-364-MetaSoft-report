@@ -211,6 +211,104 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 ### 2.2.1. Diseño de entrevistas
 
+<p><strong>Preguntas para Productores de Vinos y Piscos Artesanales:</strong></p>
+<ul>
+    <li><strong>Introducción (30 segundos):</strong>
+        <ul>
+            <li>Saludo e introducción breve de tu parte.</li>
+            <li>Explicación del propósito de la entrevista.</li>
+            <li>Mención de la confidencialidad y duración estimada.</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Aspectos Demográficos (1 minuto):</strong>
+        <ul>
+            <li>¿Cuál es tu nombre y el nombre de tu empresa?</li>
+            <li>¿Qué función específica cumples en la producción de vinos/piscos?</li>
+            <li>¿Dónde se encuentra tu lugar de producción o empresa?</li>
+            <li>¿Cuánto tiempo llevas en la industria vitivinícola o pisquera?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Información sobre el negocio (1 minuto):</strong>
+        <ul>
+            <li>¿Qué tipo de vinos o piscos produces?</li>
+            <li>¿Qué parte del proceso de producción te resulta más complicada?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Desafíos y Necesidades (1 minuto):</strong>
+        <ul>
+            <li>¿Cuál consideras que es el principal reto al que te enfrentas actualmente?</li>
+            <li>¿Qué tipo de recursos o ayudas crees que podrían ayudarte a superar esos retos?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Uso de tecnología (1 minuto):</strong>
+        <ul>
+            <li>¿Qué herramientas tecnológicas estás utilizando actualmente en tu proceso?</li>
+            <li>¿Te interesaría implementar nuevas soluciones tecnológicas? ¿Qué funcionalidades te parecerían útiles?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Cierre (30 segundos):</strong>
+        <ul>
+            <li>Gracias por tu tiempo y participación.</li>
+            <li>¿Estarías dispuesto(a) a que te contactemos nuevamente para futuras pruebas o consultas?</li>
+        </ul>
+    </li>
+</ul>
+
+<br>
+
+<p><strong>Preguntas para Distribuidores de Vinos:</strong></p>
+<ul>
+    <li><strong>Introducción (30 segundos):</strong>
+        <ul>
+            <li>Saludo e introducción personal breve.</li>
+            <li>Explicación del propósito de esta entrevista.</li>
+            <li>Asegurar la privacidad de la información compartida.</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Aspectos Demográficos (1 minuto):</strong>
+        <ul>
+            <li>¿Cuál es tu nombre y el de tu empresa?</li>
+            <li>¿Qué cargo o función desempeñas?</li>
+            <li>¿Dónde se ubica tu tienda o empresa?</li>
+            <li>¿Cuánto tiempo llevas en el rubro de distribución de vinos?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Información sobre el negocio (1 minuto):</strong>
+        <ul>
+            <li>¿Qué tipos de vinos sueles comercializar (nacionales, importados, artesanales)?</li>
+            <li>¿Cómo decides qué vinos comprar para vender?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Desafíos y Necesidades (1 minuto):</strong>
+        <ul>
+            <li>¿Qué desafío consideras más relevante en tu trabajo de distribución?</li>
+            <li>¿Qué apoyos o herramientas consideras que podrían mejorar tu negocio?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Uso de tecnología (1 minuto):</strong>
+        <ul>
+            <li>¿Qué sistemas o herramientas tecnológicas usas para gestionar compras y ventas?</li>
+            <li>¿Te interesaría implementar nuevas soluciones tecnológicas? ¿Qué características te interesarían?</li>
+        </ul>
+    </li>
+    <br>
+    <li><strong>Cierre (30 segundos):</strong>
+        <ul>
+            <li>Gracias por tu tiempo y colaboración.</li>
+            <li>¿Te gustaría ser contactado(a) nuevamente para futuras pruebas o investigaciones?</li>
+        </ul>
+    </li>
+</ul>
+
 
 ### 2.2.2. Registro de entrevistas
 
