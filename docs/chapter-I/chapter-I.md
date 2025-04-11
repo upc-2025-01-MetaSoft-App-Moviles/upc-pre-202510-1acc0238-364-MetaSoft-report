@@ -35,15 +35,15 @@ Nuestro modelo de ingresos se basa en suscripciones con distintos niveles de ser
 **Antecedentes**
 
 
-El estado actual de la gestión en los viñedos artesanales sigue dependiendo, en su mayoría, de métodos manuales y sistemas aislados, como anotaciones en cuadernos, pizarras o simplemente la experiencia acumulada. Esta forma de trabajo no solo fragmenta la información, sino que limita la organización, el seguimiento y la trazabilidad de las tareas tanto en campo como en bodega.
+El estado actual de **la gestión en viñedos artesanales** se ha centrado principalmente en **métodos tradicionales y desarticulados como el uso de cuadernos, pizarras y registros orales, lo cual dificulta la planificación, el seguimiento de tareas y la trazabilidad del proceso productivo desde el campo hasta la bodega.**
 
-Las soluciones digitales existentes en el mercado no abordan adecuadamente las necesidades del productor artesanal. Son complejas, costosas o están pensadas para grandes empresas, dejando de lado a los pequeños vinicultores y a los trabajadores de campo que requieren herramientas simples, móviles y adaptadas a su realidad.
+Lo que los productos/servicios existentes no logran abordar es **una herramienta accesible, intuitiva y realmente adaptada al entorno rural, que permita coordinar las tareas agrícolas, registrar avances en la vinificación y gestionar insumos, todo desde un dispositivo móvil y sin necesidad de conocimientos técnicos avanzados.**
 
-ElixirLine surge para cerrar esa brecha, ofreciendo una aplicación móvil que centraliza la planificación agrícola, el registro del proceso de vinificación y la gestión de insumos en un solo lugar. Todo esto a través de una interfaz intuitiva, amigable y funcional incluso para usuarios con poca experiencia digital. La solución se adapta a distintos tamaños de operación y busca facilitar la organización diaria, mejorar la coordinación entre campo y bodega, y reducir las pérdidas por desinformación o registros dispersos.
+Nuestro producto/servicio abordará esta brecha mediante **el desarrollo de una aplicación móvil "ElixirLine" que centraliza y simplifica la gestión de viñedos artesanales, facilitando la planificación de actividades agrícolas, el seguimiento de procesos por lote, la digitalización de bitácoras de campo y el control de insumos. Todo esto con una interfaz amigable, adaptable al ritmo del campo y diseñada pensando en usuarios con poca experiencia digital.**
 
-Nuestro enfoque inicial está puesto en el mercado de productores artesanales de vino en zonas rurales de América Latina, donde la necesidad de una herramienta práctica, accesible y eficaz es cada vez más urgente.
+Nuestro enfoque inicial será **el segmento de vinicultores artesanales y trabajadores de campo en zonas rurales de América Latina, que requieren soluciones prácticas, económicas y fáciles de implementar para organizar sus operaciones sin complicaciones.**
 
-Sabremos que estamos logrando nuestro propósito cuando los usuarios de ElixirLine empiecen a notar mayor control en sus procesos, menor pérdida de insumos, mejor rendimiento en sus lotes, y sobre todo, cuando puedan tomar decisiones con mayor confianza gracias a la información que tienen al alcance de su mano. El éxito también se medirá por la adopción sostenida de la app y la fidelización de nuestros usuarios durante el primer año de funcionamiento.
+Sabremos que tenemos éxito cuando veamos **que nuestros usuarios adoptan la aplicación como herramienta diaria, logran mayor control sobre sus tareas, reducen errores y desperdicios, y sienten que ElixirLine les ayuda realmente a crecer, producir mejor y trabajar con más tranquilidad.**
 
 **Problematicas**
 
@@ -116,9 +116,34 @@ La combinación de una alta carga de trabajo, métodos manuales obsoletos y la f
 El impacto varía, pero incluso en viñedos pequeños se pueden perder cientos de soles al mes por mala gestión de insumos, tareas mal ejecutadas o falta de seguimiento. En campañas grandes, esto puede traducirse en miles de soles perdidos por baja productividad, desperdicio o fallas en el proceso. Además, la falta de control reduce la capacidad de competir en mercados que exigen calidad, trazabilidad y orden.
 
 ### 1.2.2. Lean UX Process
-
+En esta etapa damos inicio al enfoque Lean UX, una metodología que nos permitirá construir y afinar la visión del modelo de negocio que respaldará nuestra solución digital. Gracias a este enfoque, podremos centrar el diseño de nuestro producto en resolver necesidades concretas y generar valor real para los usuarios.
 
 #### 1.2.2.1. Lean UX Problem Statements
+A continuación, utilizamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para enfocar nuestro equipo en la creación de una solución que responda eficazmente a las necesidades de los clientes, sin limitaciones que puedan afectar la creatividad y agilidad del desarrollo.
+
+- La plantilla de Business Opportunity Statement:
+
+El estado actual de **[domain]** se ha centrado principalmente en **[segments, pain points, etc.]**
+
+Lo que los productos/servicios existentes no logran abordar es **[this gap].**
+
+Nuestro producto/servicio abordará esta brecha mediante **[vision / strategy].**
+
+Nuestro enfoque inicial será **[this segment].**
+
+Sabremos que tenemos éxito cuando veamos **[these behaviors in our target audience].**
+
+- ReStyle Lean UX Problem Statements:
+
+El estado actual de **la gestión en viñedos artesanales** se ha centrado principalmente en **métodos tradicionales y desarticulados como el uso de cuadernos, pizarras y registros orales, lo cual dificulta la planificación, el seguimiento de tareas y la trazabilidad del proceso productivo desde el campo hasta la bodega.**
+
+Lo que los productos/servicios existentes no logran abordar es **una herramienta accesible, intuitiva y realmente adaptada al entorno rural, que permita coordinar las tareas agrícolas, registrar avances en la vinificación y gestionar insumos, todo desde un dispositivo móvil y sin necesidad de conocimientos técnicos avanzados.**
+
+Nuestro producto/servicio abordará esta brecha mediante **el desarrollo de una aplicación móvil "ElixirLine" que centraliza y simplifica la gestión de viñedos artesanales, facilitando la planificación de actividades agrícolas, el seguimiento de procesos por lote, la digitalización de bitácoras de campo y el control de insumos. Todo esto con una interfaz amigable, adaptable al ritmo del campo y diseñada pensando en usuarios con poca experiencia digital.**
+
+Nuestro enfoque inicial será **el segmento de vinicultores artesanales y trabajadores de campo en zonas rurales de América Latina, que requieren soluciones prácticas, económicas y fáciles de implementar para organizar sus operaciones sin complicaciones.**
+
+Sabremos que tenemos éxito cuando veamos **que nuestros usuarios adoptan la aplicación como herramienta diaria, logran mayor control sobre sus tareas, reducen errores y desperdicios, y sienten que ElixirLine les ayuda realmente a crecer, producir mejor y trabajar con más tranquilidad.**
 
 
 #### 1.2.2.2. Lean UX Assumptions
