@@ -6,6 +6,7 @@ En esta etapa, el equipo llevará a cabo un análisis sobre los posibles competi
 
 ### 2.1.1. Análisis competitivo
 
+En esta sección, el equipo llevará a cabo un análisis competitivo de los tres principales competidores identificados, con el fin de determinar e implementar estrategias adecuadas en relación con ellos.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
