@@ -206,6 +206,8 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
 
 ## 2.2. Entrevistas
 
+En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos objetivos previamente definidos, con el propósito de comprender mejor sus necesidades y establecer una mayor empatía con ellos.
+
 
 ### 2.2.1. Diseño de entrevistas
 
