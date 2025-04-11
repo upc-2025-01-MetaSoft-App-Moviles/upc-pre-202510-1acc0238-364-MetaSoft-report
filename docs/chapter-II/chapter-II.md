@@ -115,7 +115,93 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
 
 Después de haber comparado nuestra propuesta con las soluciones actuales en el mercado, el equipo definirá las estrategias y técnicas que deberán implementarse para destacar frente a la competencia.
 
-
+<table>
+    <thead>
+        <tr>
+            <th colspan="3"> Matriz CAME para el desarrollo de estrategias en base al análisis FODA </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan="2"> Análisis FODA cruzado</th>
+            <th> Oportunidades </th>
+            <th> Amenazas </th>
+        </tr>
+        <tr>
+            <td>
+                1. El aumento del interés en sistemas de gestión para la industria vitivinícola representa una oportunidad clave para ElixirControl.<br>
+                2. Existen posibilidades de crecimiento geográfico hacia nuevas regiones y países.<br>
+                3. La evolución tecnológica constante permite mejorar la plataforma y brindar una mejor experiencia al usuario.<br>
+                4. Las colaboraciones con actores del sector podrían fortalecer la propuesta de valor.<br>
+                5. Se puede consolidar la imagen de ElixirControl como líder en gestión de vinos y pisco mediante acciones de marketing.<br>
+                6. Vincularse con instituciones académicas permitiría impulsar programas de capacitación y certificación.
+            </td>
+            <td>
+                1. La entrada de nuevas plataformas con mejor tecnología puede representar una fuerte competencia.<br>
+                2. Cambios en normativas del rubro podrían afectar la operatividad del software.<br>
+                3. Existen riesgos asociados a la seguridad digital que podrían afectar la confianza de los usuarios.<br>
+                4. Los competidores podrían ofrecer precios más bajos y captar a los clientes más sensibles al costo.<br>
+                5. La falta de integración fluida con otros sistemas puede ser una barrera para potenciales clientes.
+            </td>
+        </tr>
+        <tr>
+            <th>Fortalezas</th>
+            <th>Estrategia (FO) E. Ofensivas</th>
+            <th>Estrategia (FA) E. Defensivas</th>
+        </tr>
+        <tr>
+            <td>
+                1. Comunicación directa entre cliente y empresa, lo que mejora la relación y genera confianza.<br>
+                2. Transparencia total en el avance del proceso productivo.<br>
+                3. Especialización en un sector específico, lo que permite mayor eficacia.<br>
+                4. Ahorro de tiempo y esfuerzo para el cliente gracias a la automatización.
+            </td>
+            <td>
+                1. Lanzar campañas que destaquen cómo ElixirControl responde a la demanda creciente del mercado.<br>
+                2. Analizar nuevas regiones con potencial y adaptar la solución a cada contexto.<br>
+                3. Invertir en desarrollo tecnológico continuo para garantizar una experiencia superior.<br>
+                4. Formar alianzas con empresas del rubro para ofrecer soluciones más integradas.<br>
+                5. Promocionar ElixirControl como referente en el sector a través de acciones de marca.<br>
+                6. Colaborar con universidades para posicionarse como herramienta educativa y profesional.
+            </td>
+            <td>
+                1. Innovar constantemente para mantener la ventaja tecnológica.<br>
+                2. Reforzar los sistemas de seguridad para generar confianza.<br>
+                3. Estar atentos a cambios normativos para adaptar el sistema a tiempo.<br>
+                4. Analizar precios del mercado para seguir siendo competitivos.<br>
+                5. Crear herramientas de integración que faciliten la adopción del sistema.<br>
+                6. Estimular la innovación interna para continuar liderando el sector.
+            </td>
+        </tr>
+        <tr>
+            <th>Debilidad (D)</th>
+            <th>Estrategia(DO) de Reorientación</th>
+            <th>Estrategia(DA) de Supervivencia</th>
+        </tr>
+        <tr>
+            <td>
+                1. Dificultad para generar confianza en nuevos clientes.<br>
+                2. Falta de consistencia en la calidad del servicio.<br>
+                3. Baja presencia de marca en el mercado.<br>
+                4. Dependencia alta de herramientas tecnológicas.
+            </td>
+            <td>
+                1. Mostrar casos exitosos para construir credibilidad ante nuevos clientes.<br>
+                2. Aplicar mejoras continuas basadas en la retroalimentación del usuario.<br>
+                3. Implementar una estrategia digital que incremente el alcance de la marca.<br>
+                4. Capacitar constantemente al equipo para responder a los cambios tecnológicos.
+            </td>
+            <td>
+                1. Ampliar el portafolio de servicios para reducir vulnerabilidades.<br>
+                2. Tener estrategias listas para enfrentar nuevas amenazas del entorno competitivo.<br>
+                3. Mantener un diálogo constante con los usuarios para fortalecer la relación.<br>
+                4. Asegurar que el equipo esté siempre actualizado frente a las nuevas herramientas.<br>
+                5. Contar con opciones alternativas ante cualquier interrupción técnica o de proveedores.<br>
+                6. Establecer mecanismos efectivos para recibir sugerencias o reclamos y mejorar el servicio.
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## 2.2. Entrevistas
