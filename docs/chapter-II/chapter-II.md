@@ -2,6 +2,7 @@
 
 ## 2.1. Competidores
 
+En esta etapa, el equipo llevará a cabo un análisis sobre los posibles competidores dentro del mercado.
 
 ### 2.1.1. Análisis competitivo
 
