@@ -261,50 +261,52 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 <br>
 
-<p><strong>Preguntas para Distribuidores de Vinos:</strong></p>
+<p><strong>Preguntas principales para Trabajadores de Campo:</strong></p>
+
 <ul>
     <li><strong>Introducción (30 segundos):</strong>
         <ul>
-            <li>Saludo e introducción personal breve.</li>
-            <li>Explicación del propósito de esta entrevista.</li>
-            <li>Asegurar la privacidad de la información compartida.</li>
+            <li>Saludo y breve presentación personal.</li>
+            <li>Explicación del propósito de la entrevista.</li>
+            <li>Asegurar la confidencialidad de las respuestas y mencionar la duración estimada de la entrevista.</li>
         </ul>
     </li>
     <br>
-    <li><strong>Aspectos Demográficos (1 minuto):</strong>
+    <li><strong>Aspectos demográficos (1 minuto):</strong>
         <ul>
-            <li>¿Cuál es tu nombre y el de tu empresa?</li>
-            <li>¿Qué cargo o función desempeñas?</li>
-            <li>¿Dónde se ubica tu tienda o empresa?</li>
-            <li>¿Cuánto tiempo llevas en el rubro de distribución de vinos?</li>
+            <li>¿Cuál es tu nombre completo y en qué empresa o viñedo trabajas?</li>
+            <li>¿Qué rol desempeñas dentro del trabajo de campo?</li>
+            <li>¿En qué lugar está ubicado el campo o viñedo donde trabajas?</li>
+            <li>¿Cuánto tiempo llevas trabajando en labores agrícolas o vitivinícolas</li>
         </ul>
     </li>
     <br>
-    <li><strong>Información sobre el negocio (1 minuto):</strong>
+    <li><strong>Información general sobre el trabajo (1 minuto):</strong>
         <ul>
-            <li>¿Qué tipos de vinos sueles comercializar (nacionales, importados, artesanales)?</li>
-            <li>¿Cómo decides qué vinos comprar para vender?</li>
+            <li>¿Qué tipo de tareas realizas habitualmente en tu jornada?</li>
+            <li>¿Cuál de estas tareas consideras la más difícil o pesada?</li>
         </ul>
     </li>
     <br>
-    <li><strong>Desafíos y Necesidades (1 minuto):</strong>
+    <li><strong>Desafíos y necesidades (1 minuto):</strong>
         <ul>
-            <li>¿Qué desafío consideras más relevante en tu trabajo de distribución?</li>
-            <li>¿Qué apoyos o herramientas consideras que podrían mejorar tu negocio?</li>
+            <li>¿Con qué tipo de dificultades te sueles encontrar al hacer tu trabajo en el campo?</li>
+            <li>¿Qué apoyos o herramientas crees que podrían facilitarte el trabajo diario?</li>
         </ul>
     </li>
     <br>
     <li><strong>Uso de tecnología (1 minuto):</strong>
         <ul>
-            <li>¿Qué sistemas o herramientas tecnológicas usas para gestionar compras y ventas?</li>
-            <li>¿Te interesaría implementar nuevas soluciones tecnológicas? ¿Qué características te interesarían?</li>
+            <li>¿Utilizas actualmente algún celular, tablet o sistema digital como parte de tu trabajo?</li>
+            <li>¿Te interesaría usar una herramienta digital que te ayude a recibir tareas y reportar problemas?</li>
+            <li>¿Qué características o funciones te gustaría que tenga?</li>
         </ul>
     </li>
     <br>
     <li><strong>Cierre (30 segundos):</strong>
         <ul>
-            <li>Gracias por tu tiempo y colaboración.</li>
-            <li>¿Te gustaría ser contactado(a) nuevamente para futuras pruebas o investigaciones?</li>
+            <li>Agradecimiento por su tiempo y colaboración.</li>
+            <li>¿Estarías dispuesto a participar en futuras entrevistas o pruebas relacionadas al proyecto?</li>
         </ul>
     </li>
 </ul>
