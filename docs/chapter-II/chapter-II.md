@@ -450,6 +450,34 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 </div>
 
 ### 2.3.3. User Journey Mapping
+<div style="text-align: justify;">
+    <p>
+        Durante esta sección, se desarrolla los <strong>User Journey Maps</strong> de los perfiles clave involucrados en el proceso vitivinícola: 
+        <strong>Josep Grau</strong>, el vitivinicultor, y <strong>Luis Gómez</strong>, el trabajador de campo. Estos journeys ilustran la experiencia 
+        actual (<em>As-Is</em>) de cada persona en su respectivo rol, antes de la implementación de cualquier solución tecnológica o mejora en los procesos. 
+    </p>
+    <p> 
+        Cada User Journey Map detalla las fases principales que atraviesan ambos perfiles, destacando sus puntos de contacto, puntos de dolor, 
+        oportunidades de mejora y las emociones que experimentan a lo largo de sus actividades diarias. Además, los journeys están estrechamente vinculados 
+        con las fichas de <strong>User Persona</strong> previamente elaboradas, asegurando que las experiencias reflejadas sean representativas y alineadas 
+        con las características y objetivos de cada segmento. 
+    </p>        
+    <p>
+        Este análisis busca comprender los desafíos y oportunidades presentes en las actividades actuales 
+        para sentar las bases de una futura optimización de procesos, orientada a mejorar la productividad y satisfacción de todos los involucrados.
+    </p>
+
+</div>
+
+#### a) User Journey Mapping Vitivinicultor
+<p>
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+</p>
+
+#### b) User Journet Mapping Trabajador de Campo
+<p>
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+</p>
 
 
 ### 2.3.4. Empathy Mapping
