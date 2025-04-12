@@ -320,7 +320,17 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 
 ### 2.3.1. User Persons
-
+<div style="text-align: justify;">
+    <p>
+        En esta sección se presentan las fichas de User Persona elaboradas a partir del análisis detallado de entrevistas realizadas a los segmentos objetivos y de la investigación de la competencia. Estos artefactos            son fundamentales para comprender las necesidades, motivaciones y frustraciones de los usuarios, permitiendo establecer una mayor empatía y diseñar soluciones que respondan a sus realidades.
+    </p>    
+    <p> 
+        La relación entre los artefactos presentados radica en su complementariedad: las entrevistas proporcionaron información clave directamente de los usuarios, mientras que el análisis de la competencia permitió             identificar estándares y buenas prácticas en la industria. A partir de estos insumos, se construyeron los User Persona, los cuales sintetizan las características más relevantes de cada segmento, como sus                 objetivos, tareas principales, contextos demográficos y desafíos.
+    </p>
+    <p> 
+        Este enfoque integral garantiza que los User Persona representen de manera precisa a los usuarios y sirvan como guías fundamentales en la toma de decisiones para el desarrollo del producto.
+    </p>
+</div>
 
 ### 2.3.2. User Task Matrix
 
