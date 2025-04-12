@@ -412,7 +412,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <ul>
                 <li>
                     <strong>Supervisar la calidad del viñedo:</strong> Es altamente relevante para ambos segmentos, aunque su frecuencia varía.
-                    El vitivinicultor (Juan Pérez) lo realiza semanalmente, mientras que el trabajador de campo (Luis Gómez) lo hace diariamente debido a su rol operativo.
+                    El vitivinicultor (Josep Grau) lo realiza semanalmente, mientras que el trabajador de campo (Luis Gómez) lo hace diariamente debido a su rol operativo.
                 </li>
                 <li>
                     <strong>Gestionar la cosecha de uvas:</strong> Tiene una importancia alta para ambos, pero se lleva a cabo de manera estacional, 
@@ -424,11 +424,11 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <strong>Principales diferencias:</strong>
             <ul>
                 <li>
-                    <strong>Aplicar técnicas de cultivo:</strong> Es una tarea mensual para Juan Pérez, pero diaria para Luis Gómez, mostrando su rol 
+                    <strong>Aplicar técnicas de cultivo:</strong> Es una tarea mensual para Josep Grau, pero diaria para Luis Gómez, mostrando su rol 
                     más activo en las actividades diarias del campo.
                 </li>
                 <li>
-                    <strong>Coordinar equipo de trabajo:</strong> Es una responsabilidad diaria y de alta importancia para Juan, quien lidera y organiza,
+                    <strong>Coordinar equipo de trabajo:</strong> Es una responsabilidad diaria y de alta importancia para Josep, quien lidera y organiza,
                     mientras que para Luis tiene una importancia moderada, ya que su enfoque principal está en las actividades operativas.
                 </li>
             </ul>
