@@ -29,14 +29,14 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
         <tr>
             <th rowspan="2"> <strong> Perfil </strong> </th>
             <td> Overview</td>
-            <td>ElixirControl es una plataforma completa enfocada en la gestión del proceso productivo de vinos y pisco. Integra herramientas para administrar inventarios, pedidos, clientes y el proceso de vinificación, con el objetivo de optimizar la eficiencia y mejorar la toma de decisiones.</td>
-            <td>Vinotec es un software integral de gestión para bodegas y productores de vino. Su propósito es mejorar la eficiencia del proceso productivo y de ventas, facilitando el control de producción y la administración de clientes.</td>
+            <td>ElixirControl es una plataforma completa enfocada en la gestión del proceso productivo de vinos y pisco. Integra herramientas para administrar inventarios, pedidos y el proceso de vinificación, con el objetivo de optimizar la eficiencia y mejorar la toma de decisiones.</td>
+            <td>Vinotec es un software integral de gestión para bodegas y productores de vino. Su propósito es mejorar la eficiencia del proceso productivo y de ventas, facilitando el control de producción.</td>
             <td>WineManager brinda soluciones específicas para el sector vitivinícola, con funciones de control de inventario, seguimiento de pedidos y análisis de ventas, enfocándose en integrar información para respaldar decisiones estratégicas.</td>
             <td>VinTrace está orientado a la gestión de viñedos y seguimiento de la producción de vinos. Dispone de herramientas para planificación agrícola, registro de actividades y documentación de cosechas, priorizando el cumplimiento normativo y la calidad.</td>
         </tr>
         <tr>
             <td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
-            <td>Brinda una solución completa que cubre desde la gestión de inventario hasta el control de pedidos y cartera de clientes, ajustándose a las necesidades particulares de productores y distribuidores de vinos y pisco.</td>
+            <td>Brinda una solución completa que cubre desde la gestión de inventario hasta el control de pedidos, ajustándose a las necesidades particulares de productores y distribuidores de vinos y pisco.</td>
             <td>Se enfoca en mejorar los procesos de producción y ventas, aunque no incluye funciones especializadas para el pisco.</td>  
             <td>Su principal fortaleza es la integración de datos, permitiendo decisiones fundamentadas a partir de análisis detallados.</td>  
             <td>Aunque se enfoca en el pisco, su alcance limitado puede no ser adecuado para productores de vino.</td>  
@@ -59,7 +59,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
         <tr>
             <th rowspan="3"> <strong> Perfil del producto </strong> </th>
             <td> Producto & servicios</td>
-            <td>Incluye control de inventarios, gestión de clientes, seguimiento de pedidos y funciones para vinificación y manejo de viñedos.</td>  
+            <td>Incluye control de inventarios, seguimiento de pedidos y funciones para vinificación y manejo de viñedos.</td>  
             <td>Ofrece herramientas para ventas y producción, aunque tiene menor enfoque en el proceso de vinificación.</td>  
             <td>Brinda soluciones integradas, aunque podría no contar con funciones específicas para el pisco.</td>  
             <td>Está especializado en la administración de viñedos, con funciones para planificación agrícola y control de calidad.</td>  
@@ -140,8 +140,8 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
                 1. La entrada de nuevas plataformas con mejor tecnología puede representar una fuerte competencia.<br>
                 2. Cambios en normativas del rubro podrían afectar la operatividad del software.<br>
                 3. Existen riesgos asociados a la seguridad digital que podrían afectar la confianza de los usuarios.<br>
-                4. Los competidores podrían ofrecer precios más bajos y captar a los clientes más sensibles al costo.<br>
-                5. La falta de integración fluida con otros sistemas puede ser una barrera para potenciales clientes.
+                4. Los competidores podrían ofrecer precios más bajos y captar a los usuarios más sensibles al costo.<br>
+                5. La falta de integración fluida con otros sistemas puede ser una barrera para potenciales usuarios.
             </td>
         </tr>
         <tr>
@@ -180,13 +180,13 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
         </tr>
         <tr>
             <td>
-                1. Dificultad para generar confianza en nuevos clientes.<br>
+                1. Dificultad para generar confianza en nuevos usuarios.<br>
                 2. Falta de consistencia en la calidad del servicio.<br>
                 3. Baja presencia de marca en el mercado.<br>
                 4. Dependencia alta de herramientas tecnológicas.
             </td>
             <td>
-                1. Mostrar casos exitosos para construir credibilidad ante nuevos clientes.<br>
+                1. Mostrar casos exitosos para construir credibilidad ante nuevos usuarios.<br>
                 2. Aplicar mejoras continuas basadas en la retroalimentación del usuario.<br>
                 3. Implementar una estrategia digital que incremente el alcance de la marca.<br>
                 4. Capacitar constantemente al equipo para responder a los cambios tecnológicos.
