@@ -332,6 +332,18 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
     </p>
 </div>
 
+#### a) User Person Vitivinicultor
+<p>
+    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor" style="max-width: 200px; height: 800px;">
+</p>
+
+#### b) User Person Trabajador de Campo
+<p>
+    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo" style="max-width: 200px; height: 800px;">
+</p>
+    
+    
+
 ### 2.3.2. User Task Matrix
 
 
