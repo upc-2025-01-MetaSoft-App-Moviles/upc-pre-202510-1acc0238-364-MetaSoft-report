@@ -345,7 +345,109 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
     
 
 ### 2.3.2. User Task Matrix
+<div style="text-align: justify;">
+    <p>
+        En esta sección se presentan los segmentos objetivos identificados: el vitivinicultor artesanal (representado por Josep Grau) y el trabajador de campo (representado por Luis Gómez). Cada uno desempeña un rol clave en la producción de vinos en el Valle del              Colca, Perú. A través del user person, se destacan las responsabilidades específicas de cada segmento e importancia en el cumplimiento de sus objetivos. Esto permite identificar similitudes, diferencias y áreas de enfoque entre los dos perfiles.
+    </p>    
+</div>
 
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th>Tareas</th>
+            <th>Vitivinicultor (Josep Grau) - Frecuencia</th>
+            <th>Vitivinicultor (Josep Grau) - Importancia</th>
+            <th>Trabajador de Campo (Luis Gómez) - Frecuencia</th>
+            <th>Trabajador de Campo (Luis Gómez) - Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Supervisar la calidad del viñedo</td>
+            <td>Semanal</td>
+            <td>Alta</td>
+            <td>Diaria</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Aplicar técnicas de cultivo</td>
+            <td>Mensual</td>
+            <td>Media</td>
+            <td>Diaria</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Gestionar la cosecha de uvas</td>
+            <td>Estacional</td>
+            <td>Alta</td>
+            <td>Estacional</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Mantener herramientas agrícolas</td>
+            <td>Semanal</td>
+            <td>Media</td>
+            <td>Mensual</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Coordinar equipo de trabajo</td>
+            <td>Diaria</td>
+            <td>Alta</td>
+            <td>Diaria</td>
+            <td>Media</td>
+        </tr>
+    </tbody>
+</table>
+
+<div style="text-align: justify;">
+    <p><strong>Explicación del User Task Matrix</strong></p>
+    <p>
+        El análisis del <strong>User Task Matrix</strong> revela diferencias y similitudes clave entre las tareas de los segmentos objetivo. 
+        A continuación, se destacan los puntos más importantes:
+    </p>
+    <ol>
+        <li>
+            <strong>Tareas con mayor frecuencia e importancia:</strong>
+            <ul>
+                <li>
+                    <strong>Supervisar la calidad del viñedo:</strong> Es altamente relevante para ambos segmentos, aunque su frecuencia varía.
+                    El vitivinicultor (Juan Pérez) lo realiza semanalmente, mientras que el trabajador de campo (Luis Gómez) lo hace diariamente debido a su rol operativo.
+                </li>
+                <li>
+                    <strong>Gestionar la cosecha de uvas:</strong> Tiene una importancia alta para ambos, pero se lleva a cabo de manera estacional, 
+                    lo que refleja la naturaleza del ciclo agrícola.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Principales diferencias:</strong>
+            <ul>
+                <li>
+                    <strong>Aplicar técnicas de cultivo:</strong> Es una tarea mensual para Juan Pérez, pero diaria para Luis Gómez, mostrando su rol 
+                    más activo en las actividades diarias del campo.
+                </li>
+                <li>
+                    <strong>Coordinar equipo de trabajo:</strong> Es una responsabilidad diaria y de alta importancia para Juan, quien lidera y organiza,
+                    mientras que para Luis tiene una importancia moderada, ya que su enfoque principal está en las actividades operativas.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <strong>Similitudes:</strong>
+            <ul>
+                <li>
+                    Ambos segmentos coinciden en la relevancia de tareas esenciales como <strong>supervisar calidad</strong> y 
+                    <strong>gestionar la cosecha</strong>, reflejando un enfoque compartido en la calidad del producto final.
+                </li>
+            </ul>
+        </li>
+    </ol>
+    <p>
+        Este análisis permite priorizar las necesidades de cada segmento y definir áreas donde las soluciones pueden tener un impacto positivo, 
+        como la optimización de la supervisión y la gestión de equipos.
+    </p>
+</div>
 
 ### 2.3.3. User Journey Mapping
 
