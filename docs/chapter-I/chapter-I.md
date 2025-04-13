@@ -274,3 +274,69 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 <p align = "center"> <em> Fuente: Elaboración propia </em> </p>
 
 ## 1.3. Segmentos objetivos
+
+**1. Vinicultores:** 
+
+Productores de vino a pequeña y mediana escala, ubicados principalmente en regiones rurales con tradición vitivinícola, como los valles costeros o zonas de sierra baja. Son responsables del ciclo completo de producción: desde el cultivo de la vid hasta el embotellado.
+
+<table>
+  <thead>
+    <tr>
+      <th>Característica</th>
+      <th>Detalle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Edad promedio</td>
+      <td>Entre 35 y 60 años</td>
+    </tr>
+    <tr>
+      <td>Formación</td>
+      <td>Experiencia práctica en agricultura, con conocimientos técnicos básicos o intermedios</td>
+    </tr>
+    <tr>
+      <td>Acceso a tecnología</td>
+      <td>En transición hacia herramientas digitales; uso frecuente de cuadernos o Excel</td>
+    </tr>
+    <tr>
+      <td>Necesidades clave</td>
+      <td>Organización de tareas, trazabilidad del proceso, acceso móvil incluso sin conexión</td>
+    </tr>
+  </tbody>
+</table>
+
+**2. Trabajadores de campo:**
+
+Encargados de ejecutar tareas agrícolas como riego, poda, fertilización, cosecha y control de plagas. Viven en zonas rurales donde la cobertura de red puede ser limitada, y trabajan bajo instrucciones directas del vinicultor.
+
+<table>
+  <thead>
+    <tr>
+      <th>Característica</th>
+      <th>Detalle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Edad promedio</td>
+      <td>Entre 20 y 55 años</td>
+    </tr>
+    <tr>
+      <td>Formación</td>
+      <td>Educación básica o técnica</td>
+    </tr>
+    <tr>
+      <td>Acceso a tecnología</td>
+      <td>Celulares Android de gama media o baja; familiarizados con apps simples como WhatsApp</td>
+    </tr>
+    <tr>
+      <td>Necesidades clave</td>
+      <td>Recibir tareas claras, registrar avances fácilmente (idealmente con fotos), y usar una app sencilla y directa</td>
+    </tr>
+  </tbody>
+</table>
+
+- **Ejemplo contextual:** 
+
+En zonas agrícolas del sur andino o la costa central, donde la producción artesanal de vino es una actividad importante, se observa una alta dependencia del trabajo manual, baja digitalización y una creciente apertura a herramientas móviles que faciliten la coordinación y documentación del trabajo diario.
