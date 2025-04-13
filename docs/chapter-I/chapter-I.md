@@ -271,4 +271,6 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
   <img src="../../assets/img/chapter-I/lean-ux-canvas-metasoft.png" style="width:1000px; height:auto;" alt="">
 </p>
 
+<p align = "center"> <em> Fuente: Elaboración propia </em> </p>
+
 ## 1.3. Segmentos objetivos
