@@ -222,7 +222,50 @@ Una de las funcionalidades más destacadas de ElixirLine es su sistema de notifi
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX: [Creemos que], [Esto logrará] y [Sabremos que]
 
+- - -
+- **Hipótesis 1:**
+
+**Creemos que** si ofrecemos una plataforma que permita al vinicultor planificar, asignar y monitorear tareas desde el celular, entonces
+
+**Esto logrará** mejorar la organización del proceso productivo y reducir errores por descoordinación.
+
+**Sabremos que** estamos en lo cierto cuando observemos que al menos el 60% de los vinicultores usan la app al menos una vez al día durante la campaña productiva, y se reporta una disminución del 30% en tareas duplicadas o mal ejecutadas.
+- - -
+- **Hipótesis 2:**
+
+**Creemos que** si el trabajador de campo puede acceder fácilmente a sus tareas diarias y registrar avances en la app, entonces
+
+**Esto logrará** una mayor eficiencia en la ejecución de labores agrícolas.
+
+**Sabremos que** estamos en lo cierto cuando el 70% de los trabajadores usen la app durante su jornada y el tiempo promedio de ejecución de tareas críticas se reduzca en al menos 20%.
+
+- - -
+- **Hipótesis 3:**
+
+**Creemos que si** ofrecemos una interfaz intuitiva y adaptada al entorno rural (visual, clara y sin requerir internet constante), entonces 
+
+**Esto logrará** una adopción más rápida entre usuarios con poca experiencia digital.
+
+**Sabremos que** estamos en lo cierto cuando al menos el 80% de los usuarios nuevos puedan completar sus primeras tareas sin requerir asistencia o tutoriales extensos.
+- - -
+- **Hipótesis 4:**
+
+**Creemos que si** integramos alertas y reportes visuales para el vinicultor, entonces 
+
+**Esto logrará** una mejor toma de decisiones y control sobre el estado general del viñedo.
+
+**Sabremos que** estamos en lo cierto cuando los vinicultores logren anticiparse a problemas recurrentes (plagas, falta de insumos) y reporten una mejora en su percepción del control operativo.
+- - -
+- **Hipótesis 5:**
+
+**Creemos que** si ofrecemos planes de suscripción flexibles y módulos adicionales por uso (como reportes detallados o predicciones climáticas), entonces 
+
+**Esto logrará** una monetización efectiva sin excluir a pequeños productores.
+
+**Sabremos que** estamos en lo cierto cuando al menos el 30% de los usuarios activos adquieran módulos adicionales o se suscriban a un plan pago dentro de los primeros 6 meses de lanzamiento.
+- - -
 #### 1.2.2.4. Lean UX Canvas
 
 
