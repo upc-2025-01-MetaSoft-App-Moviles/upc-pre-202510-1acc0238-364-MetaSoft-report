@@ -180,6 +180,46 @@ Sabremos que tenemos éxito cuando veamos **que nuestros usuarios adoptan la apl
 
   - Sentirse más valorados al tener una herramienta que los organiza y respalda.
 
+- - -
+**Business Assumptions:**
+
+- Creemos que el mercado de la vitivinicultura artesanal en América Latina está subatendido tecnológicamente.
+
+
+- Asumimos que hay una alta disposición a adoptar herramientas que simplifiquen la gestión del viñedo sin necesidad de conocimientos técnicos.
+
+
+- Consideramos que un modelo basado en suscripciones escalables y módulos adicionales es rentable y sostenible en el tiempo.
+
+
+**User Assumptions**
+
+- **¿Quién utiliza nuestra plataforma?**
+
+Nuestra plataforma está diseñada para ser utilizada principalmente por productores de vino artesanal (vinicultores) que supervisan el ciclo completo de producción, desde el manejo del viñedo hasta el embotellado, y por trabajadores rurales que ejecutan labores agrícolas en terreno, como la poda, el riego, la fertilización y el control de plagas. Ambos perfiles comparten la necesidad de herramientas prácticas que les permitan mejorar la organización, el control y la comunicación en sus labores diarias.
+
+- **¿Cómo se integra en su rutina?**
+
+El vinicultor inicia su jornada utilizando la aplicación en su celular para revisar el estado del viñedo, asignar tareas al equipo y consultar reportes de días anteriores. Durante la jornada, los trabajadores de campo acceden a la plataforma desde sus propios dispositivos o los proporcionados por el empleador para consultar las tareas asignadas, registrar avances, subir fotos de incidencias o cumplimientos, y marcar el estado de finalización. Al finalizar el día, el vinicultor puede revisar lo realizado y generar reportes automáticamente.
+
+- **¿Qué desafíos resuelve?**
+
+La plataforma resuelve varios desafíos comunes en la producción de vino artesanal: la falta de trazabilidad de actividades e insumos, la desorganización de tareas, la pérdida o dispersión de datos importantes (que a menudo quedan en papel o en la memoria), las dificultades de comunicación en campo debido a la desconexión tecnológica, y los errores frecuentes asociados a métodos manuales o poco sistemáticos de gestión.
+
+- **¿Qué imagen queremos proyectar?**
+
+Queremos que ElixirLine sea percibida como una tecnología que se adapta a las necesidades del mundo rural: accesible, cercana, confiable y fácil de usar. Una herramienta que no reemplaza la experiencia del vinicultor ni las prácticas tradicionales, sino que las potencia y las organiza, brindando un apoyo real que mejora la eficiencia sin complicar los procesos.
+
+- **¿Propósito fundamental?**
+
+Nuestro propósito es ofrecer una solución simple, intuitiva y poderosa para gestionar todos los aspectos agrícolas y productivos del vino artesanal desde el celular. Queremos transformar la forma en que se planifican, ejecutan y registran las tareas en los viñedos, facilitando la vida de quienes están en terreno y permitiendo una toma de decisiones más informada y eficiente.
+
+- **¿Qué funcionalidades destacan?**
+
+Una de las funcionalidades más destacadas de ElixirLine es su sistema de notificaciones y reportes simplificados, que permite tanto a vinicultores como a trabajadores de campo recibir alertas importantes en tiempo real, estar al tanto de cambios en las tareas asignadas y acceder a informes visuales y fáciles de interpretar sobre el avance de actividades, consumo de insumos y estado general del viñedo, todo desde una interfaz clara y accesible.
+
+- - -
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 
