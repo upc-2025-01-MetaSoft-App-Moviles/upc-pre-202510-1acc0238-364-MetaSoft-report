@@ -148,6 +148,37 @@ Sabremos que tenemos éxito cuando veamos **que nuestros usuarios adoptan la apl
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Users:**
+
+- Vinicultores: Productores responsables de planificar, organizar y supervisar el ciclo completo de producción vitivinícola.
+
+
+- Trabajadores de campo: Ejecutores directos de tareas agrícolas como poda, riego, fumigación y cosecha, bajo indicaciones del vinicultor.
+
+- - -
+
+**User Outcomes**
+
+- **Vinicultores:**
+
+  - Tener una visión clara y en tiempo real de todas las etapas del proceso productivo.
+
+  - Poder planificar y asignar tareas fácilmente desde el celular.
+
+  - Reducir pérdidas por desorganización y mejorar la trazabilidad.
+
+  - Obtener reportes y registros digitales para tomar mejores decisiones.
+
+
+- **Trabajadores de campo:**
+
+  - Acceder a una lista clara de tareas diarias sin necesidad de esperar instrucciones presenciales.
+
+  - Registrar sus avances de forma rápida y sencilla.
+
+  - Recibir notificaciones cuando haya un cambio en sus labores o alertas urgentes.
+
+  - Sentirse más valorados al tener una herramienta que los organiza y respalda.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
