@@ -403,13 +403,663 @@
         <!-- ================== Relacionado con EPIC ================== --> 
         <td>EPIC-09</td>
     </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 09 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-09 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 09 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 09
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 09 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 09</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 10 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-10 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 10 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 10
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 10 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 10</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 11 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-11 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 11 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 11
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 11 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 11</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 12 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-12 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 12 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 12
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 12 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 12</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 13 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-13 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 13 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 13
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 13 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 13</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 14 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-14 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 14 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 14
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 14 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 14</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 15 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-15 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 15 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 15
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 15 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 15</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 16 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-16 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 16 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 16
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 16 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 16</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 17 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-17 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 17 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 17
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 17 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 17</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 18 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-18 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 18 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 18
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 18 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 18 </strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 19 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-19 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 19 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 19
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 19 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 19</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 20 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-20 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 20 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 20
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 20 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 20</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 21 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-21 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 21 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 21
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 21 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 21</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 22 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-22 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 22 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 22
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 22 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 22</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 23 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-23 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 23 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 23
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 23 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 23</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 24 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-24 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 24 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 24
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 24 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 24</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 25 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-25 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 25 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 25
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 25 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 25</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 26 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-26 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 26 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 26
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 26 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 26</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 27 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-27 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 27 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 27
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 27 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 27</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 28 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-28 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 28 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 28
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 28 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 28</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 29 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-29 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 29 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 29
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 29 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 29</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 30 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-30 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 30 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 30
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 30 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 30</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 31 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-31 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 31 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 31
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 31 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 31</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 32 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-32 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 32 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 32
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 32 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 32</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 33 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-33 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 33 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 33
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 33 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 33</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 34 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-34 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 34 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 34
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 34 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 34</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 35 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-35 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 35 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 35
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 35 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 35</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 36 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-36 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 36 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 36
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 36 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 36</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 37 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-37 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 37 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 37
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 37 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 37</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 38 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-38 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 38 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 38
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 38 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 38</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 39 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-39 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 39 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 39
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 39 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 39</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 40 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-40 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 40 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 40
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 40 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 40</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 41 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-41 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 41 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 41
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 41 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 41</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 42 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <td> US-42 </td>
+        <!-- ================== Título ================== -->
+        <td> Título User Story 42 </td>
+        <!-- ================== Descripción ================== -->
+        <td> 
+            Descripción User Story 42
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: User Story 42 </strong><br><br>
+            <br><br>
+            <strong>Scenario 2: User Story 42</strong><br><br>
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td> Epic-# </td>
+    </tr>
 </tbody>
 </table>
-
-
 
 
 ## 3.3. Impact Mapping.
 
 
 ## 3.4. Product Backlog.
+
+
+
+
+
+
