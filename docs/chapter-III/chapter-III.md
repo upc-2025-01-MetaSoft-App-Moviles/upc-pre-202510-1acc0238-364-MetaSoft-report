@@ -155,6 +155,257 @@
 
 ---
 
+<table>
+<thead>
+    <tr>
+        <th> Story ID </th>
+        <th> Título </th>
+        <th> Descripción </th>
+        <th> Criterios de Aceptación </th>
+        <th> Relacionado con (Epic ID) </th>
+    </tr>
+</thead>
+<tbody>
+    <!-- /////////////////////////////////// FILA DE USER STORY 01 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+     <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-01</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Hipervínculos en el encabezado
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante que llega a la landing page, quiero que los hipervínculos en el 
+            encabezado sean claramente visibles y funcionales para poder navegar fácilmente 
+            por la aplicación.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong> Scenario 1: Visualización clara de enlaces de navegación </strong> <br>
+            Given un visitante en la landing page<br>
+            When el sitio web se carga completamente<br>
+            Then los hipervínculos en el encabezado están disponibles para el usuario.
+            <br><br>
+            <strong> Scenario 2: Navegación efectiva mediante hipervínculos </strong> <br>
+            Given un visitante en la landing page <br>
+            When el visitante hace clic en cualquier hipervínculo en el encabezado <br>
+            Then es redirigido a la sección correspondiente de la landing page.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 02 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-02</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Introducción clara y atractiva sobre ElixirLine
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante que llega a la landing page, quiero una introducción clara y 
+            atractiva a la aplicación ElixirLine, para entender de forma rápida su propósito 
+            y cómo puede ayudarme en el proceso productivo de vinos.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Introducción visible desde el primer vistazo </strong><br><br>
+            Given un visitante en la landing page <br>
+            When el visitante llega a la página <br>
+            Then la introducción de la aplicación está visible y 
+            presenta claramente el propósito de ElixirLine.
+            <br><br>
+            <strong>Scenario 2: Comunicación efectiva del propósito de ElixirLine </strong><br><br>
+            Given un visitante en la landing page<br>
+            When el visitante lee la introducción<br>
+            Then puede entender el propósito de la aplicación y cómo ayuda en el proceso productivo de vinos.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 03 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-03</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Información sobre beneficios de la aplicación
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante con rol de vinicultor que evalúa diferentes opciones, quiero ver los 
+            beneficios específicos de usar ElixirLine, para comprender cómo puede mejorar la operabilidad del 
+            proceso productivo de vinos.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Visualización clara de los beneficios</strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante accede a la sección de beneficios<br>
+            Then los beneficios específicos de ElixirLine están claramente visibles.
+            <br><br>
+            <strong>Scenario 2: Comprensión del valor de ElixirLine para vinicultores</strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante revisa los beneficios<br>
+            Then puede comprender cómo la aplicación mejora la gestión de inventario y procesos de venta.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 04 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-04</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Opciones de precios claras para decisiones informadas
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante con rol de vinicultor e interesado en adquirir ElixirLine, quiero 
+            ver una tabla de precios clara y detallada, para tomar una decisión informada sobre 
+            el plan que mejor se adapta a mis necesidades.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Sección de precios accesible y legible </strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante accede a la sección de precios<br>
+            Then las opciones de precios están claramente visibles.
+            <br><br>
+            <strong>Scenario 2: Comparación fácil entre planes disponibles</strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante revisa las opciones de precios<br>
+            Then puede comparar las características de cada plan y tomar una decisión informada.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== --> 
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 05 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-05</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Acceso fácil a soporte y asesoramiento
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante que tiene preguntas adicionales, quiero encontrar fácilmente la 
+            información de contacto, para poder comunicarme con el soporte o el equipo de 
+            ventas de ElixirLine.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Acceso directo a la información de contacto </strong><br><br>
+            Given un visitante en la landing page<br>
+            When el visitante llega a la sección de contacto<br>
+            Then puede encontrar la información de contacto para comunicarse con el equipo de soporte o ventas.
+            <br><br>     
+            <strong>Scenario 2: Opción de enviar consultas desde la landing page </strong><br><br>
+            Given un visitante en la landing page<br> 
+            When el visitante busca realizar una consulta<br> 
+            Then tiene la opción de enviar su consulta a través de los canales de contacto disponibles.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 06 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-06</td>
+        <!-- ================== Título ================== -->
+        <td>
+            Opiniones de usuarios que inspiran confianza
+        </td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante con rol de vinicultor que está considerando usar ElixirLine, quiero 
+            leer testimonios de otros usuarios, para conocer sus experiencias y validar la 
+            efectividad de la aplicación.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Testimonios visibles en sección dedicada</strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante llega a la sección de testimonios<br>
+            Then puede leer las opiniones de otros usuarios de ElixirLine.
+            <br><br>
+            <strong>Scenario 2: Validación de la efectividad mediante experiencias de usuarios</strong><br><br>
+            Given un vinicultor en la landing page<br>
+            When el visitante revisa los testimonios<br>
+            Then puede validar la efectividad de la aplicación a partir de las experiencias compartidas.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 07 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-07</td>
+        <!-- ================== Título ================== -->
+        <td> Navegación fluida en dispositivos móviles </td>
+        <!-- ================== Descripción ================== -->  
+        <td>
+            Como visitante que llega a la landing page, quiero que la navegación de la landing page 
+            sea fácil y fluida en mi dispositivo móvil, para poder acceder a la información sin 
+            interrupciones o problemas de visualización.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Fluidez en la navegación móvil </strong><br><br>
+            Given un usuario accede a la landing page desde un dispositivo móvil<br>
+            When carga el sitio web en su totalidad<br>
+            Then la navegación es fluida y sin problemas de desplazamiento o funcionalidad.
+            <br><br>
+            <strong>Scenario 2: Menús responsive adaptados a pantallas pequeñas</strong><br><br>
+            Given un usuario accede desde un dispositivo móvil<br>
+            When intenta utilizar los menús de navegación<br>
+            Then los menús se adaptan correctamente al tamaño de pantalla y permiten una navegación eficiente.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== -->
+        <td>EPIC-09</td>
+    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY 08 /////////////////////////////////// -->
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+    <tr>
+        <!-- ================== Story ID ================== -->
+        <td>US-08</td>
+        <!-- ================== Título ================== -->
+        <td>Adaptación de la landing page en tabletas</td>
+        <!-- ================== Descripción ================== -->
+        <td>
+            Como visitante que llega a la landing page, quiero que la navegación de la landing 
+            page sea fácil y fluida en mi dispositivo móvil, para poder acceder a la información
+            sin interrupciones o problemas de visualización.
+        </td>
+        <!-- ================== Criterios de Aceptación ================== -->
+        <td>
+            <strong>Scenario 1: Contenido optimizado para pantallas de tabletas </strong><br><br>
+            Given un usuario accede a la landing page desde una tableta<br>
+            When se carga el sitio web completamente<br>
+            Then el contenido se ajusta adecuadamente al tamaño de la pantalla de la tableta.
+            <br><br>    
+            <strong>Scenario 2: Proporción adecuada de imágenes y textos en tabletas </strong><br><br>
+            Given un usuario accede desde una tableta<br>   
+            When revisa la disposición de imágenes y textos<br>   
+            Then estos elementos mantienen las proporciones correctas y son legibles.
+        </td>
+        <!-- ================== Relacionado con EPIC ================== --> 
+        <td>EPIC-09</td>
+    </tr>
+</tbody>
+</table>
+
 
 
 
