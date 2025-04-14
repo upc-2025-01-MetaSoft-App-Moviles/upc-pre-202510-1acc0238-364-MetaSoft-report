@@ -558,114 +558,145 @@
     <tr>
         <td> US-15 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 15 </td>
+        <td> Asignación de Tareas a Parcela y Trabajador </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 15
+            Como vinicultor, quiero asignar tareas específicas a trabajadores en parcelas concretas, para coordinar eficientemente las actividades del campo.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 15 </strong><br><br>
+            <strong>Scenario 1: Asignación detallada</strong><br><br>
+            Given el vinicultor accede al panel de tareas<br>
+            When selecciona una tarea y un trabajador<br>
+            Then puede asignarla a una parcela específica y establecer fecha de ejecución.
             <br><br>
-            <strong>Scenario 2: User Story 15</strong><br><br>
+            <strong>Scenario 2: Notificación al trabajador</strong><br><br>
+            Given una tarea ha sido asignada<br>
+            When se guarda la asignación<br>
+            Then el trabajador recibe la notificación correspondiente en su dispositivo.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 16 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-16 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 16 </td>
+        <td> Consulta del Historial de Actividades Agrícolas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 16
+            Como vinicultor, quiero consultar el historial de actividades realizadas en cada lote, para tener un registro claro y tomar decisiones informadas.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 16 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 16</strong><br><br>
+            <strong>Scenario 1: Filtro de historial</strong><br><br>
+            Given el vinicultor accede al módulo de historial<br>
+            When aplica filtros por lote o fecha<br>
+            Then se muestra una lista con las tareas realizadas y sus detalles.<br><br>
+            <strong>Scenario 2: Visualización completa</strong><br><br>
+            Given una tarea histórica seleccionada<br>
+            When revisa los detalles<br>
+            Then puede ver el trabajador, fecha, insumos utilizados y comentarios adjuntos.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-05 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 17 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-17 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 17 </td>
+        <td> Panel de Notificaciones de Campo </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 17
+            Como vinicultor, quiero recibir notificaciones en tiempo real de incidencias o tareas completadas, para estar al tanto del progreso y actuar rápidamente si hay problemas.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 17 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 17</strong><br><br>
+            <strong>Scenario 1: Alerta de incidencia</strong><br><br>
+            Given un trabajador reporta una incidencia<br>
+            When se envía el formulario<br>
+            Then el vinicultor recibe una notificación con los detalles del evento.<br><br>
+            <strong>Scenario 2: Notificación de tarea completada</strong><br><br>
+            Given una tarea es marcada como completada<br>
+            When el sistema actualiza el estado<br>
+            Then se notifica al vinicultor con la información del lote y el trabajador.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 18 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-18 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 18 </td>
+        <td> Visualización de Tareas Asignadas desde el Móvil </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 18
+            Como trabajador de campo, quiero ver las tareas que me han sido asignadas en mi celular, para saber qué actividades debo realizar en el día y dónde.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 18 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 18 </strong><br><br>
+            <strong>Scenario 1: Lista de tareas diarias</strong><br><br>
+            Given el trabajador inicia sesión en su dispositivo<br>
+            When accede a su perfil<br>
+            Then ve las tareas asignadas con fecha, ubicación e instrucciones.<br><br>
+            <strong>Scenario 2: Gestión del estado de tareas</strong><br><br>
+            Given el trabajador realiza una tarea<br>
+            When actualiza el estado<br>
+            Then puede marcarla como “En progreso” o “Completada”.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 19 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-19 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 19 </td>
+        <td> Registro Rápido de Incidencias </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 19
+            Como trabajador de campo, quiero registrar rápidamente una incidencia como una plaga o problema técnico, para que el vinicultor pueda tomar acción cuanto antes.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 19 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 19</strong><br><br>
+            <strong>Scenario 1: Creación rápida de reporte</strong><br><br>
+            Given el trabajador detecta una incidencia<br>
+            When accede al formulario de reporte<br>
+            Then puede ingresar descripción, foto y ubicación del problema.<br><br>
+            <strong>Scenario 2: Envío y notificación</strong><br><br>
+            Given un reporte ha sido completado<br>
+            When lo envía<br>
+            Then el vinicultor es notificado inmediatamente con los datos ingresados.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 20 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-20 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 20 </td>
+        <td> Modo Simplificado con Íconos Grandes </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 20
+            Como trabajador con poca experiencia digital, quiero una interfaz con íconos grandes y pasos guiados, para poder usar la app sin confundirme o perderme.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 20 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 20</strong><br><br>
+            <strong>Scenario 1: Activación del modo simplificado</strong><br><br>
+            Given el trabajador accede a la app<br>
+            When elige el modo de uso<br>
+            Then puede activar el modo con íconos grandes y navegación guiada.<br><br>
+            <strong>Scenario 2: Flujo asistido</strong><br><br>
+            Given el modo está activado<br>
+            When realiza una acción como “Registrar tarea”<br>
+            Then recibe instrucciones paso a paso para completarla correctamente.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-06 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 21 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
