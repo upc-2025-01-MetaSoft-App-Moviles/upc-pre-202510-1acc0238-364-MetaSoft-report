@@ -3,7 +3,7 @@
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
-ElixirLine es una startup tecnológica fundada en el año 2025, integrada por estudiantes de la carrera de Ingeniería de Software. Nos especializamos en el desarrollo de soluciones digitales que integran tecnología avanzada con procesos tradicionales.
+MetaSoft es una startup tecnológica fundada en el año 2025, integrada por estudiantes de la carrera de Ingeniería de Software. Nos especializamos en el desarrollo de soluciones digitales que integran tecnología avanzada con procesos tradicionales.
 
 Nuestra propuesta nace de la necesidad real de los vinicultores y trabajadores rurales de contar con herramientas accesibles y potentes que les permitan gestionar sus actividades de forma ordenada, eficiente y en tiempo real. Con un enfoque centrado en el usuario, buscamos que la digitalización sea un aliado para los trabajadores del campo fomentando la autonomía de los productores, la eficiencia operativa y el fortalecimiento de una vitivinicultura más sostenible, rentable y moderna.
 
@@ -37,7 +37,7 @@ Nuestro modelo de ingresos se basa en suscripciones con distintos niveles de ser
 
 El proceso de producción en la industria vitivinícola es altamente estructurado y riguroso, ya que cada etapa desde el cultivo de la uva hasta la vinificación y distribución influye directamente en la calidad final del vino. Este nivel de exigencia requiere una gestión cuidadosa, en la que la planificación, la coordinación y el control de cada actividad son determinantes para lograr un producto competitivo y coherente con los estándares del mercado. En ese sentido, Mejía (2023) destaca que:
 
-    En el sector vitivinícola, al igual que en muchas otras industrias, la gestión adecuada de la cadena de suministro es de vital importancia para garantizar la producción y distribución eficiente de vinos de alta calidad. Desde el cultivo de las uvas hasta el consumo final, cada etapa desempeña un papel crucial en el éxito de la industria” (p. 26).
+>En el sector vitivinícola, al igual que en muchas otras industrias, la gestión adecuada de la cadena de suministro es de vital importancia para garantizar la producción y distribución eficiente de vinos de alta calidad. Desde el cultivo de las uvas hasta el consumo final, cada etapa desempeña un papel crucial en el éxito de la industria” (p. 26).
 
 A pesar de la importancia de este proceso estructurado, en muchos viñedos artesanales aún persiste el uso de métodos manuales e informales. Tareas como la poda, el riego, la cosecha o la aplicación de tratamientos suelen ejecutarse sin registros sistemáticos, confiando en cuadernos físicos o en la comunicación verbal entre trabajadores y productores. Esta falta de automatización y trazabilidad aumenta el riesgo de errores humanos, lo que puede afectar seriamente el desarrollo del cultivo y comprometer la calidad del producto final. En un entorno donde el control de cada variable es crítico, cualquier descoordinación puede alterar todo el proceso.
 
