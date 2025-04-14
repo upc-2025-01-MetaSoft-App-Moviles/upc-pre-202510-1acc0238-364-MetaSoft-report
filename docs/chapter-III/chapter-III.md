@@ -408,114 +408,150 @@
     <tr>
         <td> US-09 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 09 </td>
+        <td> 	Registro del lote de uvas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 09
+            Como vinicultor, quiero registrar los datos del lote de uvas al ingresar a la bodega, para llevar un control desde el inicio del proceso de vinificación.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 09 </strong><br><br>
+            <strong>Scenario 1: Registro de información del lote recibido </strong><br><br>
+            Given un vinicultor en la interfaz de registro <br>
+            When recibe un nuevo lote <br>
+            Then puede ingresar variedad, peso, fecha de recolección.
             <br><br>
-            <strong>Scenario 2: User Story 09</strong><br><br>
+            <strong>Scenario 2: Asignación de identificador único al lote </strong><br><br>
+            Given un lote registrado <br>
+            When se completa el formulario <br>
+            Then se guarda con un identificador único y fecha de ingreso.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 10 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-10 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 10 </td>
+        <td> Seguimiento de la fermentación </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 10
+            Como vinicultor, quiero registrar y consultar los parámetros de fermentación, para asegurar que se mantengan dentro de los rangos adecuados.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 10 </strong><br><br>
+            <strong>Scenario 1: Ingreso de parámetros durante fermentación </strong><br><br>
+            Given un vinicultor accede al módulo de fermentación<br>
+            When se realiza una medición<br>
+            Then puede registrar temperatura, densidad y pH.
             <br><br>
-            <strong>Scenario 2: User Story 10</strong><br><br>
+            <strong>Scenario 2: Alerta por desviación de parámetros </strong><br><br>
+            Given un lote en fermentación<br>
+            When revisa su historial<br>
+            Then puede ver la evolución de parámetros y recibir alertas si hay desviaciones.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 11 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-11 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 11 </td>
+        <td> Control de la fase de clarificación </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 11
+            Como vinicultor, quiero registrar el inicio y los productos usados en la clarificación, para asegurar la transparencia del vino y cumplir con las especificaciones.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 11 </strong><br><br>
+            <strong>Scenario 1: Registro de productos utilizados en clarificación </strong><br><br>
+            Given un lote que pasa a clarificación <br>
+            When se registra la fase <br>
+            Then se indican los insumos aplicados y la fecha de inicio.
             <br><br>
-            <strong>Scenario 2: User Story 11</strong><br><br>
+            <strong>Scenario 2: Consulta de análisis post-clarificación </strong><br><br>
+            Given un lote en clarificación <br>
+            When accede al seguimiento <br>
+            Then puede ver resultados de análisis posteriores y definir el tiempo de espera.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 12 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-12 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 12 </td>
+        <td> Gestión del prensado </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 12
+            Como vinicultor, quiero registrar la fase de prensado y su rendimiento, para evaluar la eficiencia del proceso y planificar las siguientes etapas.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 12 </strong><br><br>
+            <strong>Scenario 1: Ingreso de datos del proceso de prensado </strong><br><br>
+            Given un lote listo para prensar <br>
+            When se inicia la fase <br>
+            Then se ingresan los datos de máquina usada, duración y rendimiento.
             <br><br>
-            <strong>Scenario 2: User Story 12</strong><br><br>
+            <strong>Scenario 2: Evaluación del rendimiento del prensado </strong><br><br>
+            Given un prensado realizado <br>
+            When se revisa el resumen <br>
+            Then se muestra cantidad extraída y porcentaje respecto al lote original.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 13 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-13 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 13 </td>
+        <td> Control del añejamiento </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 13
+            Como vinicultor, quiero registrar el inicio del añejamiento y los parámetros del ambiente, para mantener la calidad del producto durante esta fase.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 13 </strong><br><br>
+            <strong>Scenario 1: Registro de condiciones iniciales del añejamiento </strong><br><br>
+            Given un lote en barricas <br>
+            When se inicia el proceso <br>
+            Then se registra tipo de barrica, humedad, temperatura y duración estimada.
             <br><br>
-            <strong>Scenario 2: User Story 13</strong><br><br>
+            <strong>Scenario 2: Seguimiento del ambiente en añejamiento </strong><br><br>
+            Given un vinicultor revisando el proceso <br>
+            When accede al seguimiento <br>
+            Then puede consultar cambios de parámetros y notas técnicas.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 14 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-14 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 14 </td>
+        <td> Registro del embotellado </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 14
+            Como vinicultor, quiero registrar los detalles del embotellado final, para cerrar el ciclo del lote con toda la trazabilidad documentada.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 14 </strong><br><br>
+            <strong>Scenario 1: Ingreso de datos del embotellado final </strong><br><br>
+            Given un lote listo para embotellar <br>
+            When se realiza la operación <br>
+            Then se indican fecha, cantidad de botellas, tipo de envase y etiqueta.
             <br><br>
-            <strong>Scenario 2: User Story 14</strong><br><br>
+            <strong>Scenario 2: Visualización de trazabilidad completa </strong><br><br>
+            Given un lote embotellado <br>
+            When accede al resumen <br>
+            Then se visualiza toda la trazabilidad del lote desde la recepción hasta el embotellado.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 15 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
