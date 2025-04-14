@@ -698,120 +698,150 @@
         <!-- ================== Relacionado con EPIC ================== -->
         <td> EPIC-06 </td>
     </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 21 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-21 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 21 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 21
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 21 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 21</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 22 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-22 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 22 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 22
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 22 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 22</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 23 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-23 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 23 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 23
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 23 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 23</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 24 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-24 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 24 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 24
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 24 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 24</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 25 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-25 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 25 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 25
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 25 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 25</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
-    <!-- /////////////////////////////////// FILA DE USER STORY 26 /////////////////////////////////// -->
-    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
-    <tr>
-        <td> US-26 </td>
-        <!-- ================== Título ================== -->
-        <td> Título User Story 26 </td>
-        <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 26
-        </td>
-        <!-- ================== Criterios de Aceptación ================== -->
-        <td>
-            <strong>Scenario 1: User Story 26 </strong><br><br>
-            <br><br>
-            <strong>Scenario 2: User Story 26</strong><br><br>
-        </td>
-        <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
-    </tr>
+    <!-- /////////////////////////////////// FILA DE USER STORY US-21 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-21 </td>
+    <!-- ================== Título ================== -->
+    <td> Registro de insumos en bodega y campo </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como vinicultor, necesito registrar manualmente el inventario de insumos tanto en la bodega como en el campo, para disponer de información actualizada y facilitar mis decisiones de reabastecimiento.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Registro con datos completos</strong><br><br>
+        Given que se inicia el registro de un insumo,<br>
+        When se ingresan todos los datos obligatorios (nombre, cantidad, ubicación),<br>
+        Then el sistema almacena la información y confirma el registro.<br><br>
+        <strong>Scenario 2: Validación de campos obligatorios</strong><br><br>
+        Given que se intenta registrar un insumo sin datos obligatorios,<br>
+        When se finaliza el proceso de registro,<br>
+        Then el sistema rechaza el registro e indica los datos faltantes.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-02 </td>
+</tr>
+<!-- /////////////////////////////////// FILA DE USER STORY US-22 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-22 </td>
+    <!-- ================== Título ================== -->
+    <td> Actualización manual de detalles de insumos </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como vinicultor, necesito poder actualizar los detalles de un insumo registrado en campo o bodega, para corregir errores o modificar información según requerimientos.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Actualización exitosa de insumo</strong><br><br>
+        Given que existe un insumo previamente registrado,<br>
+        When se ingresan cambios válidos en la información,<br>
+        Then el sistema guarda la actualización y confirma el cambio.<br><br>
+        <strong>Scenario 2: Manejo de intento de actualización inexistente</strong><br><br>
+        Given que se intenta actualizar un insumo no registrado,<br>
+        When se procesa la solicitud de actualización,<br>
+        Then el sistema retorna un mensaje de error indicando que el insumo no existe.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-02 </td>
+</tr>
+<!-- /////////////////////////////////// FILA DE USER STORY US-23 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-23 </td>
+    <!-- ================== Título ================== -->
+    <td> Consulta histórica del inventario de insumos </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como vinicultor, necesito consultar el historial de registros de insumos, para analizar la evolución de mi inventario y apoyar mis decisiones de gestión sin depender de actualizaciones en tiempo real.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Búsqueda por fecha</strong><br><br>
+        Given que se solicita el historial del inventario,<br>
+        When se filtra la información por un rango de fechas,<br>
+        Then el sistema muestra un listado con los registros de insumos correspondientes.<br><br>
+        <strong>Scenario 2: Visualización de información histórica</strong><br><br>
+        Given que se accede al historial general,<br>
+        When se visualizan los registros,<br>
+        Then cada entrada presenta los datos ingresados y la fecha de registro de forma comprobable.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-02 </td>
+</tr>
+<!-- /////////////////////////////////// FILA DE USER STORY US-24 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-24 </td>
+    <!-- ================== Título ================== -->
+    <td> Modo tutorial interactivo inicial </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como trabajador de campo, necesito que la aplicación ofrezca un tutorial interactivo en el primer uso, para aprender a utilizar las funciones básicas de forma guiada y sin complicaciones.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Presentación del tutorial en el primer acceso</strong><br><br>
+        Given que el trabajador inicia la aplicación por primera vez,<br>
+        When se inicia la sesión inicial,<br>
+        Then el sistema despliega un tutorial interactivo que explica las funciones básicas.<br><br>
+        <strong>Scenario 2: Acceso a repetición del tutorial</strong><br><br>
+        Given que el trabajador requiere repasar el funcionamiento,<br>
+        When solicita el tutorial nuevamente desde la sección de ayuda,<br>
+        Then el sistema permite reproducir la guía interactiva.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-06 </td>
+</tr>
+<!-- /////////////////////////////////// FILA DE USER STORY US-25 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-25 </td>
+    <!-- ================== Título ================== -->
+    <td> Navegación simplificada en la aplicación móvil </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como trabajador de campo, necesito una navegación intuitiva y organizada en la aplicación móvil, para acceder de forma sencilla a mis tareas e información esencial sin distracciones.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Organización clara de secciones</strong><br><br>
+        Given que se requiere acceder a funcionalidades de la aplicación,<br>
+        When se visualiza el menú principal,<br>
+        Then las secciones se presentan de forma organizada y con iconografía clara.<br><br>
+        <strong>Scenario 2: Accesibilidad sin complejidad</strong><br><br>
+        Given que el trabajador interactúa con la aplicación,<br>
+        When se selecciona una función, por ejemplo "Consultar tareas",<br>
+        Then el sistema redirige a la sección correspondiente sin requerir pasos adicionales complejos.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-06 </td>
+</tr>
+<!-- /////////////////////////////////// FILA DE USER STORY US-26 /////////////////////////////////// -->
+<!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+<tr>
+    <td> US-26 </td>
+    <!-- ================== Título ================== -->
+    <td> Retroalimentación de acciones sin dependencia de monitoreo en tiempo real </td>
+    <!-- ================== Descripción ================== -->
+    <td> 
+        Como trabajador de campo, necesito recibir confirmación visual y auditiva de las acciones que realice, para tener seguridad de que se han completado, sin depender de actualizaciones instantáneas en la nube.
+    </td>
+    <!-- ================== Criterios de Aceptación ================== -->
+    <td>
+        <strong>Scenario 1: Confirmación inmediata de la acción</strong><br><br>
+        Given que el trabajador ejecuta una acción, por ejemplo "Registrar actividad",<br>
+        When se finaliza la acción,<br>
+        Then el sistema muestra un mensaje de confirmación y emite una señal auditiva de éxito.<br><br>
+        <strong>Scenario 2: Disponibilidad de confirmación en modo offline</strong><br><br>
+        Given que el trabajador está en modo offline,<br>
+        When realiza una acción,<br>
+        Then el sistema almacena la acción localmente y muestra un aviso confirmatorio en la pantalla.
+    </td>
+    <!-- ================== Relacionado con EPIC ================== -->
+    <td> EPIC-06 </td>
+</tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 27 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
