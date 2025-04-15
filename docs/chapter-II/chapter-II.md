@@ -21,7 +21,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th> <img width="100" alt="Logo_ExilirControl" src="../../assets/img/chapter-II/Logo_ExilirControl.png"> </th>
+            <th> <img width="100" alt="Logo_ExilirLine" src="../../assets/img/chapter-II/Logo_ExilirLine.png"> </th>
             <th><img src="../../assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
             <th><img src="../../assets/img/chapter-II/Logo_WineManager.png" width="100" alt="Logo_WineManager"></th>
             <th><img src="../../assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
@@ -29,7 +29,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
         <tr>
             <th rowspan="2"> <strong> Perfil </strong> </th>
             <td> Overview</td>
-            <td>ElixirControl es una plataforma completa enfocada en la gestión del proceso productivo de vinos y pisco. Integra herramientas para administrar inventarios, pedidos y el proceso de vinificación, con el objetivo de optimizar la eficiencia y mejorar la toma de decisiones.</td>
+            <td>ElixirLine es una plataforma completa enfocada en la gestión del proceso productivo de vinos y pisco. Integra herramientas para administrar inventarios, pedidos y el proceso de vinificación, con el objetivo de optimizar la eficiencia y mejorar la toma de decisiones.</td>
             <td>Vinotec es un software integral de gestión para bodegas y productores de vino. Su propósito es mejorar la eficiencia del proceso productivo y de ventas, facilitando el control de producción.</td>
             <td>WineManager brinda soluciones específicas para el sector vitivinícola, con funciones de control de inventario, seguimiento de pedidos y análisis de ventas, enfocándose en integrar información para respaldar decisiones estratégicas.</td>
             <td>VinTrace está orientado a la gestión de viñedos y seguimiento de la producción de vinos. Dispone de herramientas para planificación agrícola, registro de actividades y documentación de cosechas, priorizando el cumplimiento normativo y la calidad.</td>
@@ -129,11 +129,11 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
         </tr>
         <tr>
             <td>
-                1. El aumento del interés en sistemas de gestión para la industria vitivinícola representa una oportunidad clave para ElixirControl.<br>
+                1. El aumento del interés en sistemas de gestión para la industria vitivinícola representa una oportunidad clave para ElixirLine.<br>
                 2. Existen posibilidades de crecimiento geográfico hacia nuevas regiones y países.<br>
                 3. La evolución tecnológica constante permite mejorar la plataforma y brindar una mejor experiencia al usuario.<br>
                 4. Las colaboraciones con actores del sector podrían fortalecer la propuesta de valor.<br>
-                5. Se puede consolidar la imagen de ElixirControl como líder en gestión de vinos y pisco mediante acciones de marketing.<br>
+                5. Se puede consolidar la imagen de ElixirLine como líder en gestión de vinos y pisco mediante acciones de marketing.<br>
                 6. Vincularse con instituciones académicas permitiría impulsar programas de capacitación y certificación.
             </td>
             <td>
@@ -157,11 +157,11 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
                 4. Ahorro de tiempo y esfuerzo para el cliente gracias a la automatización.
             </td>
             <td>
-                1. Lanzar campañas que destaquen cómo ElixirControl responde a la demanda creciente del mercado.<br>
+                1. Lanzar campañas que destaquen cómo ElixirLine responde a la demanda creciente del mercado.<br>
                 2. Analizar nuevas regiones con potencial y adaptar la solución a cada contexto.<br>
                 3. Invertir en desarrollo tecnológico continuo para garantizar una experiencia superior.<br>
                 4. Formar alianzas con empresas del rubro para ofrecer soluciones más integradas.<br>
-                5. Promocionar ElixirControl como referente en el sector a través de acciones de marca.<br>
+                5. Promocionar ElixirLine como referente en el sector a través de acciones de marca.<br>
                 6. Colaborar con universidades para posicionarse como herramienta educativa y profesional.
             </td>
             <td>
