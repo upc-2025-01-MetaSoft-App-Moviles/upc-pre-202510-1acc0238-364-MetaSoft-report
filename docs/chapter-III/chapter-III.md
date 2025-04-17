@@ -1018,133 +1018,175 @@
     <tr>
         <td> US-36 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 36 </td>
+        <td> Registro detallado del consumo de insumos  </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 36
+            Como vinicultor, quiero que los insumos usados se registren por tarea y lote, para asegurar un control preciso del inventario y trazabilidad.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 36 </strong><br><br>
+            <strong>Scenario 1: Registro desde avance de tarea</strong><br><br>
+            Given un trabajador de campo completando una actividad <br>
+            When registra el avance desde su celular <br>
+            Then puede ingresar los insumos utilizados y las cantidades, asociadas automáticamente al lote y tarea.
             <br><br>
-            <strong>Scenario 2: User Story 36</strong><br><br>
+            <strong>Scenario 2: Consulta del consumo por lote</strong><br><br>
+            Given un vinicultor en el panel de un lote <br>
+            When accede a la sección de insumos <br>
+            Then puede ver el detalle de uso por tarea, fecha y trabajador.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-02 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 37 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-37 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 37 </td>
+        <td> Consulta de historial de campañas anteriores </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 37
+            Como vinicultor, quiero consultar campañas pasadas con sus datos de producción, para tomar mejores decisiones estratégicas.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 37 </strong><br><br>
+            <strong>Scenario 1: Visualización general del historial</strong><br><br>
+            Given un vinicultor accediendo al historial <br>
+            When selecciona una campaña pasada <br>
+            Then ve datos de cosecha, rendimiento, condiciones e incidencias registradas.
             <br><br>
-            <strong>Scenario 2: User Story 37</strong><br><br>
+            <strong>Scenario 2: Comparación entre campañas</strong><br><br>
+            Given un vinicultor comparando años anteriores <br>
+            When selecciona dos campañas <br>
+            Then puede ver comparaciones visuales de rendimiento, fechas clave y resultados.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-05 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 38 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-38 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 38 </td>
+        <td> Vista semanal de tareas para trabajadores </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 38
+            Como trabajador de campo, quiero ver mis tareas organizadas por día, para planificar mejor mi semana y saber qué debo hacer.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 38 </strong><br><br>
+            <strong>Scenario 1: Vista semanal desde el inicio de sesión</strong><br><br>
+            Given un trabajador inicia sesión en la app <br>
+            When accede al calendario semanal <br>
+            Then ve sus tareas asignadas por fecha y tipo de actividad.
             <br><br>
-            <strong>Scenario 2: User Story 38</strong><br><br>
+            <strong>Scenario 2: Detalle de tarea desde la vista semanal</strong><br><br>
+            Given un trabajador revisando su semana <br>
+            When selecciona una tarea del calendario <br>
+            Then accede al detalle con lote, hora, descripción e insumos necesarios.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 39 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-39 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 39 </td>
+        <td> Reporte automático de actividades diarias </td>
         <!-- ================== Descripción ================== -->
-        <td> 
-            Descripción User Story 39
+        <td>
+             Como vinicultor, quiero recibir un resumen diario de las tareas realizadas en campo, para mantenerme informado del progreso sin tener que revisar cada registro.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 39 </strong><br><br>
+            <strong>Scenario 1: Generación de reporte diario al finalizar el día</strong><br><br>
+            Given que ha finalizado la jornada <br>
+            When el sistema procesa los registros del día <br>
+            Then se genera un reporte con las tareas completadas, responsables y observaciones.
             <br><br>
-            <strong>Scenario 2: User Story 39</strong><br><br>
+            <strong>Scenario 2: Notificación del reporte al vinicultor</strong><br><br>
+            Given un vinicultor suscrito a reportes diarios <br>
+            When el sistema genera el resumen <br>
+            Then el vinicultor recibe una notificación con acceso al reporte desde su celular.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 40 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-40 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 40 </td>
+        <td> Asignación rápida de tareas por lote </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 40
+            Como vinicultor, quiero asignar múltiples tareas a un lote de forma rápida, para planificar el trabajo con mayor eficiencia.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 40 </strong><br><br>
+            <strong>Scenario 1: Asignación desde la vista del lote</strong><br><br>
+            Given un vinicultor en el panel de un lote <br>
+            When selecciona “Asignar tareas” <br>
+            Then puede elegir múltiples actividades y asignarlas por fecha y trabajador.
             <br><br>
-            <strong>Scenario 2: User Story 40</strong><br><br>
+            <strong>Scenario 2: Confirmación de asignación</strong><br><br>
+            Given que el vinicultor ha completado la asignación <br>
+            When guarda los cambios <br>
+            Then el sistema confirma la asignación y notifica a los trabajadores correspondientes.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 41 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-41 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 41 </td>
+        <td> Registro fotográfico de incidencias </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 41
+            Como trabajador de campo, quiero registrar fotos junto a comentarios sobre problemas detectados, para que el vinicultor pueda tomar decisiones más rápido.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 41 </strong><br><br>
+            <<strong>Scenario 1: Registro de incidencia con foto</strong><br><br>
+            Given un trabajador detecta un problema en el campo <br>
+            When selecciona “Registrar incidencia” <br>
+            Then puede tomar una foto, escribir un comentario y asociarlo al lote.
             <br><br>
-            <strong>Scenario 2: User Story 41</strong><br><br>
+            <strong>Scenario 2: Revisión de incidencias por el vinicultor</strong><br><br>
+            Given el vinicultor accede a su panel de incidencias <br>
+            When abre una alerta registrada <br>
+            Then puede ver la foto, descripción, hora y autor del registro.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 42 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-42 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 42 </td>
+        <td> Interfaz simplificada para registrar tareas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 42
+            Como trabajador de campo, quiero una forma rápida y clara de marcar tareas como completadas, para ahorrar tiempo y evitar confusiones.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 42 </strong><br><br>
+             <strong>Scenario 1: Registro directo desde la pantalla principal</strong><br><br>
+            Given un trabajador con una tarea pendiente <br>
+            When accede al resumen diario <br>
+            Then puede marcar como “completado” y añadir comentarios en pocos pasos.
             <br><br>
-            <strong>Scenario 2: User Story 42</strong><br><br>
+            <strong>Scenario 2: Confirmación visual del registro</strong><br><br>
+            Given que el trabajador registra una tarea como hecha <br>
+            When se confirma el envío <br>
+            Then el sistema muestra un mensaje visual claro de éxito y la tarea se oculta del pendiente.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> EPIC-06 </td>
     </tr>
 </tbody>
 </table>
