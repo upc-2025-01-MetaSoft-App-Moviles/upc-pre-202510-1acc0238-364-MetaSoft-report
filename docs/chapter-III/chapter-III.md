@@ -855,13 +855,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Edición de fecha asignada </strong><br><br>
-            Given una tarea ha sido previamente asignada
-            When el vinicultor edita la fecha de ejecución
+            Given una tarea ha sido previamente asignada<br>
+            When el vinicultor edita la fecha de ejecución<br>
             Then el sistema actualiza la tarea con la nueva fecha.
             <br><br>
             <strong>Scenario 2: Reasignación de responsable</strong><br><br>
-            Given una tarea cuenta con un trabajador asignado
-            When el vinicultor reasigna la tarea a otro trabajador
+            Given una tarea cuenta con un trabajador asignado<br>
+            When el vinicultor reasigna la tarea a otro trabajador<br>
             Then el sistema guarda y refleja el nuevo responsable asignado.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
@@ -880,13 +880,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Generación de reporte con filtros aplicados </strong><br><br>
-            Given el vinicultor selecciona una campaña y aplica filtros
-            When solicita la generación del reporte
+            Given el vinicultor selecciona una campaña y aplica filtros<br>
+            When solicita la generación del reporte<br>
             Then el sistema genera un archivo con la información filtrada.
             <br><br>
             <strong>Scenario 2: Descarga del archivo generado</strong><br><br>
-            Given el reporte ha sido generado correctamente
-            When el vinicultor decide descargarlo
+            Given el reporte ha sido generado correctamente<br>
+            When el vinicultor decide descargarlo<br>
             Then el sistema permite obtener el archivo en formato compatible (PDF o Excel).
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
@@ -905,13 +905,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Registro de actividades en modo offline </strong><br><br>
-            Given el dispositivo no cuenta con conexión a internet
-            When el trabajador registra una actividad
+            Given el dispositivo no cuenta con conexión a internet<br>
+            When el trabajador registra una actividad<br>
             Then el sistema almacena la información de forma local.
             <br><br>
             <strong>Scenario 2: Sincronización automática al reconectar</strong><br><br>
-            Given el dispositivo recupera la conexión
-            When el sistema detecta registros pendientes
+            Given el dispositivo recupera la conexión<br>
+            When el sistema detecta registros pendientes<br>
             Then sincroniza automáticamente los datos almacenados.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
@@ -930,13 +930,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Filtro por parcela </strong><br><br>
-            Given el vinicultor accede a la sección de incidencias
-            When selecciona una parcela específica
+            Given el vinicultor accede a la sección de incidencias<br>
+            When selecciona una parcela específica<br>
             Then el sistema muestra todas las incidencias registradas en esa ubicación.
             <br><br>
             <strong>Scenario 2: Visualización de detalles</strong><br><br>
-            Given se selecciona una incidencia del historial
-            When el vinicultor revisa la información
+            Given se selecciona una incidencia del historial<br>
+            When el vinicultor revisa la información<br>
             Then puede ver la fecha, descripción, trabajador que la reportó y estado de atención.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
@@ -955,13 +955,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Registro automático de lectura </strong><br><br>
-            Given una tarea ha sido asignada a un trabajador
-            When el trabajador accede a su lista de tareas
+            Given una tarea ha sido asignada a un trabajador<br>
+            When el trabajador accede a su lista de tareas<br>
             Then el sistema registra automáticamente que ha sido leída.
             <br><br>
             <strong>Scenario 2: Visualización por parte del vinicultor</strong><br><br>
-            Given el vinicultor accede a la planificación del día
-            When revisa una tarea
+            Given el vinicultor accede a la planificación del día<br>
+            When revisa una tarea<br>
             Then puede ver si el trabajador correspondiente ya la leyó o no.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
@@ -980,13 +980,13 @@
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
             <strong>Scenario 1: Campo opcional de comentarios </strong><br><br>
-            Given el trabajador marca una tarea como completada
-            When finaliza el registro
+            Given el trabajador marca una tarea como completada<br>
+            When finaliza el registro<br>
             Then puede añadir un comentario si lo considera necesario.
             <br><br>
             <strong>Scenario 2: Acceso del vinicultor al comentario</strong><br><br>
-            Given la tarea fue completada con un comentario
-            When el vinicultor consulta esa tarea
+            Given la tarea fue completada con un comentario<br>
+            When el vinicultor consulta esa tarea<br>
             Then puede ver el comentario asociado al cierre.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
