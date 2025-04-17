@@ -847,114 +847,150 @@
     <tr>
         <td> US-27 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 27 </td>
+        <td> Edición del calendario de tareas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 27
+            Como vinicultor, quiero modificar la fecha o el responsable de una tarea ya asignada, para adaptarme a imprevistos o cambios en la planificación operativa.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 27 </strong><br><br>
+            <strong>Scenario 1: Edición de fecha asignada </strong><br><br>
+            Given una tarea ha sido previamente asignada
+            When el vinicultor edita la fecha de ejecución
+            Then el sistema actualiza la tarea con la nueva fecha.
             <br><br>
-            <strong>Scenario 2: User Story 27</strong><br><br>
+            <strong>Scenario 2: Reasignación de responsable</strong><br><br>
+            Given una tarea cuenta con un trabajador asignado
+            When el vinicultor reasigna la tarea a otro trabajador
+            Then el sistema guarda y refleja el nuevo responsable asignado.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 28 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-28 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 28 </td>
+        <td> Exportación de reportes de campañas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 28
+            Como vinicultor, quiero exportar un resumen de una campaña finalizada, para compartir los datos de producción o analizarlos en futuras decisiones.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 28 </strong><br><br>
+            <strong>Scenario 1: Generación de reporte con filtros aplicados </strong><br><br>
+            Given el vinicultor selecciona una campaña y aplica filtros
+            When solicita la generación del reporte
+            Then el sistema genera un archivo con la información filtrada.
             <br><br>
-            <strong>Scenario 2: User Story 28</strong><br><br>
+            <strong>Scenario 2: Descarga del archivo generado</strong><br><br>
+            Given el reporte ha sido generado correctamente
+            When el vinicultor decide descargarlo
+            Then el sistema permite obtener el archivo en formato compatible (PDF o Excel).
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-05 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 29 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-29 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 29 </td>
+        <td> Soporte para zonas sin conexión (modo offline) </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 29
+            Como trabajador de campo, quiero registrar mis actividades sin depender de una conexión a internet, para asegurar el ingreso de datos incluso en zonas rurales.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 29 </strong><br><br>
+            <strong>Scenario 1: Registro de actividades en modo offline </strong><br><br>
+            Given el dispositivo no cuenta con conexión a internet
+            When el trabajador registra una actividad
+            Then el sistema almacena la información de forma local.
             <br><br>
-            <strong>Scenario 2: User Story 29</strong><br><br>
+            <strong>Scenario 2: Sincronización automática al reconectar</strong><br><br>
+            Given el dispositivo recupera la conexión
+            When el sistema detecta registros pendientes
+            Then sincroniza automáticamente los datos almacenados.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-06 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 30 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-30 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 30 </td>
+        <td> Consulta de historial de incidencias por parcela </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 30
+            Como vinicultor, quiero consultar el historial de incidencias reportadas por parcela, para identificar patrones y tomar decisiones preventivas.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 30 </strong><br><br>
+            <strong>Scenario 1: Filtro por parcela </strong><br><br>
+            Given el vinicultor accede a la sección de incidencias
+            When selecciona una parcela específica
+            Then el sistema muestra todas las incidencias registradas en esa ubicación.
             <br><br>
-            <strong>Scenario 2: User Story 30</strong><br><br>
+            <strong>Scenario 2: Visualización de detalles</strong><br><br>
+            Given se selecciona una incidencia del historial
+            When el vinicultor revisa la información
+            Then puede ver la fecha, descripción, trabajador que la reportó y estado de atención.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 31 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-31 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 31 </td>
+        <td> Confirmación de lectura de tareas asignadas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 31
+            Como vinicultor, quiero saber si un trabajador ha revisado las tareas que se le asignaron, para asegurarme de que está al tanto de sus actividades diarias.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 31 </strong><br><br>
+            <strong>Scenario 1: Registro automático de lectura </strong><br><br>
+            Given una tarea ha sido asignada a un trabajador
+            When el trabajador accede a su lista de tareas
+            Then el sistema registra automáticamente que ha sido leída.
             <br><br>
-            <strong>Scenario 2: User Story 31</strong><br><br>
+            <strong>Scenario 2: Visualización por parte del vinicultor</strong><br><br>
+            Given el vinicultor accede a la planificación del día
+            When revisa una tarea
+            Then puede ver si el trabajador correspondiente ya la leyó o no.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 32 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-32 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 32 </td>
+        <td> Registro de comentarios al completar una tarea </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 32
+            Como trabajador de campo, quiero poder añadir un comentario al finalizar una tarea, para dejar observaciones relevantes sobre su ejecución.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 32 </strong><br><br>
+            <strong>Scenario 1: Campo opcional de comentarios </strong><br><br>
+            Given el trabajador marca una tarea como completada
+            When finaliza el registro
+            Then puede añadir un comentario si lo considera necesario.
             <br><br>
-            <strong>Scenario 2: User Story 32</strong><br><br>
+            <strong>Scenario 2: Acceso del vinicultor al comentario</strong><br><br>
+            Given la tarea fue completada con un comentario
+            When el vinicultor consulta esa tarea
+            Then puede ver el comentario asociado al cierre.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-04 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 33 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
