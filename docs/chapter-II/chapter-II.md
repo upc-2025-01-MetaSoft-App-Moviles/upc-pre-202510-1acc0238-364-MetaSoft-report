@@ -352,15 +352,16 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         En esta sección se presentan los segmentos objetivos identificados: el vitivinicultor artesanal (representado por Josep Grau) y el trabajador de campo (representado por Luis Gómez). Cada uno desempeña un rol clave en la producción de vinos en el Valle del              Colca, Perú. A través del user person, se destacan las responsabilidades específicas de cada segmento e importancia en el cumplimiento de sus objetivos. Esto permite identificar similitudes, diferencias y áreas de enfoque entre los dos perfiles.
     </p>    
 </div>
+<p><b>
+    Vitivinicultor:
+</b><p>
 
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
     <thead>
         <tr>
             <th>Tareas</th>
-            <th>Vitivinicultor (Josep Grau) - Frecuencia</th>
-            <th>Vitivinicultor (Josep Grau) - Importancia</th>
-            <th>Trabajador de Campo (Luis Gómez) - Frecuencia</th>
-            <th>Trabajador de Campo (Luis Gómez) - Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
         </tr>
     </thead>
     <tbody>
@@ -368,20 +369,14 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <td>Supervisar la calidad del viñedo</td>
             <td>Semanal</td>
             <td>Alta</td>
-            <td>Diaria</td>
-            <td>Alta</td>
         </tr>
         <tr>
             <td>Aplicar técnicas de cultivo</td>
             <td>Mensual</td>
             <td>Media</td>
-            <td>Diaria</td>
-            <td>Alta</td>
         </tr>
         <tr>
             <td>Gestionar la cosecha de uvas</td>
-            <td>Estacional</td>
-            <td>Alta</td>
             <td>Estacional</td>
             <td>Alta</td>
         </tr>
@@ -389,13 +384,49 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <td>Mantener herramientas agrícolas</td>
             <td>Semanal</td>
             <td>Media</td>
-            <td>Mensual</td>
-            <td>Media</td>
         </tr>
         <tr>
             <td>Coordinar equipo de trabajo</td>
             <td>Diaria</td>
             <td>Alta</td>
+        </tr>
+    </tbody>
+</table>
+
+<p><b>
+    Trabajador de Campo
+</b></p>
+    <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Supervisar la calidad del viñedo</td>
+            <td>Diaria</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Aplicar técnicas de cultivo</td>
+            <td>Diaria</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Gestionar la cosecha de uvas</td>
+            <td>Estacional</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Mantener herramientas agrícolas</td>
+            <td>Mensual</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Coordinar equipo de trabajo</td>
             <td>Diaria</td>
             <td>Media</td>
         </tr>
