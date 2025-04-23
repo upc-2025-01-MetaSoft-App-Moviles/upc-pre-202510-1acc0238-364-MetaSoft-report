@@ -67,11 +67,14 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <!-- ================================================================================= -->
   <tr>
     <!-- ======================= Foto ======================= -->
-    <td></td>
+    <td>
+      <img src="../../assets/img/chapter-I/Fernando-Lizano.jpg" HEIGHT="150" width="130" alt="">
+      Fernando Lizano Coll Cardenas - u202214522
+    </td>
     <!-- ======================= Descripción ======================= -->
-    <td></td>
+    <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 20 años me considero una persona apasionada por el mundo de la programación y el aprendizaje constante. Me identifico con un pensamiento de superación y busco crecer en cada aspecto de mi vida. Enfrento los desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
     <!-- ======================= Conocimientos ======================= -->
-    <td></td>
+    <td>Cuento con conocimientos básicos en programación y desarrollo web. Manejo lenguajes como C++, Python y tecnologías de desarrollo frontend como HTML, CSS y JavaScript. Además, tengo nociones en frameworks y entornos como Angular para el desarrollo de interfaces interactivas, y .NET para la creación de aplicaciones backend.</td>
   </tr>
   <!-- ================================= INTEGRANTE 04 ================================= -->
   <!-- ================================================================================= -->
