@@ -80,11 +80,14 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <!-- ================================================================================= -->
   <tr>
     <!-- ======================= Foto ======================= -->
-    <td></td>
+    <td>
+      <img src="../../assets/img/chapter-I/raul.jpg" HEIGHT="150" width="130" alt="">
+      Raúl Ronaldo Quispe Erasmo - u20211b682
+    </td>
     <!-- ======================= Descripción ======================= -->
-    <td></td>
+    <td>Soy estudiante de Ingeniería de Software en la UPC, actualmente cursando el séptimo ciclo. Me considero una persona comprometida y responsable, especialmente cuando se trata de trabajar en equipo. Me gusta asumir el rol de guía dentro del grupo para asegurar que todos avancemos hacia nuestros objetivos de manera coordinada. Me motiva aprender constantemente y contribuir activamente al desarrollo de soluciones eficientes y bien estructuradas.</td>
     <!-- ======================= Conocimientos ======================= -->
-    <td></td>
+    <td>Tengo conocimientos en varios lenguajes de programación, entre ellos C# y C++, además de tecnologías web como HTML y CSS. También manejo bases de datos tanto relacionales como no relacionales, lo que me permite trabajar con distintos tipos de estructuras de información según las necesidades del proyecto.</td>
   </tr>
   <!-- ================================= INTEGRANTE 05================================= -->
   <!-- ================================================================================= -->
