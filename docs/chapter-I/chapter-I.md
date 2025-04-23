@@ -105,12 +105,17 @@ Gustavo Esau Huanca Navarro - U202215285
   <!-- ================================= INTEGRANTE 06 ================================= -->
   <!-- ================================================================================= -->
   <tr>
-    <!-- ======================= Foto ======================= -->
-    <td></td>
+    <!-- ======================= Foto ======================= -->    
+    <td>
+     <img src:"../../assets/img/chapter-I/Estrada-Cajamune.png" alt="">
+    Abraham Andres Estrada Cajamune - U202112164
+    </td>
     <!-- ======================= Descripción ======================= -->
-    <td></td>
+    <td>
+     Soy estudiante de Ingeniería de Software de la UPC cursando el septimo ciclo. Me considero una persona comprometida con las actividades que conllevan a realizar, asimismo de trabajar en equipo eficientemente. Mi objetivo es aportar apoyo a mi equipo y poder satisfacer las necesidades que se requieran
+     </td>
     <!-- ======================= Conocimientos ======================= -->
-    <td></td>
+    <td>Tengo conocimientos en distintos lenguajes de programación, están c++, C#  y JAVA. asimismo, en frameworks como Angular. </td>
   </tr>
 </tbody>
 </table>
