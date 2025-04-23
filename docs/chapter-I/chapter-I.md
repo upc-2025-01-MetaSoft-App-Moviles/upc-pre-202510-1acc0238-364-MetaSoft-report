@@ -90,11 +90,14 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <!-- ================================================================================= -->
   <tr>
     <!-- ======================= Foto ======================= -->
-    <td></td>
+    <td>
+<img src="../../assets/img/chapter-I/Gustavo-Huanca.jpg" alt="">
+Gustavo Esau Huanca Navarro - U202215285
+</td>
     <!-- ======================= Descripción ======================= -->
-    <td></td>
+    <td>Soy estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades</td>
     <!-- ======================= Conocimientos ======================= -->
-    <td></td>
+    <td>Tengo conocimientos en desarrollo de software, estructuras de datos y en lenguajes como, Java, Python, c# y typescript, y en frameworks como Angular, Vue, ASP.net y SpringBoot</td>
   </tr>
   <!-- ================================= INTEGRANTE 06 ================================= -->
   <!-- ================================================================================= -->
