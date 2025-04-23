@@ -12,6 +12,93 @@ Nuestra propuesta nace de la necesidad real de los vinicultores y trabajadores r
 - Visión: Ser referentes en la transformación digital del sector vitivinícola artesanal, facilitando la integración entre tradición y tecnología, y contribuyendo a una agricultura más sostenible, organizada e inteligente.
 ### 1.1.2. Perfiles de integrantes del equipo
 
+En esta sección se presentan los perfiles de los integrantes del equipo de trabajo, incluyendo una breve descripción 
+de su formación académica, intereses y conocimientos técnicos. Esta información es relevante para entender la diversidad de habilidades y experiencias que aportan al desarrollo del proyecto.
+
+<table>
+<thead>
+  <tr>
+    <th> Integrantes </th>
+    <th> Descripción </th>
+    <th> Conocimientos </th>
+  </tr>
+</thead>
+<tbody>
+  <!-- ================================= INTEGRANTE 01 ================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td>
+      <img src="../../assets/img/chapter-I/Gonzalo-Saldaña.jpg" height="120" alt="">
+      Janover Gonzalo Saldaña Vela - U20201B510
+    </td>
+    <!-- ======================= Descripción ======================= -->
+    <td>
+      Estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias
+      Aplicadas. Elegí la carrera por mi interés en crear nuevas tecnologías que sirvan de 
+      apoyo dentro de las empresas, gobiernos, la educación y el entretenimiento. Tengo 
+      como intereses viajar y conocer nuevos lugares, realizar deportes extremos y de aventura
+    </td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td>
+      Nivel Intermedio en C++, Base de datos no relacionales. Experiencia en HTML, CSS, 
+      JavaScript, Python, C# y conocimientos de metodologías ágiles. Poseo habilidades de 
+      liderazgo de equipo que pueden ser de gran utilidad en entornos colaborativos.
+    </td>
+  </tr>
+  <!-- ================================= INTEGRANTE 02 ================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td></td>
+    <!-- ======================= Descripción ======================= -->
+    <td></td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td></td>
+  </tr>
+  <!-- ================================= INTEGRANTE 03 ================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td></td>
+    <!-- ======================= Descripción ======================= -->
+    <td></td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td></td>
+  </tr>
+  <!-- ================================= INTEGRANTE 04 ================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td></td>
+    <!-- ======================= Descripción ======================= -->
+    <td></td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td></td>
+  </tr>
+  <!-- ================================= INTEGRANTE 05================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td></td>
+    <!-- ======================= Descripción ======================= -->
+    <td></td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td></td>
+  </tr>
+  <!-- ================================= INTEGRANTE 06 ================================= -->
+  <!-- ================================================================================= -->
+  <tr>
+    <!-- ======================= Foto ======================= -->
+    <td></td>
+    <!-- ======================= Descripción ======================= -->
+    <td></td>
+    <!-- ======================= Conocimientos ======================= -->
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
 
 ## 1.2. Solution Profile
 En esta sección se detallan los segmentos de descripición de nuestra solución de software, sus características de valor y las estrategias de monetización.
