@@ -107,7 +107,7 @@ Gustavo Esau Huanca Navarro - U202215285
   <tr>
     <!-- ======================= Foto ======================= -->    
     <td>
-     <img src:"../../assets/img/chapter-I/Estrada-Cajamune.png" alt="">
+     <img src="../../assets/img/chapter-I/Estrada-Cajamune.jpg" alt="">
     Abraham Andres Estrada Cajamune - U202112164
     </td>
     <!-- ======================= Descripción ======================= -->
