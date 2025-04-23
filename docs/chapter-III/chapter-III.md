@@ -1227,6 +1227,70 @@
 </tbody>
 </table>
 
+Feature: Technical Stories
+<table>
+<thead>
+    <tr>
+        <th> Technical Storie ID </th>
+        <th> Título </th>
+        <th> Descripción </th>
+        <th> Criterios de Aceptación (Gherkin) </th>
+        <th> Relacionado con (Epic ID) </th>
+    </tr>
+</thead>
+
+<!-- ========== TECHNICAL STORY 01 ========== -->
+<tr>
+    <td> TA-01 </td>
+    <td> Endpoint para Registro de Tareas </td>
+    <td> 
+        Como Developer, necesito crear un endpoint RESTful para registrar tareas realizadas en campo, que reciba datos estructurados desde la app móvil y los almacene correctamente asociados al lote y trabajador.
+    </td>
+    <td>
+        <pre>
+Scenario 1: Registro exitoso de tarea
+
+Given un cuerpo de solicitud válido con id de lote, id de trabajador, descripción de tarea y timestamp  
+When el endpoint POST /api/tareas recibe la solicitud  
+Then retorna un status 201 Created y el ID de la tarea registrada
+</pre>
+<pre>
+Scenario 2: Datos incompletos en la solicitud
+
+Given una solicitud con campos faltantes (por ejemplo, sin id de lote)  
+When se intenta registrar la tarea  
+Then retorna un status 400 Bad Request con el mensaje de error correspondiente
+</pre>
+    </td>
+    <td> EPIC-04 </td>
+    </tr>
+
+<!-- ========== TECHNICAL STORY 02 ========== -->
+<tr>
+    <td> TA-02 </td>
+    <td> Endpoint para Consultar Historial de Actividades por Lote </td>
+    <td>  
+        Como Developer, necesito desarrollar un endpoint RESTful que permita al vinicultor consultar el historial completo de actividades realizadas en un lote, para análisis o generación de reportes.
+    </td>
+    <td>
+        <pre>
+Scenario 1: Consulta válida con resultados
+
+Given un lote con tareas registradas  
+When se hace una solicitud GET /api/lotes/{id}/historial  
+Then retorna status 200 OK con un array JSON de las tareas realizadas en orden cronológico
+</pre>
+<pre>
+Scenario 2: Consulta de lote sin historial
+
+Given un lote sin tareas registradas  
+When se hace una solicitud GET /api/lotes/{id}/historial  
+Then retorna status 200 OK con un array vacío
+</pre>
+    </td>
+    <td> EPIC-04 </td>
+    </tr>
+</table>
 
 ## 3.3. Impact Mapping.
 
