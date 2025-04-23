@@ -50,11 +50,18 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <!-- ================================================================================= -->
   <tr>
     <!-- ======================= Foto ======================= -->
-    <td></td>
+    <td>
+      <img src="../../assets/img/chapter-I/Fabricio-Apaza.jpg" height="120" alt="">
+      Fabricio Apaza Morales - U201922146
+    </td>
     <!-- ======================= Descripción ======================= -->
-    <td></td>
+    <td>
+      Soy estudiante de la carrera de Ingeniería de Software en la UPC. Soy una persona bastante apasionada en lo que es la tecnología, incluyendo el desarrollo web y analisis de datos. Mis intereses personales son tocar la guitarra y jugar al tenis.
+    </td>
     <!-- ======================= Conocimientos ======================= -->
-    <td></td>
+    <td>
+      Tengo conocimientos en HTML, CSS, JavaScript, Python, C++, Power BI, SQL y conocimientos en metodologías ágiles. Me considero una persona bastante comprometida con el equipo, ya que trato de cumplir con las partes que se delegan para el desarrollo de un buen proyecto.
+    </td>
   </tr>
   <!-- ================================= INTEGRANTE 03 ================================= -->
   <!-- ================================================================================= -->
