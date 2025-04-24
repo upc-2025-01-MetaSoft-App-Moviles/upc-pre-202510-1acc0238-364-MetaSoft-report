@@ -706,6 +706,11 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <li>🔹 <strong>Identificación de oportunidades para mejorar la gestión de herramientas:</strong> Posibles soluciones tecnológicas y estrategias de mantenimiento.</li>
             <li>🔹 <strong>Posibles estrategias para aumentar la organización y eficiencia operativa:</strong> Evaluación de métodos para optimizar la distribución del trabajo.</li>
         </ul>
+<p>
+        Accede al tablero de Miro haciendo clic en el siguiente enlace:  
+        <a href="https://miro.com/app/board/uXjVI-De6M8=/?share_link_id=929113183371" target="_blank">Ir al As-is Scenario Map</a>
+    </p>
+
 
 #### Conclusión
 <p>
