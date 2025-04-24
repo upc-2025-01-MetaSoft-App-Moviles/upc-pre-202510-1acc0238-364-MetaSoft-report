@@ -91,14 +91,35 @@ Finalmente, se definieron los Bounded Contexts, cada uno con responsabilidades c
 
 ### 4.1.3. Software Architecture
 
+En esta sección, se presenta la arquitectura de software del sistema, que incluye tanto la arquitectura de alto nivel como la de bajo nivel. La arquitectura de alto nivel proporciona una visión general de los componentes principales y sus interacciones, mientras que la arquitectura de bajo nivel detalla la implementación específica de cada componente.
 
 #### 4.1.3.1. Software Architecture Context Level Diagrams
+
+El diagrama de nivel de contexto de ElixirLine muestra las interacciones clave entre el sistema principal, sistema externo y sus usuarios principales:
+
+* Vinicultor: Responsables de gestionar el ciclo completo de producción
+* Trabajador de campo: Encargados de ejecutar tareas agrícolas bajo la dirección del vinicultor
+
 
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 
+Este diagrama detalla la arquitectura de los contenedores de ElixirLine, mostrando los componentes principales del sistema:
+
+* Web Application: Aplicación utilizada por los Vinicultores para gestionar la producción de los viñedos.
+* Mobile App: Aplicación móvil destinada a los trabajadores de campo para recibir y reportar tareas agrículas asignadas por el vinicultor.
+* Backend: Servicio REST que gestiona y procesa la información de los datos.
+* Database: Base de datos donde se almacena la información relacionada con las actividades de producción del viñedo, vinicultores y trabajadores de campo.
+
+
+
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
+
+Nuestro servidor backend y de base de datos se desplegará utilizando la nube de Google Cloud Platform (GCP).
+
+
+
 
 
 ## 4.2. Tactical-Level Domain-Driven Design
