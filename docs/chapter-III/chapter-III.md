@@ -1351,7 +1351,7 @@ Then el endpoint responde con un status 201 Created y el enlace al reporte.
         <pre>
 Scenario 2: Consulta de reportes históricos
 Given el usuario envía una solicitud GET con filtros de periodo y lote
-When existen reportes en el sismtea
+When existen reportes en el sistema.
 Then el endpoint responde con un JSON estructurado con los detalles de producción.
 </pre>
         <td> EPIC-05 </td>
