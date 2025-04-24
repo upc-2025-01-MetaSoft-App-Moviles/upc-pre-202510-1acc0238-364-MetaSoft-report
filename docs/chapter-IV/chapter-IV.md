@@ -100,17 +100,19 @@ El diagrama de nivel de contexto de ElixirLine muestra las interacciones clave e
 * Vinicultor: Responsables de gestionar el ciclo completo de producción
 * Trabajador de campo: Encargados de ejecutar tareas agrícolas bajo la dirección del vinicultor
 
+<img src="../../assets/img/chapter-IV/Diagrama-contexto-ElixirLine.png" alt="">
 
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 
 Este diagrama detalla la arquitectura de los contenedores de ElixirLine, mostrando los componentes principales del sistema:
 
-* Web Application: Aplicación utilizada por los Vinicultores para gestionar la producción de los viñedos.
-* Mobile App: Aplicación móvil destinada a los trabajadores de campo para recibir y reportar tareas agrículas asignadas por el vinicultor.
+* Landing Page: Sitio web donde los vinicultores pueden informarse sobre la aplicación y registrarse.
+* Mobile App: Aplicación móvil destinada a los trabajadores de campo para recibir y reportar tareas agrícolas asignadas por el vinicultor.
 * Backend: Servicio REST que gestiona y procesa la información de los datos.
 * Database: Base de datos donde se almacena la información relacionada con las actividades de producción del viñedo, vinicultores y trabajadores de campo.
 
+<img src="../../assets/img/chapter-IV/Diagrama-contenedores-ElixirLine.png" alt="">
 
 
 
