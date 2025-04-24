@@ -7,9 +7,78 @@
 
 ### 4.1.1. EventStorming
 
+Para el desarrollo de esta sección, se adoptó la técnica de Event Storming, un método colaborativo que facilita la 
+exploración profunda del dominio de una aplicación. A través de diversas sesiones de trabajo, y con el apoyo de 
+la herramienta Miro, fue posible construir el flujo general y detallar los pasos clave del proceso. En una primera 
+fase, se recopilaron diferentes perspectivas sobre los eventos relevantes del dominio, los cuales fueron organizados 
+según criterios como su frecuencia y relevancia, entre otros.
+
+**Step 1: Unstructured Exploration**
+
+En esta fase, se definieron los eventos principales que reflejan las acciones más relevantes dentro del sistema.
+
+<img src="../../assets/img/chapter-IV/EventStorming-Unstructured-Exploration.png" alt="">
+
+--- 
+
+**Step 2: Timelines**
+
+Luego, se dispusieron los eventos en una línea de tiempo con el objetivo de visualizar el flujo 
+de interacciones y la secuencia entre ellos. Esta disposición cronológica ayuda a identificar 
+dependencias y momentos clave, lo que contribuye a un diseño más claro y coherente del sistema.
+
+<img src="../../assets/img/chapter-IV/EventStorming-Timelines.png" alt="">
+
+--- 
+
+**Step 3: Paint Points**
+
+En el tercer paso, identificamos "Pain Points" o cuellos de botella en el flujo de eventos.
+
+<img src="../../assets/img/chapter-IV/EventStorming-Paint-Points.png" alt="">
+
+--- 
+
+**Step 4: Pivotal Points**
+
+Identificamos los "Pivotal Points",  Estos puntos son esenciales para el flujo del sistema, y su correcta implementación asegura un funcionamiento fluido.
+
+<img src="../../assets/img/chapter-IV/EventStorming-Pivotal-Points.png" alt="">
+
+--- 
+
+**Step 5: EventStorming-Commands**
+
+Finalmente, se definieron los comandos que pueden ser ejecutados por los distintos roles dentro del sistema. Cada rol cuenta con permisos específicos, lo que garantiza que los usuarios tengan acceso únicamente a las funciones que les corresponden según su perfil
+
+<img src="../../assets/img/chapter-IV/EventStorming-Commands.png" alt="">
+
 
 #### 4.1.1.1. Candidate Context Discovery
 
+**Step 6: Policies**
+
+En esta etapa, se definieron políticas específicas para regular la interacción entre los distintos componentes del sistema. Estas directrices permiten mantener la coherencia del funcionamiento general y contribuyen a reducir posibles riesgos operativos.
+
+**Step 7: Read Models**
+
+Se definieron modelos de lectura que representan el estado actual del sistema. Estos modelos permiten acceder a información actualizada en todo momento, lo cual facilita la consulta de datos relevantes y apoya una mejor toma de decisiones por parte de los usuarios.
+
+**Step 8: External-Systems**
+
+Se identificaron sistemas externos que interactúan con la aplicación, los cuales son esenciales para la ejecución de ciertas funciones. Para manejar estas interacciones, se implementaron mecanismos que permiten gestionar adecuadamente las dependencias y asegurar una integración eficiente.
+
+<img src="../../assets/img/chapter-IV/External-Systems.png" alt="">
+
+**Step 9: Aggregates**
+
+Se definieron agregados que agrupan de forma lógica entidades relacionadas, lo cual ayuda a mantener la coherencia interna y promueve el modularidad del sistema.
+
+**Step 10: Bounded Context**
+
+Finalmente, se definieron los Bounded Contexts, cada uno con responsabilidades claras y bien delimitadas. Esto permite una mejor organización del sistema, facilita el mantenimiento y asegura una alineación más efectiva con los objetivos del negocio.
+
+<img src="../../assets/img/chapter-IV/Bounded-Context.png" alt="">
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
