@@ -364,11 +364,11 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         <thead>
             <tr>
                 <th>Entrevistado 2</th>
-                <th>Raúl Ronaldo Quispe Erasmo</th>
+                <th>Francisco Palomino Hurtado</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Francisco Palomino Hurtado</th>
+                <th>Raúl Ronaldo Quispe Erasmo</th>
             </tr>
         </thead>
         <tbody>
