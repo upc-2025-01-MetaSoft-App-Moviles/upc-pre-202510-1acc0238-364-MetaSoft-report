@@ -114,14 +114,11 @@ Este diagrama detalla la arquitectura de los contenedores de ElixirLine, mostran
 
 <img src="../../assets/img/chapter-IV/Diagrama-contenedores-ElixirLine.png" alt="">
 
-
-
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 Nuestro servidor backend y de base de datos se desplegará utilizando la nube de Google Cloud Platform (GCP).
 
-
-
+<img src="../../assets/img/chapter-IV/Software-Architecture-Deployment-ElixirLine.png" alt="">
 
 
 ## 4.2. Tactical-Level Domain-Driven Design
