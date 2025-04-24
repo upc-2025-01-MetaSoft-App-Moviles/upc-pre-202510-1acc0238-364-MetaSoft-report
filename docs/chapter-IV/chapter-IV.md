@@ -82,6 +82,17 @@ Finalmente, se definieron los Bounded Contexts, cada uno con responsabilidades c
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
+En esta sección se presenta el modelado de los flujos de mensajes dentro del dominio, utilizando
+la técnica de EventStorming. Esta metodología permitió identificar los eventos clave y 
+comprender sus interacciones. Con base en estos eventos, se elaboraron diagramas que ilustran 
+cómo se comunican los distintos componentes del sistema para cumplir con los objetivos del 
+negocio. A continuación, se muestran los diagramas de flujo de mensajes correspondientes a los
+contextos previamente definidos.
+
+**Step 11: Domain Message Flows Modeling**
+
+<img src="../../assets/img/chapter-IV/Domain-Message-Flows-Modeling.png" alt="">
+
 
 #### 4.1.1.3. Bounded Context Canvases
 
