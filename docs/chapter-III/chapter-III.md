@@ -997,57 +997,75 @@
     <tr>
         <td> US-33 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 33 </td>
+        <td> Visualización de manuales y guías en la aplicación </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 33
+            Como vinicultor, quiero acceder a manuales de herramientas y guías operativas desde la aplicación para resolver problemas rapidamente.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 33 </strong><br><br>
+            <strong>Scenario 1: Acceso a la biblioteca de documentación </strong><br><br>
+            Given el vinicultor acceda a la biblioteca de guias,<br>
+            When selecciona un documento<br>
+            Then el sistema muestra el contenido sin necesidad de descarga.
             <br><br>
-            <strong>Scenario 2: User Story 33</strong><br><br>
+            <strong>Scenario 2: Búsqueda de documentos especificos</strong><br><br>
+            Given el vinicultor introduce palabras clave en el buscador,<br>
+            When hay coincidencias en el sistema,<br>
+            Then se presentan los resultados filtrados con relevancia.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-03 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 34 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-34 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 34 </td>
+        <td> Registro y análisis de calidad de la uva cosechada </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 34
+            Como vitivinicultor, quiero registrar los parámetros de calidad de la uva cosechada dentro de la aplicación para asegurar que cumpla con los estándares de producción y mejorar la toma de decisiones.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 34 </strong><br><br>
+            <strong>Scenario 1: Registro de calidad de la uva </strong><br><br>
+            Given el vinicultor accede al módulo de evaluación de calidad,<br>
+            When ingresa parámetros como nivel de azucar, acidez y color,<br>
+            Then la información queda almacenada con fecha y lote correspondiente.
             <br><br>
-            <strong>Scenario 2: User Story 34</strong><br><br>
+            <strong>Scenario 2: Comparación de datos de calidad</strong><br><br>
+            Given el vinicultor consulta el historial de calidad,<br>
+            When selecciona distintos períodos de cosecha<br>
+            Then el sistema presenta gráficos comparativos de los registros.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-05 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 35 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
     <tr>
         <td> US-35 </td>
         <!-- ================== Título ================== -->
-        <td> Título User Story 35 </td>
+        <td> Monitoreo del Estado de las Viñas </td>
         <!-- ================== Descripción ================== -->
         <td> 
-            Descripción User Story 35
+            Como vitivinicultor, quiero registrar y monitorear el estado de las viñas dentro de la aplicación para identificar problemas de salud en las plantas y optimizar el cuidado del cultivo.
         </td>
         <!-- ================== Criterios de Aceptación ================== -->
         <td>
-            <strong>Scenario 1: User Story 35 </strong><br><br>
+            <strong>Scenario 1: Registro de condiciones de las viñas </strong><br><br>
+            Given el vinicultor acceda al módulo de monitoreo,<br>
+            When introduce datos sobre apariencia y condiciones de las viñas,<br>
+            Then el sistema guarda la información junto con la fecha y lote de registro
             <br><br>
-            <strong>Scenario 2: User Story 35</strong><br><br>
+            <strong>Scenario 2: Generación de reportes de salud del cultivo</strong><br><br>
+            Given el vinicultor consulta el estado general del cultivo, <br>
+            When selecciona una fecha o lotes específica,<br>
+            Then el sistema genera un informe con gráficas sobre el estado de las viñas.
         </td>
         <!-- ================== Relacionado con EPIC ================== -->
-        <td> Epic-# </td>
+        <td> Epic-01 </td>
     </tr>
     <!-- /////////////////////////////////// FILA DE USER STORY 36 /////////////////////////////////// -->
     <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
