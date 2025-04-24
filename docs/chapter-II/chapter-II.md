@@ -360,6 +360,50 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         </tbody>
 </table>
 
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 2</th>
+                <th>Raúl Ronaldo Quispe Erasmo</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Francisco Palomino Hurtado</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>25 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Surco - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/entrevista_francisco_.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                El entrevistado, de 25 años, trabaja como ayudante en un viñedo en Ica, cerca de Pueblo Nuevo. Realiza tareas variadas como limpieza, riego, poda, aplicación de fertilizantes y cosecha, según la temporada y necesidad del campo. Lleva casi un año en labores agrícolas, principalmente en épocas donde no tiene clases. Considera que la cosecha es la parte más pesada del trabajo, especialmente por el esfuerzo físico y el calor intenso. Entre las dificultades que enfrenta están la falta de sombra, agua cercana y una organización clara de las tareas. Sugiere que contar con guantes, sombreros y una mejor comunicación con supervisores mejoraría su día a día. Aunque actualmente solo usa su celular personal para lo básico, le interesaría tener una aplicación móvil que muestre tareas, clima, mapas del campo y permita reportar problemas, siempre que sea ligera y funcione con poca señal.
+                </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>8:38 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td>4:13 minutos</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="">Ver entrevista</a></td>
+            </tr>
+        </tbody>
+</table>
+
 
 ### 2.2.3. Análisis de entrevistas
 
