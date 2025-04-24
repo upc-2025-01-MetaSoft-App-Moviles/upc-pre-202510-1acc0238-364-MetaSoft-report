@@ -514,9 +514,8 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 
 ### 2.3.4. Empathy Mapping
-#### Proceso de elaboración de Empathy Mapping
-<body>
-    <section>
+### Proceso de elaboración de Empathy Mapping
+<section>
         <p>
             El <strong>Empathy Mapping</strong> es una técnica utilizada para profundizar en la perspectiva del usuario y entender sus pensamientos, emociones y 
             comportamientos dentro de su entorno. Para desarrollar los Empathy Maps de <strong>Josep Grau</strong> y <strong>Luis Gómez</strong>, el equipo siguió un 
@@ -601,13 +600,13 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 #### Preguntas adicionales
 
-#### 🔹 ¿Qué dice?</h3>
+#### 🔹 ¿Qué dice?
 <ul>
             <li><strong>Josep Grau:</strong> Expresa preocupación por la gestión del viñedo, la optimización de herramientas y el cumplimiento de estándares de calidad.</li>
             <li><strong>Luis Gómez:</strong> Menciona problemas con herramientas, falta de organización en tareas y la necesidad de mejorar la logística en el campo.</li>
         </ul>
 
-#### 🔹 ¿Qué puede convencerlo de que somos la alternativa correcta?</h3>
+#### 🔹 ¿Qué puede convencerlo de que somos la alternativa correcta?
 <ul>
             <li>✔️ Una solución tecnológica que responda directamente a sus necesidades y desafíos.</li>
             <li>✔️ Evidencia de mejoras tangibles en eficiencia y productividad dentro del viñedo.</li>
@@ -628,8 +627,106 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         </p>
 
 ### 2.3.5. As-is Scenario Mapping
+### Proceso de realización de As-is Scenario Mapping
+<p>
+            El <strong>As-Is Scenario Mapping</strong> es una técnica que permite visualizar de manera estructurada la experiencia actual de los usuarios en su entorno, 
+            sin implementar cambios o mejoras. En este análisis, se desarrollaron dos mapas de escenario para <strong>Josep Grau</strong> (Vitivinicultor) y <strong>Luis Gómez</strong> 
+            (Trabajador de Campo), capturando sus interacciones, desafíos y emociones en cada fase del proceso.
+        </p>
+
+### 🛠 Pasos de elaboración:
+<ul>
+            <li><strong>Preparación:</strong> Se definieron los User Personas y se establecieron los elementos clave que se analizarían en cada escenario.</li>
+            <li><strong>Lluvia de ideas individual:</strong> Cada miembro del equipo recopiló observaciones sobre la experiencia actual del usuario, basándose en estudios previos y entrevistas.</li>
+            <li><strong>Revisión e identificación de fases:</strong> Se organizaron las <strong>fases</strong> principales como columnas en la herramienta indicada, reflejando el flujo de trabajo real de cada User Persona.</li>
+            <li><strong>Nombramiento de fases:</strong> Cada etapa del proceso fue nombrada con base en las tareas y responsabilidades del usuario dentro del viñedo.</li>
+            <li><strong>Identificación y etiquetado de áreas clave:</strong>
+                <ul>
+                    <li>✔️ Áreas <strong>positivas</strong>, donde el usuario encuentra fluidez y eficiencia en su trabajo.</li>
+                    <li>✔️ Áreas <strong>negativas</strong>, donde se presentan dificultades o problemas recurrentes.</li>
+                    <li>✔️ Áreas <strong>blank</strong>, que requieren mayor exploración para comprender su impacto y posibles mejoras.</li>
+                </ul>
+            </li>
+            <li><strong>Digitalización en la herramienta indicada:</strong> Se trasladó el contenido al formato visual del <strong>Scenario Mapping</strong>, organizando las filas clave: <strong>Phases, Doing, Thinking, Feeling.</strong></li>
+        </ul>
+
+<p>
+            Este proceso permitió capturar la experiencia actual de los User Personas en su contexto de trabajo, facilitando la identificación de puntos críticos y oportunidades de optimización.
+        </p>
+        
+#### Segmento objetivo Vitivinicultores: As-is Scenario Map
+
+<p>
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+</p>
 
 
+#### Áreas Clave en el Proceso</h2>
+
+#### ✅ Positivas
+<ul>
+            <li>✔️ <strong>Buena organización de la inspección del viñedo:</strong> Se mantiene un control eficiente del crecimiento y salud de las uvas.</li>
+            <li>✔️ <strong>Equipo comprometido con la producción:</strong> Los trabajadores colaboran activamente para cumplir los objetivos del viñedo.</li>
+        </ul>
+
+#### ❌ Negativas
+<ul>
+            <li>✖️ <strong>Problemas técnicos recurrentes con maquinaria y herramientas:</strong> Fallas en el equipamiento afectan la productividad y generan retrasos.</li>
+            <li>✖️ <strong>Desafíos climáticos que afectan la cosecha:</strong> Variaciones inesperadas en el clima pueden reducir la calidad y cantidad de producción.</li>
+        </ul>
+
+#### ❓ Blank Areas
+<ul>
+            <li>🔹 <strong>Necesidad de explorar tecnologías que optimicen la gestión del viñedo:</strong> Implementación de sensores o plataformas digitales para monitoreo en tiempo real.</li>
+            <li>🔹 <strong>Posibles estrategias para mejorar la comunicación interna del equipo:</strong> Evaluar herramientas de gestión colaborativa para agilizar la toma de decisiones.</li>
+        </ul>
+    
+ #### Segmento objetivo Trabajador de Campo: As-is Scenario Map
+ 
+<p>
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+</p>
+
+#### Áreas Clave en el Proceso
+
+#### ✅ Positivas
+<ul>
+            <li>✔️ <strong>Experiencia y habilidad en tareas agrícolas:</strong> Conocimiento profundo de los procesos de cultivo y mantenimiento.</li>
+            <li>✔️ <strong>Compromiso con la producción:</strong> Enfoque proactivo en el trabajo diario y dedicación al viñedo.</li>
+        </ul>
+
+#### ❌ Negativas
+<ul>
+            <li>✖️ <strong>Herramientas desgastadas que dificultan su labor:</strong> Algunas herramientas están en mal estado, reduciendo eficiencia.</li>
+            <li>✖️ <strong>Falta de coordinación efectiva en algunas tareas:</strong> Problemas de comunicación afectan la planificación y ejecución.</li>
+        </ul>
+
+#### ❓ Blank Areas
+<ul>
+            <li>🔹 <strong>Identificación de oportunidades para mejorar la gestión de herramientas:</strong> Posibles soluciones tecnológicas y estrategias de mantenimiento.</li>
+            <li>🔹 <strong>Posibles estrategias para aumentar la organización y eficiencia operativa:</strong> Evaluación de métodos para optimizar la distribución del trabajo.</li>
+        </ul>
+
+#### Conclusión
+<p>
+            El <strong>As-Is Scenario Mapping</strong> permitió capturar de manera estructurada el <strong>estado actual</strong> del flujo de trabajo para 
+            <strong>Josep Grau</strong> (Vitivinicultor) y <strong>Luis Gómez</strong> (Trabajador de Campo). A través del análisis de <strong>Phases, Doing, Thinking y Feeling</strong>, 
+            identificamos las áreas críticas que afectan su rendimiento diario, así como oportunidades de mejora dentro del entorno laboral.
+        </p>
+
+<p>
+            Gracias a este proceso, se lograron determinar:
+        </p>
+<ul>
+            <li>✔️ <strong>Factores positivos</strong> que favorecen la eficiencia y el desempeño de cada User Persona.</li>
+            <li>✔️ <strong>Desafíos clave</strong> que generan obstáculos en sus tareas diarias y requieren intervención.</li>
+            <li>✔️ <strong>Blank areas</strong> que necesitan mayor exploración para diseñar soluciones informadas.</li>
+        </ul>
+
+<p>
+            Este mapa de escenario proporciona un <strong>punto de partida esencial</strong> para la siguiente fase del proyecto, donde se trabajará en la 
+            <strong>optimización de procesos, herramientas y metodologías</strong> para mejorar la experiencia del usuario.
+        </p>
 
 ## 2.4. Ubiquitous Language
 
