@@ -1279,9 +1279,10 @@ Given una solicitud con campos faltantes (por ejemplo, sin id de lote)
 When se intenta registrar la tarea  
 Then retorna un status 400 Bad Request con el mensaje de error correspondiente
 </pre>
-    </td>
-    <td> EPIC-04 </td>
+    
+<td> EPIC-04 </td>
     </tr>
+    </td>
 
 <!-- ========== TECHNICAL STORY 02 ========== -->
 <tr>
@@ -1305,9 +1306,59 @@ Given un lote sin tareas registradas
 When se hace una solicitud GET /api/lotes/{id}/historial  
 Then retorna status 200 OK con un array vacío
 </pre>
+   
+<td> EPIC-04 </td>
+    </tr> 
     </td>
-    <td> EPIC-04 </td>
-    </tr>
+<!-- ========== TECHNICAL STORY 03 ========== -->
+<tr>
+    <td> TA-03 </td>
+    <td> Endpoint para Registro y Control de Insumos </td>
+    <td>  
+        Como Developer, necesito implementar un endpoint RESTful que permita registrar, consultar y controlar los insumos utilizados en el proceso de vinificación para garantizar la trazabilidad y gestión eficiente de materiales
+    </td>
+    <td>
+        <pre>
+Scenario 1: Registro exitoso de un insumo
+Given un cuerpo de solicitud válido con nombre, categoría, cantidad y fecha de ingreso.
+When se hace una solicitud POST /api/insumos recibe la solicitud.
+Then retorna un status 201 Created con el ID del insumo registrado.
+</pre>
+        <pre>
+Scenario 2: Consulta de insumos disponibles
+Given el usuario envía una solicitud GET con filtros de categoría o disponibilidad. 
+When existen insumos que cumplen con los criterios. 
+Then el endpoint responde con un JSON estructurado con los detalles del insumo.
+</pre>
+        <td> EPIC-02 </td>
+        </tr>
+        </pre>    
+        </td>
+<!-- ========== TECHNICAL STORY 04 ========== -->
+<tr>
+    <td> TA-04 </td>
+    <td> Endpoint para Generación y Consulta de Reportes de Producción </td>
+    <td>  
+        Como Developer, necesito implementar un endpoint RESTful que permita generar y consultar reportes de producción, proporcionando análisis estructurado sobre rendimiento y calidad de cosechas.
+    </td>
+    <td>
+        <pre>
+Scenario 1: Generación de reporte de producción
+Given una solicitud POST con datos de campaña, lote y rendimiento
+When el sistema procesa la información y estructura el reporte.
+Then el endpoint responde con un status 201 Created y el enlace al reporte.
+</pre>
+        <pre>
+Scenario 2: Consulta de reportes históricos
+Given el usuario envía una solicitud GET con filtros de periodo y lote
+When existen reportes en el sismtea
+Then el endpoint responde con un JSON estructurado con los detalles de producción.
+</pre>
+        <td> EPIC-05 </td>
+        </tr>
+        </pre>    
+        </td> 
+ 
 </table>
 
 ## 3.3. Impact Mapping.
