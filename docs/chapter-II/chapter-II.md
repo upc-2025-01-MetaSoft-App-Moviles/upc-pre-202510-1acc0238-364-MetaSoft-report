@@ -314,6 +314,52 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 
 ### 2.2.2. Registro de entrevistas
 
+### Segmento objetivo trabajador de campo
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 1</th>
+                <th>David Crisanto</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Gustavo Huanca Navarro</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>28 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Santiago - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/entrevista1-deybi.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                El entrevistado trabaja desde hace más de 3 años en una vinicultora llamada Don Luis, en el distrito de Santiago, Ica. Desempeña principalmente labores agrícolas como el mantenimiento de riego, cosecha y apoyo en la fermentación, las cuales varían según la temporada. Destaca que las tareas más exigentes son el control de riego y la cosecha, especialmente en días calurosos, debido a la exposición al sol, la carga física y el uso de pesticidas. Considera que una aplicación que ayude a organizar tareas según temporada, controlar turnos, registrar condiciones de trabajo y mejorar la seguridad sería de gran utilidad para trabajadores como él.
+                </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>0:00 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td>8:37 minutos</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="https://upcedupe-my.sharepoint.com/personal/u202120569_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202120569%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D23%2017%2D28%2D17%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7accd9b3%2D76da%2D4241%2Da2dd%2De00f6f41b562">Ver entrevista</a></td>
+            </tr>
+        </tbody>
+</table>
+
 
 ### 2.2.3. Análisis de entrevistas
 
