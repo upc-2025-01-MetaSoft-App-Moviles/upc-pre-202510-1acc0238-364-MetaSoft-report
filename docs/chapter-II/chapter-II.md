@@ -447,7 +447,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
         </tbody>
 </table>
-1
+
 <table>
         <thead>
             <tr>
@@ -470,7 +470,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista_fernando.jpg" alt="Foto de entrevista">
+                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
