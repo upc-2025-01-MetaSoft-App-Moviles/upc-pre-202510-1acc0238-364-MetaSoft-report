@@ -96,8 +96,44 @@ contextos previamente definidos.
 
 #### 4.1.1.3. Bounded Context Canvases
 
+Para lograr una mejor organización del dominio y una comunicación clara entre equipos, 
+se desarrollaron Bounded Context Canvases que delimitan responsabilidades, definen 
+modelos clave y establecen interacciones entre contextos. Esta sección presenta los 
+canvases elaborados, los cuales sirvieron como guía para estructurar y alinear el 
+diseño del sistema.
+
+**Bounded Context Canvas: Vinification Process Management**
+
+<img src="../../assets/img/chapter-IV/Vinification-Process-Management-Bounded-Context-Canvas.jpg" alt="">
+
+**Bounded Context Canvas: Supply Management**
+
+<img src="../../assets/img/chapter-IV/Supply-Management-Bounded-Context-Canvas.jpg" alt="">
+
+**Bounded Context Canvas: Agricultural Activities**
+
+<img src="../../assets/img/chapter-IV/Agricultural-Activities-Bounded-Context-Canvas.jpg" alt="">
+
+**Bounded Context Canvas: Digital Field Log**
+
+<img src="../../assets/img/chapter-IV/Digital-Field-Log-Bounded-Context-Canvas.jpg" alt="">
+
+**Bounded Context Canvas: Production History and Campaigns**
+
+<img src="../../assets/img/chapter-IV/Production-History-and-Campaigns-Bounded-Context-Canvas.jpg" alt="">
+
+**Bounded Context Canvas: Identity and Access Management - IAM**
+
+<img src="../../assets/img/chapter-IV/Identity-and-Access-Management-IAM-Bounded-Context-Canvas.jpg" alt="">
+
 
 ### 4.1.2. Context Mapping
+
+En esta sección, se presenta el mapeo de contextos, que permite visualizar las interacciones 
+y dependencias entre los diferentes contextos delimitados en la fase anterior. 
+Este mapeo es fundamental para comprender cómo se relacionan los distintos componentes 
+del sistema y cómo fluyen los datos entre ellos.
+
 
 
 ### 4.1.3. Software Architecture
