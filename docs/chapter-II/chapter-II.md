@@ -404,6 +404,49 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         </tbody>
 </table>
 
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 3</th>
+                <th>Daniel Shibamukuro</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Fabricio Apaza Morales</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>28 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Ocucaje - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/entrevista_fabricio.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                Daniel Shimabukuro es parte del viñedo familiar Las Ruinas del Sol, ubicado en Ocucaje, cerca de Ica. Con más de 25 años en la producción artesanal de vino tinto borgoña y pisco de uva quebranta, comenta que uno de los mayores retos que enfrentan es organizar bien las tareas del día a día, ya que muchas veces todo se lleva de forma informal, entre cuadernos y memoria. También mencionó problemas como el cobro de cupos a sus trabajadores y la falta de herramientas para tener control del proceso. Aunque actualmente usan Telegram para comunicarse, siente que necesitan algo más práctico. Le interesaría una app sencilla desde el celular que les ayude a registrar tareas, controlar insumos y tener todo en orden, siempre que sea fácil de usar y útil para el trabajo en el campo.
+                </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>0:00 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td>7:29 minutos</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="">Ver entrevista</a></td>
+            </tr>
+        </tbody>
+</table>
 
 ### 2.2.3. Análisis de entrevistas
 
