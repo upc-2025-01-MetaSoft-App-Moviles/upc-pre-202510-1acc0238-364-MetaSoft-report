@@ -243,7 +243,7 @@ Nuestro enfoque inicial será **[this segment].**
 
 Sabremos que tenemos éxito cuando veamos **[these behaviors in our target audience].**
 
-- ReStyle Lean UX Problem Statements:
+- Lean UX Problem Statements:
 
 El estado actual de **la gestión en viñedos artesanales** se ha centrado principalmente en **métodos tradicionales y desarticulados como el uso de cuadernos, pizarras y registros orales, lo cual dificulta la planificación, el seguimiento de tareas y la trazabilidad del proceso productivo desde el campo hasta la bodega.**
 
