@@ -442,11 +442,11 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
 </tr>
 <tr>
 <td>Tiempo de la entrevista</td>
-<td>0:00 minutos</td>
+<td>04:11 minutos</td>
 </tr>
 <tr>
 <td>URL de la entrevista</td>
-<td><a href="">Ver entrevista</a></td>
+<td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214522_upc_edu_pe/EfWW02X_qUpLs88s7rDnQJYBKFbtIxanutwsiCak42pzNg?e=teS17x">Ver entrevista</a></td>
 </tr>
 </tbody>
 </table>
