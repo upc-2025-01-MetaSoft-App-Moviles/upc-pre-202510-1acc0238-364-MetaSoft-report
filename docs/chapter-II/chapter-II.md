@@ -451,6 +451,50 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 <table>
         <thead>
             <tr>
+                <th>Entrevistado 5</th>
+                <th>Renzo José Araujo Ingunza</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Abraham Andres Estrada Cajamune</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>21 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Surco - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                El entrevistado, de 25 años, un productor artesanal de vinos y piscos, con 12 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
+                </td>
+            </tr>
+            <tr>
+                <td>Tiempo que empieza</td>
+                <td>0:00 minutos</td>
+            </tr>
+            <tr>
+                <td>Tiempo de la entrevista</td>
+                <td>4:14 minutos</td>
+            </tr>
+            <tr>
+                <td>URL de la entrevista</td>
+                <td><a href="">Ver entrevista</a></td>
+            </tr>
+        </tbody>
+</table>
+
+<table>
+        <thead>
+            <tr>
                 <th>Entrevistado 6</th>
                 <th>Marco Berrati Riega</th>
             </tr>
@@ -487,50 +531,6 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
             <tr>
                 <td>Tiempo de la entrevista</td>
                 <td>0:00 minutos</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td><a href="">Ver entrevista</a></td>
-            </tr>
-        </tbody>
-</table>
-
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 7</th>
-                <th>Renzo José Araujo Ingunza</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>Abraham Andres Estrada Cajamune</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>21 años</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>Surco - Ica</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="../../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
-                </td>
-                <td>
-                <strong>Resumen:</strong><br>
-                El entrevistado, de 25 años, un productor artesanal de vinos y piscos, con 12 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
-                </td>
-            </tr>
-            <tr>
-                <td>Tiempo que empieza</td>
-                <td>0:00 minutos</td>
-            </tr>
-            <tr>
-                <td>Tiempo de la entrevista</td>
-                <td>4:14 minutos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
