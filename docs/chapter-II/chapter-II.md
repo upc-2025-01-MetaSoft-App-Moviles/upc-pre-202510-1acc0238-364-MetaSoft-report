@@ -408,6 +408,55 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         <thead>
             <tr>
                 <th>Entrevistado 3</th>
+                <th>Marco Berrati Riega</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Fernando Jesus Lizano Coll Cardenas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>21 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Chorrillos - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vitivinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
+
+Entre los principales desafíos que enfrenta menciona las condiciones climáticas extremas y la falta de comunicación clara sobre las tareas diarias. No utiliza herramientas digitales en su trabajo actual, pero expresó interés en una aplicación simple que le permita recibir tareas, marcar actividades realizadas y reportar problemas, idealmente con funcionamiento sin conexión.
+
+Marco mostró disposición a participar en futuras entrevistas o pruebas relacionadas con el desarrollo de soluciones digitales para el campo. </td>
+</tr>
+<tr>
+<td>Tiempo que empieza</td>
+<td>0:00 minutos</td>
+</tr>
+<tr>
+<td>Tiempo de la entrevista</td>
+<td>04:11 minutos</td>
+</tr>
+<tr>
+<td>URL de la entrevista</td>
+<td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214522_upc_edu_pe/EfWW02X_qUpLs88s7rDnQJYBKFbtIxanutwsiCak42pzNg?e=teS17x">Ver entrevista</a></td>
+</tr>
+</tbody>
+</table>
+
+### Segmento objetivo vinicultor
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 4</th>
                 <th>Daniel Shibamukuro</th>
             </tr>
             <tr>
@@ -451,12 +500,12 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
 <table>
         <thead>
             <tr>
-                <th>Entrevistado 6</th>
-                <th>Marco Berrati Riega</th>
+                <th>Entrevistado 5</th>
+                <th>Renzo José Araujo Ingunza</th>
             </tr>
             <tr>
                 <th>Entrevistador</th>
-                <th>Fernando Jesus Lizano Coll Cardenas</th>
+                <th>Abraham Andres Estrada Cajamune</th>
             </tr>
         </thead>
         <tbody>
@@ -466,19 +515,16 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
             <tr>
                 <td>Distrito</td>
-                <td>Chorrillos - Ica</td>
+                <td>Surco - Ica</td>
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
+                    <img src="../../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
-                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vitivinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
-
-Entre los principales desafíos que enfrenta menciona las condiciones climáticas extremas y la falta de comunicación clara sobre las tareas diarias. No utiliza herramientas digitales en su trabajo actual, pero expresó interés en una aplicación simple que le permita recibir tareas, marcar actividades realizadas y reportar problemas, idealmente con funcionamiento sin conexión.
-
-Marco mostró disposición a participar en futuras entrevistas o pruebas relacionadas con el desarrollo de soluciones digitales para el campo. </td>
+                El entrevistado, de 25 años, un productor artesanal de vinos y piscos, con 12 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
+                </td>
             </tr>
             <tr>
                 <td>Tiempo que empieza</td>
@@ -486,7 +532,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
             </tr>
             <tr>
                 <td>Tiempo de la entrevista</td>
-                <td>0:00 minutos</td>
+                <td>4:14 minutos</td>
             </tr>
             <tr>
                 <td>URL de la entrevista</td>
@@ -495,8 +541,45 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
         </tbody>
 </table>
 
+
 ### 2.2.3. Análisis de entrevistas
 
+**Segmento 1: Trabajadores del Campo**
+- Características Objetivas:
+  1. Edad promedio:
+     - La edad promedio de los trabajadores del campo entrevistados es de 24.6 años.
+     - La mayoría de los entrevistados se encuentra en un rango de 21 a 28 años.
+     
+  2. Distrito: Las entrevistas provienen de distritos de Ica: Santiago, Surco, Ocucaje, Chorrillos, lo que sugiere que el segmento está ubicado en áreas rurales relacionadas con la viticultura.
+  3. Experiencia: Los trabajadores tienen experiencia en labores agrícolas de entre 1 y 5 años. La duración promedio de la experiencia laboral en la viticultura es de 3.5 años.
+  4. Tareas realizadas: Las principales tareas incluyen cosecha, riego, mantenimiento de terreno, poda, y control de insumos. El 80% de los trabajadores menciona que realizan tareas físicamente exigentes, como la cosecha y el mantenimiento de riego.
+
+
+- **Características Subjetivas:**
+  1. Condiciones de trabajo: Las condiciones de trabajo se mencionan como difíciles, especialmente por las condiciones climáticas extremas, como el calor intenso y la exposición al sol. 75% de los entrevistados menciona que la falta de sombra y agua cerca son problemas recurrentes.
+  2. Interés en la tecnología: La mayoría de los trabajadores expresaron interés en el uso de una aplicación móvil que les permita gestionar tareas y condiciones de trabajo. 60% de los entrevistados indicó que le gustaría una herramienta que les ayude a organizar las tareas diarias, gestionar turnos y registrar problemas.
+  3. Preferencias tecnológicas: Los entrevistados expresaron la necesidad de que la aplicación sea sencilla, ligera y funcione sin conexión a internet. 80% de los trabajadores mencionan que necesitan una solución práctica, con poca señal de red en sus ubicaciones.
+  4. Seguridad: El tema de la seguridad es relevante. 70% de los entrevistados mencionaron la importancia de mejorar la seguridad en las actividades diarias, especialmente para tareas como la cosecha y el manejo de insumos.
+
+
+**Segmento 2: Vinicultores**
+- Características Objetivas:
+    1. Edad promedio:
+        - La edad promedio de los vinicultores entrevistados es de 27.2 años.
+
+    2. Ubicación: Todos los vinicultores están ubicados en Ica, específicamente en áreas rurales de Ocucaje y Surco.
+    3. Experiencia: La mayoría de los vinicultores entrevistados tiene entre 5 y 12 años de experiencia en la producción artesanal de vino y pisco.
+    4. Tareas realizadas: Las tareas se centran en la producción de vino y pisco, incluyendo labores como fermentación, destilación, control de calidad, y organización de insumos. 100% de los entrevistados menciona que el control de calidad es un desafío.
+
+
+- **Características Subjetivas:**
+  1. Desafíos en el proceso de producción: Los vinicultores destacan que uno de los mayores desafíos es la organización de tareas y el control de insumos. 80% de los entrevistados mencionan que actualmente usan herramientas básicas (cuadernos, Telegram) para gestionar el proceso, pero necesitan algo más estructurado.
+  2. Interés en la tecnología: Los vinicultores están interesados en implementar tecnologías para controlar inventarios, mejorar la trazabilidad y gestionar mejor los insumos. 60% de los entrevistados mencionan que les gustaría utilizar una aplicación móvil para gestionar las actividades y mejorar el control de calidad.
+  3. Necesidades adicionales: El control de temperatura en la fermentación es otro desafío mencionado por el 40% de los vinicultores, lo que resalta la necesidad de una solución que permita monitorear condiciones en tiempo real.
+
+El análisis de las entrevistas resalta varias necesidades comunes entre los dos segmentos, como la organización de tareas y la necesidad de herramientas digitales. Sin embargo, hay diferencias clave en las prioridades: los trabajadores del campo buscan una herramienta sencilla para tareas diarias y seguridad, mientras que los vinicultores están más enfocados en mejorar el control de calidad, trazabilidad e inventarios.
+
+Esta información será útil para desarrollar los arquetipos y las funcionalidades clave de ElixirLine, alineando las necesidades de ambos grupos con el diseño de la aplicación.
 
 ## 2.3. Needfinding
 
@@ -516,12 +599,12 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
 
 #### a) User Person Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
 </p>
 
 #### b) User Person Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo">
 </p>
     
     
@@ -684,12 +767,12 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
 
 #### a) User Journey Mapping Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
 </p>
 
 #### b) User Journet Mapping Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -724,13 +807,13 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
 #### Segmento objetivo Vitivinicultores: Empathy Mapping
 
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping _Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/Empathy_Mapping _Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
  
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -837,7 +920,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
 #### Segmento objetivo Vitivinicultores: As-is Scenario Map
 
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png">
 </p>
 
 
@@ -864,7 +947,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
  #### Segmento objetivo Trabajador de Campo: As-is Scenario Map
  
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png">
 </p>
 
 #### Áreas Clave en el Proceso
