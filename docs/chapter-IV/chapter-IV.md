@@ -177,7 +177,7 @@ atributos y métodos considerados, junto con las relaciones entre ellas.
 
 ---
 
-**Bounded Context Name: "Vinification Process Management"**
+### **Bounded Context Name: "Vinification Process Management"**
 
 <table>
 <thead>
