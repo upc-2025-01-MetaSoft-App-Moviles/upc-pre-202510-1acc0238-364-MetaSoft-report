@@ -1358,6 +1358,36 @@ Then el endpoint responde con un JSON estructurado con los detalles de producci�
         </tr>
         </pre>    
         </td> 
+        <!-- ========== TECHNICAL STORY 05 ========== -->
+<tr>
+    <td> TA-05 </td>
+    <td> Endpoint de Autenticación y Gestión de Usuarios (IAM) </td>
+    <td>  
+        Como Developer, necesito crear un endpoint RESTful de autenticación y gestión de usuarios, para permitir el registro, inicio de sesión y asignación de roles dentro de ElixirLine.
+    </td>
+    <td>
+        <pre>
+Scenario 1: Registro exitoso de usuario
+Given un cuerpo de solicitud válido con email, contraseña, nombre y rol (vinicultor o trabajador)
+When el endpoint POST /api/auth/signup recibe la solicitud
+Then responde con un status 201 Created y los datos básicos del nuevo usuario.
+</pre>
+        <pre>
+Scenario 2: Inicio de sesión exitoso
+Given credenciales correctas de un usuario registrado
+When el endpoint POST /api/auth/login recibe la solicitud
+Then responde con status 200 OK y un token JWT para autenticación.
+</pre>
+        <pre>
+Scenario 3: Error por credenciales inválidas
+Given credenciales incorrectas
+When se intenta hacer login
+Then responde con status 401 Unauthorized y un mensaje de error adecuado.
+</pre>
+        <td> EPIC-06 </td>
+        </tr>
+        </pre>    
+        </td> 
  
 </table>
 
