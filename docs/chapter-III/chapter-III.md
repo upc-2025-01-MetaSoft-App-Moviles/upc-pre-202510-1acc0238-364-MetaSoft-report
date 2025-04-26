@@ -1364,6 +1364,15 @@ Then el endpoint responde con un JSON estructurado con los detalles de producci√
 ## 3.3. Impact Mapping.
 
 
+## Vinucultor
+
+![](../../assets/img/chapter-III/impact%20map-Josep%20Grau.png)
+
+## Trabajador de campo
+![](../../assets/img/chapter-III/Impact%20map-Luis%20Gomez.png)
+
+
+
 ## 3.4. Product Backlog.
 
 
