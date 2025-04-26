@@ -784,16 +784,16 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             comportamientos dentro de su entorno. Para desarrollar los Empathy Maps de <strong>Josep Grau</strong> y <strong>Luis Gómez</strong>, el equipo siguió un 
             proceso estructurado que permitió capturar observaciones relevantes sobre cada perfil.
         </p>
-        <h3>🛠 Pasos de elaboración:</h3>
+        <h3> Pasos de elaboración:</h3>
         <ul>
             <li><strong>Preparación:</strong> Se identificaron los User Personas clave y se colocaron al centro de sus respectivos mapas en la herramienta indicada.</li>
             <li><strong>Observación y análisis:</strong> Se recopilaron percepciones de los miembros del equipo basadas en interacciones previas, estudios de campo y entrevistas.</li>
             <li><strong>Segmentación de información:</strong> Las respuestas fueron organizadas en los cuadrantes del Empathy Map:</li>
             <ul>
-                <li>✔️ <strong>Qué piensa y siente:</strong> emociones internas y preocupaciones.</li>
-                <li>✔️ <strong>Qué escucha:</strong> comentarios, expectativas externas e influencia del entorno.</li>
-                <li>✔️ <strong>Qué ve:</strong> situaciones y aspectos visibles en su realidad laboral.</li>
-                <li>✔️ <strong>Qué dice y hace:</strong> expresión verbal y acciones concretas.</li>
+                <li><strong>Qué piensa y siente:</strong> emociones internas y preocupaciones.</li>
+                <li><strong>Qué escucha:</strong> comentarios, expectativas externas e influencia del entorno.</li>
+                <li><strong>Qué ve:</strong> situaciones y aspectos visibles en su realidad laboral.</li>
+                <li><strong>Qué dice y hace:</strong> expresión verbal y acciones concretas.</li>
             </ul>
             <li><strong>Identificación de Pains y Gains:</strong> Se analizaron los puntos de dolor (dificultades y preocupaciones) y oportunidades (soluciones y mejoras potenciales).</li>
             <li><strong>Integración con el User Journey Mapping:</strong> Se aseguraron conexiones entre los Empathy Maps y los User Journeys, garantizando coherencia en la representación.</li>
@@ -819,7 +819,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 ### Identificación de Pains y Gains
 
-### 🔹 Josep Grau (Vitivinicultor)
+### Josep Grau (Vitivinicultor)
 
 ####     Pains (Desafíos y preocupaciones)
 
@@ -841,7 +841,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             <li><strong>Optimización de procesos agrícolas:</strong> Implementar técnicas modernas de cultivo para maximizar la producción y adaptarse mejor a cambios climáticos.</li>
         </ul>
 
-### 🔹 Luis Gómez (Trabajador de Campo)
+###  Luis Gómez (Trabajador de Campo)
 
 #### Pains (Desafíos y preocupaciones)
 <ul>
@@ -863,18 +863,18 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### Preguntas adicionales
 
-#### 🔹 ¿Qué dice?
+#### ¿Qué dice?
 <ul>
             <li><strong>Josep Grau:</strong> Expresa preocupación por la gestión del viñedo, la optimización de herramientas y el cumplimiento de estándares de calidad.</li>
             <li><strong>Luis Gómez:</strong> Menciona problemas con herramientas, falta de organización en tareas y la necesidad de mejorar la logística en el campo.</li>
         </ul>
 
-#### 🔹 ¿Qué puede convencerlo de que somos la alternativa correcta?
+#### ¿Qué puede convencerlo de que somos la alternativa correcta?
 <ul>
-            <li>✔️ Una solución tecnológica que responda directamente a sus necesidades y desafíos.</li>
-            <li>✔️ Evidencia de mejoras tangibles en eficiencia y productividad dentro del viñedo.</li>
-            <li>✔️ Comunicación clara sobre los beneficios del sistema y cómo facilitará su trabajo.</li>
-            <li>✔️ Testimonios o pruebas piloto que demuestren la efectividad de la propuesta.</li>
+            <li> Una solución tecnológica que responda directamente a sus necesidades y desafíos.</li>
+            <li> Evidencia de mejoras tangibles en eficiencia y productividad dentro del viñedo.</li>
+            <li> Comunicación clara sobre los beneficios del sistema y cómo facilitará su trabajo.</li>
+            <li> Testimonios o pruebas piloto que demuestren la efectividad de la propuesta.</li>
         </ul>
 
 #### Conclusión
@@ -897,7 +897,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             (Trabajador de Campo), capturando sus interacciones, desafíos y emociones en cada fase del proceso.
         </p>
 
-### 🛠 Pasos de elaboración:
+### Pasos de elaboración:
 <ul>
             <li><strong>Preparación:</strong> Se definieron los User Personas y se establecieron los elementos clave que se analizarían en cada escenario.</li>
             <li><strong>Lluvia de ideas individual:</strong> Cada miembro del equipo recopiló observaciones sobre la experiencia actual del usuario, basándose en estudios previos y entrevistas.</li>
@@ -905,9 +905,9 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             <li><strong>Nombramiento de fases:</strong> Cada etapa del proceso fue nombrada con base en las tareas y responsabilidades del usuario dentro del viñedo.</li>
             <li><strong>Identificación y etiquetado de áreas clave:</strong>
                 <ul>
-                    <li>✔️ Áreas <strong>positivas</strong>, donde el usuario encuentra fluidez y eficiencia en su trabajo.</li>
-                    <li>✔️ Áreas <strong>negativas</strong>, donde se presentan dificultades o problemas recurrentes.</li>
-                    <li>✔️ Áreas <strong>blank</strong>, que requieren mayor exploración para comprender su impacto y posibles mejoras.</li>
+                    <li> Áreas <strong>positivas</strong>, donde el usuario encuentra fluidez y eficiencia en su trabajo.</li>
+                    <li> Áreas <strong>negativas</strong>, donde se presentan dificultades o problemas recurrentes.</li>
+                    <li> Áreas <strong>blank</strong>, que requieren mayor exploración para comprender su impacto y posibles mejoras.</li>
                 </ul>
             </li>
             <li><strong>Digitalización en la herramienta indicada:</strong> Se trasladó el contenido al formato visual del <strong>Scenario Mapping</strong>, organizando las filas clave: <strong>Phases, Doing, Thinking, Feeling.</strong></li>
@@ -926,22 +926,22 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### Áreas Clave en el Proceso</h2>
 
-#### ✅ Positivas
+#### Positivas
 <ul>
-            <li>✔️ <strong>Buena organización de la inspección del viñedo:</strong> Se mantiene un control eficiente del crecimiento y salud de las uvas.</li>
-            <li>✔️ <strong>Equipo comprometido con la producción:</strong> Los trabajadores colaboran activamente para cumplir los objetivos del viñedo.</li>
+            <li><strong>Buena organización de la inspección del viñedo:</strong> Se mantiene un control eficiente del crecimiento y salud de las uvas.</li>
+            <li><strong>Equipo comprometido con la producción:</strong> Los trabajadores colaboran activamente para cumplir los objetivos del viñedo.</li>
         </ul>
 
-#### ❌ Negativas
+#### Negativas
 <ul>
-            <li>✖️ <strong>Problemas técnicos recurrentes con maquinaria y herramientas:</strong> Fallas en el equipamiento afectan la productividad y generan retrasos.</li>
-            <li>✖️ <strong>Desafíos climáticos que afectan la cosecha:</strong> Variaciones inesperadas en el clima pueden reducir la calidad y cantidad de producción.</li>
+            <li> <strong>Problemas técnicos recurrentes con maquinaria y herramientas:</strong> Fallas en el equipamiento afectan la productividad y generan retrasos.</li>
+            <li> <strong>Desafíos climáticos que afectan la cosecha:</strong> Variaciones inesperadas en el clima pueden reducir la calidad y cantidad de producción.</li>
         </ul>
 
-#### ❓ Blank Areas
+#### Blank Areas
 <ul>
-            <li>🔹 <strong>Necesidad de explorar tecnologías que optimicen la gestión del viñedo:</strong> Implementación de sensores o plataformas digitales para monitoreo en tiempo real.</li>
-            <li>🔹 <strong>Posibles estrategias para mejorar la comunicación interna del equipo:</strong> Evaluar herramientas de gestión colaborativa para agilizar la toma de decisiones.</li>
+            <li><strong>Necesidad de explorar tecnologías que optimicen la gestión del viñedo:</strong> Implementación de sensores o plataformas digitales para monitoreo en tiempo real.</li>
+            <li><strong>Posibles estrategias para mejorar la comunicación interna del equipo:</strong> Evaluar herramientas de gestión colaborativa para agilizar la toma de decisiones.</li>
         </ul>
     
  #### Segmento objetivo Trabajador de Campo: As-is Scenario Map
@@ -952,22 +952,22 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### Áreas Clave en el Proceso
 
-#### ✅ Positivas
+#### Positivas
 <ul>
-            <li>✔️ <strong>Experiencia y habilidad en tareas agrícolas:</strong> Conocimiento profundo de los procesos de cultivo y mantenimiento.</li>
-            <li>✔️ <strong>Compromiso con la producción:</strong> Enfoque proactivo en el trabajo diario y dedicación al viñedo.</li>
+            <li><strong>Experiencia y habilidad en tareas agrícolas:</strong> Conocimiento profundo de los procesos de cultivo y mantenimiento.</li>
+            <li><strong>Compromiso con la producción:</strong> Enfoque proactivo en el trabajo diario y dedicación al viñedo.</li>
         </ul>
 
-#### ❌ Negativas
+#### Negativas
 <ul>
-            <li>✖️ <strong>Herramientas desgastadas que dificultan su labor:</strong> Algunas herramientas están en mal estado, reduciendo eficiencia.</li>
-            <li>✖️ <strong>Falta de coordinación efectiva en algunas tareas:</strong> Problemas de comunicación afectan la planificación y ejecución.</li>
+            <li><strong>Herramientas desgastadas que dificultan su labor:</strong> Algunas herramientas están en mal estado, reduciendo eficiencia.</li>
+            <li><strong>Falta de coordinación efectiva en algunas tareas:</strong> Problemas de comunicación afectan la planificación y ejecución.</li>
         </ul>
 
-#### ❓ Blank Areas
+#### Blank Areas
 <ul>
-            <li>🔹 <strong>Identificación de oportunidades para mejorar la gestión de herramientas:</strong> Posibles soluciones tecnológicas y estrategias de mantenimiento.</li>
-            <li>🔹 <strong>Posibles estrategias para aumentar la organización y eficiencia operativa:</strong> Evaluación de métodos para optimizar la distribución del trabajo.</li>
+            <li><strong>Identificación de oportunidades para mejorar la gestión de herramientas:</strong> Posibles soluciones tecnológicas y estrategias de mantenimiento.</li>
+            <li><strong>Posibles estrategias para aumentar la organización y eficiencia operativa:</strong> Evaluación de métodos para optimizar la distribución del trabajo.</li>
         </ul>
 <p>
         Accede al tablero de Miro haciendo clic en el siguiente enlace:  
@@ -986,11 +986,10 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             Gracias a este proceso, se lograron determinar:
         </p>
 <ul>
-            <li>✔️ <strong>Factores positivos</strong> que favorecen la eficiencia y el desempeño de cada User Persona.</li>
-            <li>✔️ <strong>Desafíos clave</strong> que generan obstáculos en sus tareas diarias y requieren intervención.</li>
-            <li>✔️ <strong>Blank areas</strong> que necesitan mayor exploración para diseñar soluciones informadas.</li>
+            <li><strong>Factores positivos</strong> que favorecen la eficiencia y el desempeño de cada User Persona.</li>
+            <li><strong>Desafíos clave</strong> que generan obstáculos en sus tareas diarias y requieren intervención.</li>
+            <li><strong>Blank areas</strong> que necesitan mayor exploración para diseñar soluciones informadas.</li>
         </ul>
-
 <p>
             Este mapa de escenario proporciona un <strong>punto de partida esencial</strong> para la siguiente fase del proyecto, donde se trabajará en la 
             <strong>optimización de procesos, herramientas y metodologías</strong> para mejorar la experiencia del usuario.
