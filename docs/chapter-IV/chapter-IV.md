@@ -179,6 +179,7 @@ atributos y métodos considerados, junto con las relaciones entre ellas.
 
 ### **Bounded Context Name: "Vinification Process Management"**
 
+
 <table>
 <thead>
     <tr>
@@ -872,25 +873,603 @@ atributos y métodos considerados, junto con las relaciones entre ellas.
 
 ---
 
-#### 4.2.1.1. Domain Layer
+### 4.2.1.1. Domain Layer
+
+Esta capa define el núcleo del dominio del proceso de vinificación, incluyendo entidades, objetos de valor, agregados, servicios y contratos de repositorios.
+
+### **Bounded Context: Vinification Process Management**
+
+### **Entities:**
+
+**WineBatch**
+
+* Propósito: Representa un lote específico de producción de vino.
+* Atributos: batchId, grapeType, harvestDate, assignedStages, currentStage, status.
+* Métodos: assignStage(), advanceStage(), reportDeviation().
+
+**VinificationStage**
+
+* Propósito: Describe una etapa particular en el proceso de vinificación (fermentación, prensado, etc.).
+* Atributos: stageId, name, description, startDate, endDate, parameters, status.
+* Métodos: start(), updateParameters(), complete(), notifyDeviation().
+
+**ProcessDeviation**
+
+* Propósito: Captura una desviación técnica o problema detectado durante una etapa.
+* Atributos: deviationId, description, detectedAt, severity, responsibleUser.
+* Métodos: record(), resolve().
+
+### **Value Objects:**
+
+**ProcessParameters**
+
+* Propósito: Representa parámetros técnicos como °Brix, pH y temperatura para control de calidad.
+* Atributos: brixLevel, pHLevel, temperature.
+
+**VinificationStatus**
+
+* Propósito: Indica el estado actual de un lote o etapa.
+* Valores: Pending, InProgress, Completed, DeviationReported.
+
+### **Aggregates:**
+
+**VinificationAggregate**
+
+* Propósito: Coordina la consistencia de un VinificationBatch y sus VinificationStages.
+
+### **Repositories (Interfaces):**
+
+**IVinificationBatchRepository**
+
+* Propósito: Proporciona acceso para persistencia y recuperación de lotes de vinificación.
+
+---
+
+### **Bounded Context: Supply Management**
+
+### **Entities:**
+
+**_SupplyItem_**
+
+* Propósito: Representa un insumo utilizado en el proceso agrícola o de vinificación.
+* Atributos: itemId, name, quantityAvailable, unit, threshold.
+* Métodos: consume(), replenish(), isBelowThreshold().
+
+**_SupplyUsage_**
+
+* Propósito: Registro de consumo de insumos asociados a una tarea o lote.
+* Atributos: usageId, supplyItemId, quantityUsed, usedAt, taskId.
+* Métodos: recordUsage().
+
+### **Value Objects:**
+
+**_SupplyUnit_**
+
+* Propósito: Unidad de medida del insumo (litros, kilogramos, etc.).
+
+### **Aggregates:**
+
+**_SupplyAggregate_**
+
+* Propósito: Gestiona consistencia entre SupplyItem y su historial de SupplyUsage.
+
+### **Repositories (Interfaces):**
+
+**_ISupplyRepository_**
+
+* Propósito: Proporciona persistencia para insumos y sus consumos.
+
+---
+
+### **Bounded Context: Agricultural Activities**
+
+### **Entities:**
+
+**AgriculturalTask**
+
+* Propósito: Representa una tarea agrícola asignada a una parcela o lote.
+* Atributos: taskId, description, assignedPlot, scheduledDate, status, responsibleWorker.
+* Métodos: startTask(), completeTask(), reportIssue().
+
+**Plot**
+
+* Propósito: Área de cultivo donde se realizan tareas agrícolas.
+* Atributos: plotId, location, cropType.
+
+### **Value Objects:**
+
+**TaskStatus**
+
+* Propósito: Representa el estado de una tarea agrícola (Scheduled, InProgress, Completed, IssueReported).
+
+### **Aggregates:**
+
+**AgriculturalActivityAggregate**
+
+* Propósito: Mantiene la consistencia de una tarea y su impacto en el lote agrícola.
+
+### **Repositories (Interfaces):**
+
+**IAgriculturalTaskRepository**
+
+* Propósito: Persistencia y gestión de las tareas agrícolas.
+
+---
+
+### **Bounded Context: Digital Field Log**
+
+### **Entities:**
+
+**FieldLogEntry**
+
+* Propósito: Registra una observación de campo, incluyendo incidencias, condiciones o resultados de tareas.
+* Atributos: logId, observerUserId, observedAt, description, photoUrls, relatedTaskId.
+* Métodos: addObservation(), attachPhotos().
+
+**FieldIssue**
+
+* Propósito: Representa un problema detectado como plaga, enfermedad o anomalía.
+* Atributos: issueId, description, severity, reportedAt.
+
+### **Value Objects:**
+
+**IssueSeverity**
+
+* Propósito: Nivel de severidad de una incidencia (Low, Medium, High, Critical).
+
+### **Aggregates:**
+
+**FieldLogAggregate**
+
+* Propósito: Agrupa registros y problemas relacionados a un lote o parcela específica.
+
+### **Repositories (Interfaces):**
+
+**IFieldLogRepository**
+
+* Propósito: Persistencia y consulta de registros de campo.
+
+---
+
+### **Bounded Context: Production History**
+
+### **Entities:**
+
+**ProductionRecord**
+
+* Propósito: Captura los datos históricos de una campaña de producción.
+* Atributos: recordId, campaignYear, totalVolumeProduced, batchesProduced, keyObservations.
+* Métodos: addBatchSummary(), generateSummaryReport().
+
+### **Value Objects**
+
+**CampaignYear**
+
+* Propósito: Representa el año de una campaña de producción específica.
+
+### **Aggregates:**
+
+**ProductionHistoryAggregate**
+
+* Propósito: Consolida los registros de campañas y producción para análisis histórico.
+
+### **Repositories (Interfaces):**
+
+IProductionHistoryRepository
+
+Propósito: Persistencia y recuperación de datos históricos de producción.
+
+### 4.2.1.2. Interface Layer
+
+Esta capa expone los endpoints necesarios para la interacción de usuarios y otros contextos.
+
+### **Bounded Context: Vinification Process Management**
+
+### **Controllers:**
+
+**VinificationBatchController**
+
+_**Propósito:**_ Gestiona las solicitudes de creación, avance y monitoreo de lotes de vinificación.
+
+_**Responsabilidades:**_
+
+1. [x] Crear nuevos VinificationBatch.
+2. [x] Iniciar y actualizar etapas de proceso (VinificationStage).
+3. [x] Reportar desviaciones (ProcessDeviation).
+
+**VinificationStageController**
+
+_**Propósito:**_ Controla la interacción de usuarios con etapas específicas de vinificación.
+
+_**Responsabilidades:**_
+
+1. [x] Iniciar una etapa.
+2. [x] Registrar parámetros técnicos.
+3. [x] Completar etapa.
+
+### **Consumers:**
+
+**SupplyAvailabilityConsumer**
+
+**_Propósito:_** Escucha eventos de confirmación de disponibilidad de insumos provenientes de Supply Management.
+
+**CampaignClosureConsumer**
+
+**_Propósito:_** Escucha notificaciones de cierre de campañas desde Production History para registrar datos finales de 
+vinificación.
+
+---
+
+### **Bounded Context: Supply Management**
+
+### **Controllers:**
+
+**SupplyItemController**
+
+**_Propósito:_** Gestiona la creación, actualización y consulta de insumos.
+
+**_Responsabilidades:_**
+
+1. [x] Registrar nuevos insumos.
+2. [x] Actualizar stock de insumos.
+3. [x] Consultar disponibilidad de materiales.
+
+**SupplyUsageController**
+
+**_Propósito:_** Permite registrar y consultar consumos de insumos.
+
+**_Responsabilidades:_**
+
+1. [x] Registrar consumo por tarea o lote.
+2. [x] Visualizar historial de uso.
+
+### **Consumers:**
+
+**TaskSupplyRequestConsumer**
+
+**_Propósito:_** Consume solicitudes de insumos desde Agricultural Activities o Vinification Process Management.
+
+---
+
+### **Bounded Context: Agricultural Activities**
+
+### **Controllers:**
+
+**AgriculturalTaskController**
+
+**_Propósito:_** Gestiona las actividades agrícolas planificadas y en ejecución.
+
+**_Responsabilidades:_**
+
+1. [x] Programar nuevas tareas agrícolas.
+2. [x] Iniciar/Completar tareas.
+3. [x] Reportar incidencias de campo.
+
+**PlotController**
+
+**_Propósito:_** Administra las parcelas donde se ejecutan actividades agrícolas.
+
+**_Responsabilidades:_**
+
+1. [x] Crear y consultar parcelas.
+
+### **Consumers:**
+
+**SupplyConfirmationConsumer**
+
+**_Propósito:_** Recibe confirmaciones de disponibilidad de insumos desde Supply Management.
 
 
-#### 4.2.1.2. Interface Layer
+---
+
+### **Bounded Context: Digital Field Log**
+
+### **Controllers:**
+
+**FieldLogController**
+
+**_Propósito:_** Permite la creación y consulta de registros de campo.
+
+**_Responsabilidades:_**
+
+1. [x] Registrar observaciones del campo.
+2. [x] Adjuntar fotografías o evidencia.
+3. [x] Consultar registros históricos por parcela o tarea.
+
+### **Consumers:**
+
+**TaskCompletionConsumer**
+
+**_Propósito:_** Escucha eventos de finalización de tareas de Agricultural Activities para generar registros automáticos en el campo.
 
 
-#### 4.2.1.3. Application Layer
+--- 
+
+### **Bounded Context: Production History and Campaigns**
+
+### **Controllers:**
+
+**ProductionRecordController**
+
+**_Propósito:_** Gestiona los registros históricos de campañas de producción.
+
+**_Responsabilidades:_**
+
+1. [x] Registrar campañas concluidas.
+2. [x] Consultar historial de producción.
+3. [x] Generar reportes consolidados.
+
+### **Consumers:**
+
+**CampaignEndEventConsumer**
+
+**_Propósito:_** Escucha eventos de cierre de campaña emitidos por Vinification Process Management y Agricultural Activities.
+
+### 4.2.1.3. Application Layer
+
+Se maneja el flujo del negocio mediante comandos y eventos.
+
+### **Bounded Context: Vinification Process Management**
+
+### **Command Handlers:**
+
+**CreateVinificationBatchCommandHandler**
+
+* Maneja la creación de nuevos lotes de vinificación.
+
+**StartVinificationStageCommandHandler**
+
+* Gestiona el inicio de una nueva etapa del proceso de vinificación.
+
+**UpdateStageParametersCommandHandler**
+
+* Permite actualizar los parámetros técnicos (°Brix, pH, temperatura) de una etapa.
+
+**ReportDeviationCommandHandler**
+
+* Permite reportar desviaciones o incidencias detectadas durante la vinificación.
+
+### **Event Handlers:**
+
+**SupplyConfirmedEventHandler**
+
+* Responde a eventos de confirmación de insumos para iniciar etapas.
+
+**CampaignClosedEventHandler**
+
+* Registra los datos de producción finalizados cuando una campaña cierra.
+
+---
+
+### **Bounded Context: Supply Management**
+
+### **Command Handlers:**
+
+**RegisterSupplyItemCommandHandler**
+
+* Maneja la creación de nuevos registros de insumos.
+
+**UpdateSupplyStockCommandHandler**
+
+* Administra las actualizaciones de stock de los insumos.
+
+**RecordSupplyUsageCommandHandler**
+
+* Permite registrar el consumo de un insumo asociado a una tarea o lote.
+
+### **Event Handlers:**
+
+**TaskSupplyRequestEventHandler**
+
+* Atiende solicitudes de materiales desde otros contextos como Agricultural Activities o Vinification.
+
+
+---
+
+### **Bounded Context: Agricultural Activities**
+
+### **Command Handlers:**
+
+**ScheduleAgriculturalTaskCommandHandler**
+
+* Maneja la programación de nuevas tareas agrícolas.
+
+**StartTaskCommandHandler**
+
+* Inicia la ejecución de una tarea agrícola.
+
+**CompleteTaskCommandHandler**
+
+* Marca la finalización de una tarea agrícola.
+
+**ReportFieldIncidentCommandHandler**
+
+* Gestiona la notificación de incidencias detectadas en campo.
+
+### **Event Handlers:**
+
+**SupplyConfirmationReceivedHandler**
+
+* Administra la respuesta ante confirmaciones de insumos para tareas agrícolas.
+
+
+---
+
+### **Bounded Context: Digital Field Log**
+
+### **Command Handlers**
+
+**CreateFieldLogEntryCommandHandler**
+
+* Permite registrar una nueva observación en el cuaderno de campo.
+
+**AttachEvidenceCommandHandler**
+
+* Adjunta archivos multimedia (fotos, notas) a los registros de campo.
+
+### **Event Handlers:**
+
+**TaskCompletedEventHandler**
+
+* Genera entradas automáticas de registro de campo al recibir notificaciones de tareas finalizadas.
+
+
+--- 
+
+### **Bounded Context: Production History and Campaigns**
+
+### **Command Handlers**
+
+**RegisterCampaignClosureCommandHandler**
+
+* Maneja el registro de una campaña concluida en el historial de producción.
+
+### **Event Handlers:**
+
+**CampaignEndedEventHandler**
+
+* Atiende eventos de cierre de campaña emitidos por Agricultural Activities o Vinification Process Management para 
+consolidar información histórica.
 
 
 #### 4.2.1.4. Infrastructure Layer
+
+Implementa detalles de persistencia y comunicación externa.
+
+
+### **Bounded Context: Vinification Process Management**
+
+### **Repositories:**
+
+**VinificationBatchRepositoryImpl**
+
+* Implementa la persistencia de los lotes de vinificación en base de datos.
+
+**VinificationStageRepositoryImpl**
+
+* Implementa la persistencia de las etapas de vinificación asociadas a cada lote.
+
+### **Messaging:**
+
+**VinificationProcessEventPublisher**
+
+* Publica eventos de desviaciones, avance de etapas y finalización de procesos hacia otros bounded contexts.
+
+### **Persistence:**
+
+**VinificationDatabaseAdapter**
+
+* Adaptador para manejar operaciones CRUD específicas de procesos de vinificación.
+
+---
+
+### **Bounded Context: Supply Management**
+
+### **Repositories:**
+
+**SupplyItemRepositoryImpl**
+
+* Implementa el acceso a datos de los insumos registrados.
+
+**SupplyStockRepositoryImpl**
+
+* Administra la persistencia de movimientos de stock (entrada, salida, consumo).
+
+### **Messaging:**
+
+**SupplyEventPublisher**
+
+* Publica eventos de confirmación de asignación de insumos o de stock bajo.
+
+### **Persistence:**
+
+**SupplyManagementDatabaseAdapter**
+
+* Adaptador para acceso a la base de datos de inventarios y consumos de insumos.
+
+---
+
+### **Bounded Context: Agricultural Activities**
+
+### **Repositories:**
+
+**AgriculturalTaskRepositoryImpl**
+
+* Persistencia de tareas agrícolas programadas, en ejecución y finalizadas.
+
+**IncidentReportRepositoryImpl**
+
+* Maneja la persistencia de reportes de incidencias en campo.
+
+### **Messaging:**
+
+**AgriculturalActivitiesEventPublisher**
+
+* Publica eventos relacionados al avance de tareas, incidentes y cierre de actividades agrícolas.
+
+### **Persistence:**
+
+**AgriculturalActivitiesDatabaseAdapter**
+
+* Adaptador para operaciones en bases de datos agrícolas.
+
+---
+
+### **Bounded Context: Digital Field Log**
+
+### **Repositories:**
+
+**FieldLogEntryRepositoryImpl**
+
+* Persistencia de entradas del cuaderno de campo, incluyendo observaciones y evidencias.
+
+### **Messaging:**
+
+**FieldLogEventPublisher**
+
+* Publica eventos de creación de registros de campo automáticamente a partir de tareas completadas.
+
+### ** Persistence:**
+
+**DigitalFieldLogDatabaseAdapter**
+
+* Acceso y manejo de la base de datos específica para registros de campo.
+
+
+--- 
+
+### **Bounded Context: Production History and Campaigns**
+
+### **Repositories:**
+
+**CampaignHistoryRepositoryImpl**
+
+* Implementa la persistencia de datos históricos de campañas de producción.
+
+### **Messaging:**
+
+**ProductionHistoryEventPublisher**
+
+* Escucha eventos de cierre de campañas y consolida información proveniente de vinificación y actividades agrícolas.
+
+### **Persistence:**
+
+**ProductionHistoryDatabaseAdapter**
+
+* Adaptador de infraestructura para almacenar registros históricos de producción.
 
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
 En esta sección se presentan los diagramas de nivel de componente de la arquitectura del API REST del contexto delimitado. Estos diagramas ilustran la estructura interna de los componentes,
 
+
+
+
 <img src="../../assets/img/chapter-IV/Diagrama-de-componentes-ElixirLine.png" alt="">
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
 
 
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
