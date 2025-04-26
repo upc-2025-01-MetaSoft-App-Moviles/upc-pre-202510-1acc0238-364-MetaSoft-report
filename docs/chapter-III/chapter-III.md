@@ -1388,6 +1388,32 @@ Then responde con status 401 Unauthorized y un mensaje de error adecuado.
         </tr>
         </pre>    
         </td> 
+        <!-- ========== TECHNICAL STORY 06 ========== -->
+<tr>
+    <td> TA-06 </td>
+    <td> Endpoint Notificaciones Push </td>
+    <td>  
+        Como Developer, necesito implementar un endpoint RESTful para enviar notificaciones push a los dispositivos de los usuarios, para alertarles sobre nuevas tareas asignadas o incidencias reportadas.
+    </td>
+    <td>
+        <pre>
+Scenario 1: Notificación de tarea asignada
+Given que existe una tarea recientemente asignada a un usuario
+When se hace una solicitud POST /api/notifications/task-assigned con un cuerpo válido que incluye userId y taskId
+Then el endpoint retorna status 200 OK
+And envía una notificación push al dispositivo del trabajador con la información de la tarea asignada
+</pre>
+        <pre>
+Scenario 2: Notificación de incidencia reportada
+Given que se ha registrado una incidencia en el sistema
+When se hace una solicitud POST /api/notifications/incidence-reported con un cuerpo válido que incluye userId e incidenceId
+Then el endpoint retorna status 200 OK
+And envía una notificación push al vinicultor responsable con los detalles de la incidencia
+</pre>
+        <td> EPIC-03/EPIC-04 </td>
+        </tr>
+        </pre>    
+        </td> 
  
 </table>
 
