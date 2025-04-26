@@ -408,6 +408,55 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         <thead>
             <tr>
                 <th>Entrevistado 3</th>
+                <th>Marco Berrati Riega</th>
+            </tr>
+            <tr>
+                <th>Entrevistador</th>
+                <th>Fernando Jesus Lizano Coll Cardenas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Edad</td>
+                <td>21 años</td>
+            </tr>
+            <tr>
+                <td>Distrito</td>
+                <td>Chorrillos - Ica</td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
+                </td>
+                <td>
+                <strong>Resumen:</strong><br>
+                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vitivinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
+
+Entre los principales desafíos que enfrenta menciona las condiciones climáticas extremas y la falta de comunicación clara sobre las tareas diarias. No utiliza herramientas digitales en su trabajo actual, pero expresó interés en una aplicación simple que le permita recibir tareas, marcar actividades realizadas y reportar problemas, idealmente con funcionamiento sin conexión.
+
+Marco mostró disposición a participar en futuras entrevistas o pruebas relacionadas con el desarrollo de soluciones digitales para el campo. </td>
+</tr>
+<tr>
+<td>Tiempo que empieza</td>
+<td>0:00 minutos</td>
+</tr>
+<tr>
+<td>Tiempo de la entrevista</td>
+<td>0:00 minutos</td>
+</tr>
+<tr>
+<td>URL de la entrevista</td>
+<td><a href="">Ver entrevista</a></td>
+</tr>
+</tbody>
+</table>
+
+### Segmento objetivo vinicultor
+
+<table>
+        <thead>
+            <tr>
+                <th>Entrevistado 4</th>
                 <th>Daniel Shibamukuro</th>
             </tr>
             <tr>
@@ -492,52 +541,6 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
         </tbody>
 </table>
 
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 6</th>
-                <th>Marco Berrati Riega</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>Fernando Jesus Lizano Coll Cardenas</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>21 años</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>Chorrillos - Ica</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
-                </td>
-                <td>
-                <strong>Resumen:</strong><br>
-                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vitivinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
-
-Entre los principales desafíos que enfrenta menciona las condiciones climáticas extremas y la falta de comunicación clara sobre las tareas diarias. No utiliza herramientas digitales en su trabajo actual, pero expresó interés en una aplicación simple que le permita recibir tareas, marcar actividades realizadas y reportar problemas, idealmente con funcionamiento sin conexión.
-
-Marco mostró disposición a participar en futuras entrevistas o pruebas relacionadas con el desarrollo de soluciones digitales para el campo. </td>
-            </tr>
-            <tr>
-                <td>Tiempo que empieza</td>
-                <td>0:00 minutos</td>
-            </tr>
-            <tr>
-                <td>Tiempo de la entrevista</td>
-                <td>0:00 minutos</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td><a href="">Ver entrevista</a></td>
-            </tr>
-        </tbody>
-</table>
 
 ### 2.2.3. Análisis de entrevistas
 
