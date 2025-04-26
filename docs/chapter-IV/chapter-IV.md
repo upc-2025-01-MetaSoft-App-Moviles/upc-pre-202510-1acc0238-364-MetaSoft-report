@@ -188,6 +188,10 @@ Nuestro servidor backend y de base de datos se desplegará utilizando la nube de
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+En esta sección se presentan los diagramas de nivel de componente de la arquitectura del API REST del contexto delimitado. Estos diagramas ilustran la estructura interna de los componentes,
+
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-ElixirLine.png" alt="">
+
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
