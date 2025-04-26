@@ -599,12 +599,12 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Person Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
 </p>
 
 #### b) User Person Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo">
 </p>
     
     
@@ -767,12 +767,12 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Journey Mapping Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
 </p>
 
 #### b) User Journet Mapping Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -807,13 +807,13 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vitivinicultores: Empathy Mapping
 
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping _Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/Empathy_Mapping _Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
  
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -920,7 +920,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vitivinicultores: As-is Scenario Map
 
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png">
 </p>
 
 
@@ -947,7 +947,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
  #### Segmento objetivo Trabajador de Campo: As-is Scenario Map
  
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png" style="max-width: 200px; height: 800px;">
+    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png">
 </p>
 
 #### Áreas Clave en el Proceso
