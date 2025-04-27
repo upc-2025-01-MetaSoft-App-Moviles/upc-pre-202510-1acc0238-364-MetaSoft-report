@@ -1429,7 +1429,7 @@ Implementa detalles de persistencia y comunicación externa.
 
 * Publica eventos de creación de registros de campo automáticamente a partir de tareas completadas.
 
-### ** Persistence:**
+### **Persistence:**
 
 **DigitalFieldLogDatabaseAdapter**
 
@@ -1461,18 +1461,51 @@ Implementa detalles de persistencia y comunicación externa.
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-En esta sección se presentan los diagramas de nivel de componente de la arquitectura del API REST del contexto delimitado. Estos diagramas ilustran la estructura interna de los componentes,
+En esta sección se presentan los diagramas de nivel de componente de la arquitectura del API REST de cada uno de los 
+contextos delimitados. 
 
+#### **Component Level Diagram: Vinification Process Management**
 
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Vinification-Process-Management.png" alt="">
 
+---
+
+#### **Component Level Diagram: Supply Management**
+
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Supply-Management.png" alt="">
+
+---
+
+#### **Component Level Diagram: Agricultural Activities**
+
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Agricultural-Activities.png" alt="">
+
+---
+
+#### **Component Level Diagram: Digital Field Log**
+
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Digital-Field-Log.png" alt="">
+
+---
+
+#### **Component Level Diagram: Production History**
+
+<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Production-History.png" alt="">
+
+---
+
+A continuación se presenta el diagrama de componentes de la arquitectura del API REST involucrando todos los contextos delimitados. 
 
 <img src="../../assets/img/chapter-IV/Diagrama-de-componentes-ElixirLine.png" alt="">
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-
+En esta sección se presentan los diagramas de nivel de código de la arquitectura del API REST de cada uno de los contextos delimitados.
 
 #### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 
+
 #### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+
