@@ -55,36 +55,15 @@
     <tr>
         <td>1.0</td>
         <td>2025-01-01</td>
-        <td>Janover Gonzalo Saldaña Vela</td>
-        <td>Creación del informe inicial.</td>
-    </tr>
-    <!-- ========================= FILA 02 ========================= -->
-    <tr>
-        <td>1.1</td>
-        <td>2025-01-02</td>
-        <td>Janover Gonzalo Saldaña Vela</td>
-        <td>Actualización de la sección de objetivos.</td>
-    </tr>
-    <!-- ========================= FILA 03 ========================= -->
-    <tr>
-        <td>1.2</td>
-        <td>2025-01-03</td>
-        <td>Janover Gonzalo Saldaña Vela</td>
-        <td>Revisión y corrección de errores ortográficos.</td>
-    </tr>
-    <!-- ========================= FILA 04 ========================= -->
-    <tr>
-        <td>1.3</td>
-        <td>2025-01-04</td>
-        <td>Janover Gonzalo Saldaña Vela</td>
-        <td>Actualización de la sección de metodología.</td>
-    </tr>
-    <!-- ========================= FILA 05 ========================= -->
-    <tr>
-        <td>1.4</td>
-        <td>2025-01-05</td>
-        <td>Janover Gonzalo Saldaña Vela</td>
-        <td>Actualización de la sección de resultados.</td>
+        <td>
+            Janover Gonzalo Saldaña Vela <br>      
+            Gustavo Esau Huanca Navarro   <br>        
+            Abraham Andres Estrada Cajamune  <br>     
+            Raúl Ronaldo Quispe Erasmo       <br>     
+            Fernando Jesus Lizano Coll Cardenas <br>   
+            Fabricio Apaza Morales  <br>              
+        </td>
+        <td> Presentable TB1 </td>
     </tr>
 </table>
 
@@ -120,6 +99,10 @@ El repositorio se estructuró de la siguiente manera para mejorar la colaboraci�
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro primer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
 **Gráficos de colaboración de los integrantes del equipo**
+
+![img.png](assets/img/develop/img.png)
+
+![img.png](assets/img/develop/img1.png)
 
 ---
 
@@ -253,27 +236,27 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <!-- ==================== ESTUDIANTE 01 ==================== !-->
             <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            utilicé técnicas avanzadas como EventStorming y Context Mapping, lo que me permitió comprender profundamente el dominio del proyecto. A través de la creación de diagramas arquitectónicos a nivel de contexto, contenedor y despliegue, y al trabajar en Bounded Contexts y sus respectivas capas, actualicé mis conocimientos sobre cómo estructurar soluciones de software robustas y escalables, alineadas con las mejores prácticas del sector. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong>  Apaza Morales, Fabricio - TB1 </strong><br>
+            Desarrollé el perfil inicial del startup, la problemática y el Lean UX Problem Statement, aplicando conceptos de lean startup y diseño centrado en el usuario. A su vez, algunas user stories  lo que me ayudó a mejorar en redacción de requisitos y en el uso de tecnologías para la plataforma.<br><br>            
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
+            Durante el desarrollo del proyecto, he actualizado y reforzado conceptos esenciales relacionados con el análisis de segmentos objetivos, definición de assumptions y outcomes, así como otras características clave para la creación de soluciones de software. Esta actualización de conocimientos me ha permitido comprender mejor las necesidades de los usuarios y transformar esos requerimientos en elemento he logrado integrar buenas prácticas de gestión ágil, fortaleciendo así mi preparación profesional y aportando valor al desarrollo del proyecto. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 04 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Quispe Erasmo, Raúl Ronaldo - TB1 </strong><br>
+            Se llevó a cabo un análisis exhaustivo de todas las etapas del proyecto, con el propósito de identificar áreas críticas de mejora y resolver posibles inconvenientes. Este proceso permitió fortalecer los puntos clave del trabajo, asegurando una entrega final de alta calidad. Gracias a estas mejoras, el proyecto no solo fue más eficiente, sino que también incrementó sus posibilidades de obtener una excelente calificación al cumplir con los estándares de calidad esperados. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
+            Durante el desarrollo del primer entregable, consolidé y apliqué conocimientos en diseño de bases de datos, modelado de procesos y estructuración de arquitecturas de software, enfocándome en garantizar una solución robusta y escalable para el proyecto. Esta experiencia me permitió fortalecer mis habilidades en diseño técnico y aplicar mejores prácticas de organización modular, contribuyendo de manera significativa a la calidad y sostenibilidad de la plataforma desarrollada. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
+            Mediante un trabajo de investigación, recopilando, analizando las necesidades de los segmentos objetivos, me enfoqué en la realización del NeedFinding para estructurar requisitos clave. Además de lo User Stories para poder satisfacer las necesidades del usuario final, se enfocó en en endpoints RESTful para la gestión técnica del sistema. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <strong> ENTREGABLE TB2 </strong> <br><br>
@@ -283,33 +266,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <td>
-            <!-- ==================== ESTUDIANTE 01 ==================== !-->
-            <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 02 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 03 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 04 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 05 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 06 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB2 </strong> <br><br>
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
+            A lo largo del proceso, se actualizó y profundizó en conceptos clave relacionados con el desarrollo de software, especialmente en Domain-Driven Design (DDD), EventStorming, y la arquitectura de software. Estas metodologías y herramientas resultaron fundamentales para estructurar de manera efectiva el diseño de la solución, garantizando que los requisitos del negocio se alinearan adecuadamente con la arquitectura técnica. Este enfoque contribuyó significativamente a la creación de una solución robusta, escalable y bien fundamentada, mejorando así la calidad y efectividad del software desarrollado.
         </td>
     </tr>
     <!-- =========================================================== -->
@@ -329,27 +286,27 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <!-- ==================== ESTUDIANTE 01 ==================== !-->
             <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            Durante este proceso de diseño arquitectónico y la implementación de Domain-Driven Design táctico, reconozco lo crucial que es el aprendizaje continuo para mejorar mis habilidades y competencias en el desarrollo de soluciones de software. Al trabajar en diagramas de clases y diseño de bases de datos, me di cuenta de que la evolución constante del conocimiento en metodologías de diseño y arquitectura es esencial para mantenerme competitivo y aplicar las mejores prácticas en mis proyectos de software. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Apaza Morales, Fabricio - TB1 </strong><br>
+            Me enfoqué en crear el perfil del startup, definir la problemática y trabajar en el Lean UX Problem Statement, lo que me permitió aplicar lo aprendido sobre modelos de negocio y diseño centrado en el usuario. Además, desarrollé seis user stories y dos técnicas, lo que me ayudó a mejorar mis habilidades en la creación de requisitos y en la implementación de soluciones tecnológicas. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
+            A través de mi participación en el análisis de segmentos objetivos, la identificación de assumptions y outcomes, y el apoyo en la creación de user stories, he reafirmado la importancia del aprendizaje permanente para mantenerme actualizado en un entorno de constante cambio tecnológico. Este proceso ha fortalecido mi compromiso con la mejora continua, entendiendo que el aprendizaje constante es fundamental para un desempeño profesional sólido y sostenible. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 04 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Quispe Erasmo, Raúl Ronaldo - TB1 </strong><br>
+            Basándome en los conocimientos adquiridos sobre la metodología Agile, implementé diversas prácticas dentro del proyecto, con el objetivo de optimizar tanto el flujo de trabajo como el rendimiento del equipo. Esta aplicación de Agile no solo buscaba fortalecer la comprensión de los conceptos vistos en el curso, sino también fomentar la toma de decisiones efectivas y alcanzar acuerdos que beneficiaran el desarrollo del proyecto. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
+            Durante el desarrollo del proyecto, fortalecí mi capacidad de aprendizaje continuo al profundizar en el diseño de bases de datos, estructuración de arquitecturas de software y aplicación de buenas prácticas de desarrollo. Este proceso me permitió comprender la importancia de mantenerme en constante actualización tecnológica para enfrentar los desafíos de la industria y aportar soluciones de mayor calidad y eficiencia en proyectos de software. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
+            <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
+            He fortalecido mi capacidad de aprendizaje continuo, la profundización en metodologías agiles, mejoras en flujos de trabajo colaborativo, y una mayor adquisición de conocimientos en modelado de procesos <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <strong> ENTREGABLE TB2 </strong> <br><br>
@@ -359,33 +316,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <td>
-            <!-- ==================== ESTUDIANTE 01 ==================== !-->
-            <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
-            Descripción de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 02 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 03 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 04 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 05 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ==================== ESTUDIANTE 06 ==================== !-->
-            <strong> Nombres y Apellidos - TB1 </strong><br>
-            Conclusión de la actividad realizada por el estudiante. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB2 </strong> <br><br>
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
+            Se reconoció la necesidad del aprendizaje continuo como una herramienta esencial para el desempeño profesional en ingeniería de software. La evolución constante de tecnologías y metodologías, como el Domain-Driven Design y los diagramas de arquitectura, subraya la importancia de mantenerse actualizado con las últimas tendencias y herramientas. Este compromiso con el aprendizaje permanente no solo es crucial para el desarrollo profesional, sino también para asegurar que los proyectos de software se mantengan competitivos, innovadores y alineados con las mejores prácticas del sector.
         </td>
     </tr>
 </tbody>
@@ -394,6 +325,37 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 ---
 
 # Objetivos SMART 
+
+Fabricio Apaza Morales:
+
+Participar en al menos dos hackatones o proyectos de código abierto durante el próximo año, contribuyendo activamente con código y completando ambos eventos dentro del plazo de 12 meses
+
+Mejorar mis habilidades en desarrollo móvil aprendiendo a crear aplicaciones para Android o iOS en los próximos 6 meses, dedicando al menos 5 horas semanales a cursos prácticos y proyectos.
+
+Raúl Ronaldo Quispe Erasmo:
+
+Desarrollar al menos dos aplicaciones móviles básicas utilizando Flutter o React Native en los próximos 8 meses, dedicando un mínimo de 5 horas semanales a cursos y prácticas de programación.
+
+- Mejorar mis habilidades en desarrollo web y bases de datos, completando un curso especializado en frontend, backend y SQL en un plazo de 6 meses, aplicando lo aprendido en un proyecto personal funcional.
+
+Abraham Andres Estrada Cajamune:
+Perfeccionar habilidades en UX Design, creando mejores prototipos funcionales y asistiendo a eventos especializados para mejorar la experiencia del usuario en aplicaciones web
+
+Mejorar mis habilidades en desarrollo y programación frontend y backend profundizando en desarrollos de APIS y validaciones de datos para construir sistemas tanto escalables como eficientes para el usuario.
+
+Janover Gonzalo Saldaña Vela:
+
+Mejorar la habilidad de liderazgo de equipos de desarrollo de software participando como líder de equipo en al 
+menos dos proyectos dentro de los próximos 12 meses. Dedicar al menos 10 horas mensuales a estudiar habilidades de gestión ágil, como Scrum o Kanban, a través de cursos en línea.
+
+- **Medición:** Dirigir con éxito dos proyectos de equipo y obtener retroalimentación positiva en al menos el 85% de 
+los aspectos relacionados con la gestión del equipo.
+
+Crear y lanzar un portafolio profesional online en los próximos 4 meses, en el que se incluyan al menos tres 
+proyectos completos que demuestren habilidades avanzadas en desarrollo web y UX/UI. El portafolio debe ser accesible en múltiples dispositivos y tener un mínimo de 50 visitas mensuales tras el lanzamiento.
+
+- **Medición:** Contabilizar las visitas al portafolio mediante Google Analytics y obtener al menos un contacto laboral o 
+de colaboración en los primeros 3 meses.
 
 
 
