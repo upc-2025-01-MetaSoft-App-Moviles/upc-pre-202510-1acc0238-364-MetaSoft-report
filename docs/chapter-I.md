@@ -29,7 +29,7 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <tr>
     <!-- ======================= Foto ======================= -->
     <td>
-      <img src="../../assets/img/chapter-I/Gonzalo-Saldaña.jpg" height="120" alt="">
+      <img src="../assets/img/chapter-I/Gonzalo-Saldaña.jpg" height="120" alt="">
       Janover Gonzalo Saldaña Vela - U20201B510
     </td>
     <!-- ======================= Descripción ======================= -->
@@ -51,7 +51,7 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <tr>
     <!-- ======================= Foto ======================= -->
     <td>
-      <img src="../../assets/img/chapter-I/Fabricio-Apaza.jpg" height="120" alt="">
+      <img src="../assets/img/chapter-I/Fabricio-Apaza.jpg" height="120" alt="">
       Fabricio Apaza Morales - U201922146
     </td>
     <!-- ======================= Descripción ======================= -->
@@ -68,7 +68,7 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <tr>
     <!-- ======================= Foto ======================= -->
     <td>
-      <img src="../../assets/img/chapter-I/Fernando-Lizano.jpg" HEIGHT="150" width="130" alt="">
+      <img src="../assets/img/chapter-I/Fernando-Lizano.jpg" HEIGHT="150" width="130" alt="">
       Fernando Lizano Coll Cardenas - u202214522
     </td>
     <!-- ======================= Descripción ======================= -->
@@ -81,7 +81,7 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <tr>
     <!-- ======================= Foto ======================= -->
     <td>
-      <img src="../../assets/img/chapter-I/raul.jpg" HEIGHT="150" width="130" alt="">
+      <img src="../assets/img/chapter-I/raul.jpg" HEIGHT="150" width="130" alt="">
       Raúl Ronaldo Quispe Erasmo - u20211b682
     </td>
     <!-- ======================= Descripción ======================= -->
@@ -94,7 +94,7 @@ de su formación académica, intereses y conocimientos técnicos. Esta informaci
   <tr>
     <!-- ======================= Foto ======================= -->
     <td>
-<img src="../../assets/img/chapter-I/Gustavo-Huanca.jpg" alt="">
+<img src="../assets/img/chapter-I/Gustavo-Huanca.jpg" alt="">
 Gustavo Esau Huanca Navarro - U202215285
 </td>
     <!-- ======================= Descripción ======================= -->
@@ -107,7 +107,7 @@ Gustavo Esau Huanca Navarro - U202215285
   <tr>
     <!-- ======================= Foto ======================= -->    
     <td>
-     <img src="../../assets/img/chapter-I/Estrada-Cajamune.jpg" alt="">
+     <img src="../assets/img/chapter-I/Estrada-Cajamune.jpg" alt="">
     Abraham Andres Estrada Cajamune - U202112164
     </td>
     <!-- ======================= Descripción ======================= -->
@@ -378,7 +378,7 @@ Para la elaboración de los Hypothesis Statements se utilizó el formato Lean UX
 #### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-  <img src="../../assets/img/chapter-I/lean-ux-canvas-metasoft.png" style="width:1000px; height:auto;" alt="">
+  <img src="../assets/img/chapter-I/lean-ux-canvas-metasoft.png" style="width:1000px; height:auto;" alt="">
 </p>
 
 <p align = "center"> <em> Fuente: Elaboración propia </em> </p>
