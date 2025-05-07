@@ -6,12 +6,12 @@
 
 **Josep Grau**
 
-![](../../assets/img/chapter-III/Josep%20Grau.png)
+![](../assets/img/chapter-III/Josep%20Grau.png)
 
 
 **Luis Gómez**
 
-![](../../assets/img/chapter-III/Luis%20G%C3%B3mez.png)
+![](../assets/img/chapter-III/Luis%20Gómez.png)
 
 
 ## 3.2. User Stories.
@@ -1422,10 +1422,10 @@ And envía una notificación push al vinicultor responsable con los detalles de 
 
 ## Vinucultor
 
-![](../../assets/img/chapter-III/impact%20map-Josep%20Grau.png)
+![](../assets/img/chapter-III/impact%20map-Josep%20Grau.png)
 
 ## Trabajador de campo
-![](../../assets/img/chapter-III/Impact%20map-Luis%20Gomez.png)
+![](../assets/img/chapter-III/Impact%20map-Luis%20Gomez.png)
 
 
 
