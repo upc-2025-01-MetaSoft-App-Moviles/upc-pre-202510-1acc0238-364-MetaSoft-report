@@ -307,6 +307,35 @@ Si has seguido correctamente todos los pasos y directrices mencionados, entonces
 
 ### 6.1.4. Software Deployment Configuration
 
+### Landing Page Deployment
+
+Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes pasos:
+
+**1. Ubicar el repositorio que tiene guardado el codigo fuente y dirigirse al apartado de configuración (settings):**
+
+
+![repo-landing-page.png](../assets/img/chapter-VI/sprint-1/repo-landing-page.png)
+
+
+**2. Seleccionar la sección pages:**
+
+
+![pages-landing-page.png](../assets/img/chapter-VI/sprint-1/pages-landing-page.png)
+
+
+**3. Configurar la rama que será usada para hacer deploy:**
+
+![rama-landing-page.png](../assets/img/chapter-VI/sprint-1/rama-landing-page.png)
+
+### Web services Deployment (API REST)
+
+El despliegue de los servicios web se realizará en la nube utilizando el servicio de
+GCP (Google Cloud platform). Para ello se utilizará el servicio de App Engine, que 
+permite desplegar aplicaciones web y servicios en la nube de manera sencilla 
+y escalable.
+
+
+
 
 ## 6.2. Landing Page & Mobile Application Implementation
 
