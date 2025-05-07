@@ -16,7 +16,7 @@ según criterios como su frecuencia y relevancia, entre otros.
 
 En esta fase, se definieron los eventos principales que reflejan las acciones más relevantes dentro del sistema.
 
-<img src="../../assets/img/chapter-IV/EventStorming-Unstructured-Exploration.png" alt="">
+<img src="../assets/img/chapter-IV/EventStorming-Unstructured-Exploration.png" alt="">
 
 --- 
 
@@ -26,7 +26,7 @@ Luego, se dispusieron los eventos en una línea de tiempo con el objetivo de vis
 de interacciones y la secuencia entre ellos. Esta disposición cronológica ayuda a identificar 
 dependencias y momentos clave, lo que contribuye a un diseño más claro y coherente del sistema.
 
-<img src="../../assets/img/chapter-IV/EventStorming-Timelines.png" alt="">
+<img src="../assets/img/chapter-IV/EventStorming-Timelines.png" alt="">
 
 --- 
 
@@ -34,7 +34,7 @@ dependencias y momentos clave, lo que contribuye a un diseño más claro y coher
 
 En el tercer paso, identificamos "Pain Points" o cuellos de botella en el flujo de eventos.
 
-<img src="../../assets/img/chapter-IV/EventStorming-Paint-Points.png" alt="">
+<img src="../assets/img/chapter-IV/EventStorming-Paint-Points.png" alt="">
 
 --- 
 
@@ -42,7 +42,7 @@ En el tercer paso, identificamos "Pain Points" o cuellos de botella en el flujo 
 
 Identificamos los "Pivotal Points",  Estos puntos son esenciales para el flujo del sistema, y su correcta implementación asegura un funcionamiento fluido.
 
-<img src="../../assets/img/chapter-IV/EventStorming-Pivotal-Points.png" alt="">
+<img src="../assets/img/chapter-IV/EventStorming-Pivotal-Points.png" alt="">
 
 --- 
 
@@ -50,7 +50,7 @@ Identificamos los "Pivotal Points",  Estos puntos son esenciales para el flujo d
 
 Finalmente, se definieron los comandos que pueden ser ejecutados por los distintos roles dentro del sistema. Cada rol cuenta con permisos específicos, lo que garantiza que los usuarios tengan acceso únicamente a las funciones que les corresponden según su perfil
 
-<img src="../../assets/img/chapter-IV/EventStorming-Commands.png" alt="">
+<img src="../assets/img/chapter-IV/EventStorming-Commands.png" alt="">
 
 
 #### 4.1.1.1. Candidate Context Discovery
@@ -67,7 +67,7 @@ Se definieron modelos de lectura que representan el estado actual del sistema. E
 
 Se identificaron sistemas externos que interactúan con la aplicación, los cuales son esenciales para la ejecución de ciertas funciones. Para manejar estas interacciones, se implementaron mecanismos que permiten gestionar adecuadamente las dependencias y asegurar una integración eficiente.
 
-<img src="../../assets/img/chapter-IV/External-Systems.png" alt="">
+<img src="../assets/img/chapter-IV/External-Systems.png" alt="">
 
 **Step 9: Aggregates**
 
@@ -77,7 +77,7 @@ Se definieron agregados que agrupan de forma lógica entidades relacionadas, lo 
 
 Finalmente, se definieron los Bounded Contexts, cada uno con responsabilidades claras y bien delimitadas. Esto permite una mejor organización del sistema, facilita el mantenimiento y asegura una alineación más efectiva con los objetivos del negocio.
 
-<img src="../../assets/img/chapter-IV/Bounded-Context.png" alt="">
+<img src="../assets/img/chapter-IV/Bounded-Context.png" alt="">
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
@@ -103,27 +103,27 @@ diseño del sistema.
 
 **Bounded Context Canvas: Vinification Process Management**
 
-<img src="../../assets/img/chapter-IV/Vinification-Process-Management-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Vinification-Process-Management-Bounded-Context-Canvas.jpg" alt="">
 
 **Bounded Context Canvas: Supply Management**
 
-<img src="../../assets/img/chapter-IV/Supply-Management-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Supply-Management-Bounded-Context-Canvas.jpg" alt="">
 
 **Bounded Context Canvas: Agricultural Activities**
 
-<img src="../../assets/img/chapter-IV/Agricultural-Activities-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Agricultural-Activities-Bounded-Context-Canvas.jpg" alt="">
 
 **Bounded Context Canvas: Digital Field Log**
 
-<img src="../../assets/img/chapter-IV/Digital-Field-Log-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Digital-Field-Log-Bounded-Context-Canvas.jpg" alt="">
 
 **Bounded Context Canvas: Production History and Campaigns**
 
-<img src="../../assets/img/chapter-IV/Production-History-and-Campaigns-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Production-History-and-Campaigns-Bounded-Context-Canvas.jpg" alt="">
 
 **Bounded Context Canvas: Identity and Access Management - IAM**
 
-<img src="../../assets/img/chapter-IV/Identity-and-Access-Management-IAM-Bounded-Context-Canvas.jpg" alt="">
+<img src="../assets/img/chapter-IV/Identity-and-Access-Management-IAM-Bounded-Context-Canvas.jpg" alt="">
 
 
 ### 4.1.2. Context Mapping
@@ -146,7 +146,7 @@ El diagrama de nivel de contexto de ElixirLine muestra las interacciones clave e
 * Vinicultor: Responsables de gestionar el ciclo completo de producción
 * Trabajador de campo: Encargados de ejecutar tareas agrícolas bajo la dirección del vinicultor
 
-<img src="../../assets/img/chapter-IV/Diagrama-contexto-ElixirLine.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-contexto-ElixirLine.png" alt="">
 
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
@@ -158,13 +158,13 @@ Este diagrama detalla la arquitectura de los contenedores de ElixirLine, mostran
 * Backend: Servicio REST que gestiona y procesa la información de los datos.
 * Database: Base de datos donde se almacena la información relacionada con las actividades de producción del viñedo, vinicultores y trabajadores de campo.
 
-<img src="../../assets/img/chapter-IV/Diagrama-contenedores-ElixirLine.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-contenedores-ElixirLine.png" alt="">
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
 Nuestro servidor backend y de base de datos se desplegará utilizando la nube de Google Cloud Platform (GCP).
 
-<img src="../../assets/img/chapter-IV/Software-Architecture-Deployment-ElixirLine.png" alt="">
+<img src="../assets/img/chapter-IV/Software-Architecture-Deployment-ElixirLine.png" alt="">
 
 
 ## 4.2. Tactical-Level Domain-Driven Design
@@ -1466,37 +1466,37 @@ contextos delimitados.
 
 #### **Component Level Diagram: Vinification Process Management**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Vinification-Process-Management.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-Vinification-Process-Management.png" alt="">
 
 ---
 
 #### **Component Level Diagram: Supply Management**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Supply-Management.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-Supply-Management.png" alt="">
 
 ---
 
 #### **Component Level Diagram: Agricultural Activities**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Agricultural-Activities.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-Agricultural-Activities.png" alt="">
 
 ---
 
 #### **Component Level Diagram: Digital Field Log**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Digital-Field-Log.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-Digital-Field-Log.png" alt="">
 
 ---
 
 #### **Component Level Diagram: Production History**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-Production-History.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-Production-History.png" alt="">
 
 ---
 
 A continuación se presenta el diagrama de componentes de la arquitectura del API REST involucrando todos los contextos delimitados. 
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-componentes-ElixirLine.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-componentes-ElixirLine.png" alt="">
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1506,11 +1506,11 @@ En esta sección se presentan los diagramas de nivel de código de la arquitectu
 
 **Bounded context: Vinification Process Management**
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-clases-Vinification-Process-Management.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-clases-Vinification-Process-Management.png" alt="">
 
 Bounded context: Supply Management
 
-<img src="../../assets/img/chapter-IV/Diagrama-de-clases-Supply-Management.png" alt="">
+<img src="../assets/img/chapter-IV/Diagrama-de-clases-Supply-Management.png" alt="">
 
 ## Avance de Conclusiones 
 
