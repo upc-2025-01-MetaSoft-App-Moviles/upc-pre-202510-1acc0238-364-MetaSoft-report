@@ -21,10 +21,10 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th> <img width="100" alt="Logo_ExilirLine" src="../../assets/img/chapter-II/Logo_ExilirLine.png"> </th>
-            <th><img src="../../assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
-            <th><img src="../../assets/img/chapter-II/Logo_WineManager.png" width="100" alt="Logo_WineManager"></th>
-            <th><img src="../../assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
+            <th> <img width="100" alt="Logo_ExilirLine" src="../assets/img/chapter-II/Logo_ExilirLine.png"> </th>
+            <th><img src="../assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
+            <th><img src="../assets/img/chapter-II/Logo_WineManager.png" width="100" alt="Logo_WineManager"></th>
+            <th><img src="../assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
         </tr>
         <tr>
             <th rowspan="2"> <strong> Perfil </strong> </th>
@@ -338,7 +338,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista1-deybi.png" alt="Foto de entrevista">
+                    <img src="../assets/img/chapter-II/entrevista1-deybi.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
@@ -382,7 +382,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista_francisco.jpg" alt="Foto de entrevista">
+                    <img src="../assets/img/chapter-II/entrevista_francisco.jpg" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
@@ -426,7 +426,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
+                    <img src="../assets/img/chapter-II/entrevista_fernando.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
@@ -475,7 +475,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/entrevista_fabricio.png" alt="Foto de entrevista">
+                    <img src="../assets/img/chapter-II/entrevista_fabricio.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
@@ -519,7 +519,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
             </tr>
             <tr>
                 <td>
-                    <img src="../../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
+                    <img src="../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
@@ -643,12 +643,12 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Person Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
+    <img src="../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
 </p>
 
 #### b) User Person Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo">
+    <img src="../assets/img/chapter-II/User_Person_TrabajadorCampo.png"  alt="User_Person_TrabajadorCampo">
 </p>
     
     
@@ -811,12 +811,12 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Journey Mapping Vitivinicultor
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
 </p>
 
 #### b) User Journet Mapping Trabajador de Campo
 <p>
-    <img src="../../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png">
+    <img src="../assets/img/chapter-II/User_Journey_Mapping_TrabajadorCampo.png"  alt="User_Journey_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -851,13 +851,13 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vitivinicultores: Empathy Mapping
 
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping _Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/Empathy_Mapping%20_Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
  
 <p>
-    <img src="../../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png">
+    <img src="../assets/img/chapter-II/Empathy_Mapping_TrabajadorCampo.png"  alt="Empathy_Mapping_TrabajadorCampo.png">
 </p>
 
 
@@ -964,7 +964,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vitivinicultores: As-is Scenario Map
 
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png">
 </p>
 
 
@@ -991,7 +991,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
  #### Segmento objetivo Trabajador de Campo: As-is Scenario Map
  
 <p>
-    <img src="../../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png">
+    <img src="../assets/img/chapter-II/As-is_Scenario_Map_TrabajadorCampo.png"  alt="As-is_Scenario_Map_TrabajadorCampo.png">
 </p>
 
 #### Áreas Clave en el Proceso
