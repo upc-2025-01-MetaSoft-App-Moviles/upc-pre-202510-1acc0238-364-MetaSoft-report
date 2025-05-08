@@ -304,6 +304,12 @@ Si has seguido correctamente todos los pasos y directrices mencionados, entonces
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
+A continuación, se presentan las convenciones de estilo de código que se utilizarán 
+en el proyecto. Estas convenciones son importantes para mantener la coherencia y la 
+legibilidad del código a lo largo del desarrollo.
+
+
+
 
 ### 6.1.4. Software Deployment Configuration
 
