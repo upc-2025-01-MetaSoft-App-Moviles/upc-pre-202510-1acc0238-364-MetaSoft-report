@@ -442,6 +442,9 @@ Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, program�
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para llevar a cabo la implementación de nuestro sitio web, decidimos utilizar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub que nos permitió gestionar el control de versiones. Desde la sección de Configuración, publicamos el proyecto alojado en la rama "¿?", el cual anteriormente se encontraba en la rama "¿?".
+
+[Landing Page ElixirLine]() - FALTA LINK
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
