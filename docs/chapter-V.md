@@ -67,6 +67,27 @@ A continuación, se presenta una breve descripción de los colores que se utiliz
 
 Estos colores reflejan la esencia viva del campo, la uva, el vino y los materiales naturales presentes en el día a día del productor artesanal.
 
+**Achromatic Colors:**
+
+#F5F5DC (Beige Suave): Un color neutro y cálido que recuerda etiquetas artesanales y materiales orgánicos. Se emplea como fondo base para mejorar la legibilidad sin fatigar la vista.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/achromatic%20colors/beige_color.png"  style="width:500px; height:auto;" alt="">
+</p>
+
+#708090 (Gris Pizarra): Este gris azulado se emplea para textos secundarios, divisores y fondos neutros. Aporta elegancia, estructura y profesionalismo sin restar protagonismo a los colores principales.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/achromatic%20colors/pizarra_color.png"  style="width:500px; height:auto;" alt="">
+</p>
+
+#FFFFFF / #000000 (Blanco / Negro): Utilizados para mantener un alto contraste y legibilidad. Blancos en fondos y negros para textos principales, adaptados a diversos contextos de luz en entornos rurales.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/achromatic%20colors/blancoynegro_color.png"  style="width:500px; height:auto;" alt="">
+</p>
+
+
 ### 5.1.2. Information Architecture
 
 
