@@ -357,6 +357,57 @@ y escalable.
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Landing-Page.git </td>
+    <td align="center"> Master </td>
+    <td align="center"> b09ede62c8d4705d99faeb5abdd9e95ff47b86ce </td>
+    <td align="center"> initial commit </td>
+    <td align="center">  </td>
+    <td align="center"> 2025/04/14 </td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop </td>
+    <td align="center"> b09ede62c8d4705d99faeb5abdd9e95ff47b86ce </td>
+    <td align="center"> chore: Added initial landing page project structure. </td>
+    <td align="center">  </td>
+    <td align="center"> 2025/04/14 </td>
+  </tr>
+  
+  <tr>
+    <td align="center"> feat/Benefits </td>
+    <td align="center"> 05431e5c9484a19a83ff3e61fbcdb063a18c46c2 </td>
+    <td align="center"> feat(benefits): benefits seccion added. </td>
+    <td align="center">  </td>
+    <td align="center"> 2025/05/08 </td>
+  </tr>
+
+  <tr>
+    <td align="center"> feat/SuscriptionsAndVideo </td>
+    <td align="center"> 5ec751d9fb45fa63c6dc90aa838f78a9c94208e0 </td>
+    <td align="center"> feat(SubscriptionsAndVideo): added Subscriptions and Video section </td>
+    <td align="center">  </td>
+    <td align="center"> 2025/05/08 </td>
+  </tr>
+
+  <tr>
+    <td align="center"> header-hero </td>
+    <td align="center"> 1a8bc4e4f804d2b670bf9d3b57b3ed3cf35777f6 </td>
+    <td align="center"> feat(index): added header area content </td>
+    <td align="center">  </td>
+    <td align="center"> 2025/05/07 </td>
+  </tr>
+</table>
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
