@@ -109,6 +109,53 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 #### 5.1.2.1. Organization Systems
 
+1. **Visual Organization of Content**
+
+- **Jerárquica (Visual Hierarchy):**
+    - Aplicación Móvil:
+        - Pantalla principal muestra primero:
+            - Actividades agrícolas o de vinificación programadas para hoy.
+            - Acciones rápidas: registrar nueva tarea o acceder al calendario.
+        - Área secundaria para: historial de tareas, gestión de lotes, reportes y configuración.
+    - Landing Page:
+        - Sección "Who we are" y misión de ElixirLine.
+        - Beneficios destacados para vinicultores y trabajadores.
+        - Testimonios.
+        - Preguntas frecuentes.
+        - Sección de Contacto y Ubicación
+        - Footer con enlaces a contacto, políticas y redes sociales.
+
+
+- **Secuencial (Step-by-Step Process):**
+    - Proceso para registrar una tarea agrícola o de bodega:
+        1. Seleccionar tipo de actividad (poda, riego, cosecha, fermentación, etc.).
+        2. Indicar fecha, lote y trabajador asignado.
+        3. Añadir insumos o herramientas utilizadas.
+        4. Confirmar y guardar.
+        5. Visualizar resumen en el historial o generar reporte.
+
+- **Matricial (Matrix Organization):**
+    - Vista de actividades por lote y por fase del proceso (campo y bodega): permite comparar el avance o estado de diferentes lotes según tareas realizadas, responsables o fechas, en una cuadrícula interactiva.
+
+2. **Categorization Schemes**
+
+- **Alfabético:** Listado de insumos y tareas organizadas alfabéticamente para facilitar su selección durante el registro.
+
+- **Cronológico:** Historial de actividades agrícolas y de bodega organizado de la más reciente a la más antigua, accesible desde la sección de reportes.
+
+- **Por Tópicos:**
+    - Sección de ayuda dividida en categorías como:
+        1. Registro de tareas
+        2. Uso de la app sin conexión
+        3. Sincronización de datos
+        4. Gestión de usuarios
+
+- **Según Audiencia:**
+    - En la Landing Page:
+        - Segmento para vinicultores (“Optimiza la gestión de tu viñedo artesanal”).
+        - Segmento para trabajadores de campo (“Tareas claras, registro fácil”).
+    - Durante el onboarding en la app:
+        - Contenido adaptado según si el usuario es responsable de bodega, de campo o supervisor técnico.
 
 #### 5.1.2.2. Labelling Systems
 
