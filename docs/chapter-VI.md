@@ -411,9 +411,15 @@ y escalable.
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
+Para este primer sprint no se realizaron testing.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
+Tras finalizar el Sprint 1, conseguimos desarrollar por completo todas las secciones de nuestra Landing Page, asegurando una visualización óptima. Asimismo, aplicamos un diseño atractivo que capta la atención del usuario y lo dirige hacia los distintos elementos de la página. También incorporamos funcionalidades de navegación, como botones situados en la parte superior, que facilitan el desplazamiento entre las secciones.
+
+Cabe resaltar que el propósito principal de esta Landing Page es convertir a los visitantes en clientes potenciales o usuarios recurrentes del servicio. Para ello, integramos llamados a la acción (Call To Action) que los conducen directamente a la aplicación web.
+
+A continuación, compartimos capturas de pantalla que muestran el progreso alcanzado en el desarrollo de la Landing Page:
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
