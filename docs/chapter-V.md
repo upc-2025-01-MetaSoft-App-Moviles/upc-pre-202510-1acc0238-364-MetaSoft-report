@@ -87,6 +87,21 @@ Estos colores reflejan la esencia viva del campo, la uva, el vino y los material
   <img src="../assets/img/chapter-V/achromatic%20colors/blancoynegro_color.png"  style="width:500px; height:auto;" alt="">
 </p>
 
+**Icon**
+
+<p align="center">
+  <img src="../assets/img/chapter-V/icon.svg"  style="width:500px; height:auto;" alt="">
+</p>
+
+El ícono de ElixirLine representa el corazón de la producción vitivinícola artesanal: un barril de madera tradicional, símbolo de trabajo manual, tradición y del tiempo necesario para alcanzar la excelencia en cada cosecha.
+
+En el centro del barril se encuentra una botella de vino de color representativo del vino tinto, que refleja la esencia del producto final y la pasión que acompaña todo el proceso. Esta botella transmite claridad de propósito, calidad y compromiso con la autenticidad.
+
+El diseño combina la estética rústica del mundo rural con un enfoque moderno y minimalista, utilizando formas simples pero significativas.
+
+<p align="center">
+  <img src="../assets/img/chapter-V/chromatic%20colors/vino_color.png"  style="width:500px; height:auto;" alt="">
+</p>
 
 ### 5.1.2. Information Architecture
 
