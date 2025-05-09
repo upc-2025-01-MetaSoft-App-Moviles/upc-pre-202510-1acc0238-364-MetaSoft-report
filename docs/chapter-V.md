@@ -312,6 +312,115 @@ El sistema de etiquetado garantiza rapidez de navegación, reducción del esfuer
 
 #### 5.1.2.3. SEO Tags and Meta Tags
 
+<p>
+Para mejorar la visibilidad del sitio web de <strong>ElixirLine</strong> en motores de búsqueda y garantizar una correcta visualización en dispositivos móviles, se definieron un conjunto de <strong>etiquetas SEO (Search Engine Optimization)</strong> y <strong>metaetiquetas</strong> esenciales. Estas etiquetas optimizan el posicionamiento orgánico, mejoran la experiencia de navegación e incrementan la tasa de conversión al reflejar claramente el propósito de la plataforma.
+</p>
+
+<h4>A. Web SEO Tags (Landing Page)</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Etiqueta</th>
+      <th>Contenido propuesto</th>
+      <th>Función</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&lt;title&gt;</td>
+      <td>ElixirLine – From the grape to the bottle</td>
+      <td>Título que aparece en la pestaña del navegador y resultados de búsqueda</td>
+    </tr>
+    <tr>
+      <td>&lt;meta name="description"&gt;</td>
+      <td>Mobile platform to manage artisanal winemaking – plan, assign, and track every task from field to bottle. Offline-ready and user-friendly.</td>
+      <td>Resumen breve y convincente que aparece en buscadores; mejora el CTR</td>
+    </tr>
+    <tr>
+      <td>&lt;meta name="keywords"&gt;</td>
+      <td>ElixirLine, vineyard app, wine production, fieldwork tracking, artisan wine, agro technology</td>
+      <td>Palabras clave relevantes que asocian la web a temas específicos</td>
+    </tr>
+    <tr>
+      <td>&lt;meta name="author"&gt;</td>
+      <td>MetaSoft Team – Universidad Peruana de Ciencias Aplicadas, 2025</td>
+      <td>Indica el equipo creador del contenido</td>
+    </tr>
+    <tr>
+      <td>&lt;meta name="viewport"&gt;</td>
+      <td>width=device-width, initial-scale=1.0</td>
+      <td>Garantiza un diseño adaptable y correcto en dispositivos móviles</td>
+    </tr>
+    <tr>
+      <td>&lt;meta charset="UTF-8"&gt;</td>
+      <td>UTF-8</td>
+      <td>Permite el uso de caracteres internacionales (tildes, ñ, etc.)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+Además de las incorporaciones de:
+<ul>
+  <li><strong>Etiquetas <code>alt</code></strong> descriptivas para imágenes, facilitando la accesibilidad y el SEO visual.</li>
+  <li><strong>Open Graph Tags</strong> (<code>og:title</code>, <code>og:description</code>, <code>og:image</code>) para optimizar la apariencia del sitio al compartirlo en redes sociales.</li>
+  <li><strong>Datos estructurados con schema.org</strong> para marcar elementos como testimonios, productos y preguntas frecuentes (FAQ).</li>
+</ul>
+</p>
+
+<h4>B. App Store Optimization (ASO)</h4>
+
+<p>
+Como ElixirLine será también una aplicación móvil, se definieron elementos clave para su publicación y descubrimiento en tiendas digitales como Google Play Store y App Store.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento ASO</th>
+      <th>Valor propuesto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>App Title</td>
+      <td>ElixirLine: Vineyard & Wine Manager</td>
+    </tr>
+    <tr>
+      <td>App Subtitle</td>
+      <td>Plan, track and manage your artisanal winemaking process</td>
+    </tr>
+    <tr>
+      <td>App Description</td>
+      <td>ElixirLine is a mobile-first solution for small and medium wine producers. Organize vineyard tasks, record activities in the field—even offline—and monitor the entire winemaking cycle. Simple, reliable, and built for rural users.</td>
+    </tr>
+    <tr>
+      <td>App Keywords</td>
+      <td>winemaking, vineyard, task planner, agro app, field tracking, artisan wine, production manager</td>
+    </tr>
+    <tr>
+      <td>Target Audience</td>
+      <td>Artisanal wine producers, rural field workers, agricultural technicians</td>
+    </tr>
+    <tr>
+      <td>Category</td>
+      <td>Agriculture / Productivity</td>
+    </tr>
+    <tr>
+      <td>Capturas sugeridas</td>
+      <td>Interfaz de tareas, calendario agrícola, bitácora offline, vista de reportes</td>
+    </tr>
+    <tr>
+      <td>Iconografía</td>
+      <td>Barril rústico con botella central (símbolo visual de tradición + tecnología)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+La combinación de etiquetas SEO web y elementos ASO móviles garantiza una experiencia optimizada de descubrimiento, usabilidad y posicionamiento de ElixirLine en todos los canales digitales.
+</p>
 
 #### 5.1.2.4. Searching Systems
 
