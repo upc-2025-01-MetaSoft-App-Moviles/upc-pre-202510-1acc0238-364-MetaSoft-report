@@ -423,6 +423,22 @@ A continuación, compartimos capturas de pantalla que muestran el progreso alcan
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, programó y habilitó el sitio web (Landing Page) destinado a presentar la aplicación web propuesta, llamada "ElixirLine". En esta Landing Page se pueden visualizar diversas secciones que explican en qué consiste "ElixirLine". Cada miembro del equipo de MetaSoft fue responsable del desarrollo de una sección específica.
+
+<table>
+  <thead>
+    <tr>
+      <th>End Point</th>
+      <th> Funciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>AQUI SUBIR Landing DEPLOYADO</td>
+        <td>Mostrar la Landing Page Desplegada</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
