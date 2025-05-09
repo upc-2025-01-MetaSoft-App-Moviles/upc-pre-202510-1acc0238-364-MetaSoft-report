@@ -424,6 +424,83 @@ La combinación de etiquetas SEO web y elementos ASO móviles garantiza una expe
 
 #### 5.1.2.4. Searching Systems
 
+<p>
+En esta sección se definen los sistemas de búsqueda diseñados para evitar que los usuarios se sientan perdidos ante el volumen creciente de datos agrícolas y de producción dentro de <strong>ElixirLine</strong>. Se detallan los mecanismos disponibles tanto en la <strong>aplicación móvil</strong> como en la <strong>landing page</strong>, los filtros incluidos, y el formato de visualización posterior a la búsqueda.
+</p>
+
+<h4>A. Aplicación Móvil / WebApp</h4>
+
+<p><strong>Objetivo:</strong> Permitir al vinicultor o trabajador de campo localizar tareas, lotes, insumos o reportes de manera rápida, incluso sin conexión constante a internet.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Funcionalidad</th>
+      <th>Descripción</th>
+      <th>Filtros disponibles</th>
+      <th>Visualización del resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscador global</td>
+      <td>Campo de búsqueda en el dashboard que permite encontrar tareas, lotes o insumos por nombre.</td>
+      <td>Tipo (actividad / insumo / lote)<br>Fecha de registro<br>Estado (pendiente / en curso / completado)</td>
+      <td>Listado interactivo con tarjetas resumen. Al hacer clic, lleva al detalle de la actividad o lote.</td>
+    </tr>
+    <tr>
+      <td>Búsqueda por lote</td>
+      <td>Permite visualizar todas las actividades asociadas a un lote específico.</td>
+      <td>Rango de fechas<br>Tipo de tarea (riego, poda, fermentación)</td>
+      <td>Vista tipo cronograma / lista filtrada por lote, con indicadores de estado por tarea.</td>
+    </tr>
+    <tr>
+      <td>Historial de tareas</td>
+      <td>Funcionalidad tipo "bitácora digital" que permite filtrar actividades pasadas.</td>
+      <td>Responsable asignado<br>Estado de ejecución<br>Fecha</td>
+      <td>Tabla o vista tipo timeline con íconos por tipo de tarea y colores por estado.</td>
+    </tr>
+    <tr>
+      <td>Modo offline</td>
+      <td>Permite buscar entre registros locales sin necesidad de conexión.</td>
+      <td>Palabra clave + filtros básicos (tipo, estado)</td>
+      <td>Resultados locales mostrados de forma similar a la vista online, con ícono de "sincronización pendiente".</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>B. Landing Page</h4>
+
+<p><strong>Objetivo:</strong> Facilitar el acceso a secciones clave del sitio (planes, equipo, preguntas frecuentes, contacto) sin que el visitante se sienta perdido.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Funcionalidad</th>
+      <th>Descripción</th>
+      <th>Filtros disponibles</th>
+      <th>Visualización del resultado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Buscador de navegación</td>
+      <td>Campo tipo "search bar" en el header (por implementar) para ubicar contenido de la landing.</td>
+      <td>Título o palabra clave<br>Sección objetivo (FAQ, Testimonios, Suscripciones, Contacto)</td>
+      <td>Auto-scroll a la sección buscada con animación suave.</td>
+    </tr>
+    <tr>
+      <td>Preguntas frecuentes</td>
+      <td>Sección FAQ dividida por categorías de consulta (uso, planes, soporte).</td>
+      <td>Palabras clave o selección de categoría</td>
+      <td>Despliegue tipo acordeón con la respuesta directa resaltada.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+El diseño de estos sistemas de búsqueda responde a criterios de simplicidad, rapidez y eficiencia en contextos rurales. Se prioriza una <strong>navegación intuitiva y la visualización resumida de resultados</strong>, permitiendo al usuario acceder al contenido deseado con el menor número de pasos posibles.
+</p>
 
 #### 5.1.2.5. Navigation Systems
 
