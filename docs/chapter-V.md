@@ -503,6 +503,91 @@ El diseño de estos sistemas de búsqueda responde a criterios de simplicidad, r
 </p>
 
 #### 5.1.2.5. Navigation Systems
+<p>
+En esta sección se describen las <strong>acciones y técnicas</strong> que guiarán a los usuarios a través del <strong>Landing Page</strong> y de la <strong>aplicación móvil</strong> de <strong>ElixirLine</strong>, permitiéndoles recorrer el contenido, interactuar fluidamente con el sistema y cumplir sus objetivos sin perderse. Las decisiones de navegación fueron pensadas para usuarios con poca experiencia digital y para contextos rurales, donde la simplicidad y claridad de recorrido son esenciales.
+</p>
+
+<h4>A. Aplicación Móvil</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento de Navegación</th>
+      <th>Descripción</th>
+      <th>Beneficio para el Usuario</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Barra de navegación inferior (tab bar)</td>
+      <td>Accesos rápidos a Dashboard, Tasks, Calendar, Reports y Profile</td>
+      <td>Permite moverse entre funcionalidades clave con un solo toque</td>
+    </tr>
+    <tr>
+      <td>Menú lateral (hamburger)</td>
+      <td>Para acceder a secciones complementarias como Configuración, Ayuda o Contacto</td>
+      <td>Organiza funciones secundarias sin saturar la vista principal</td>
+    </tr>
+    <tr>
+      <td>Navegación jerárquica</td>
+      <td>Ej. Desde Dashboard → Lista de tareas → Detalle de tarea → Editar</td>
+      <td>Facilita el seguimiento lógico y progresivo de las actividades</td>
+    </tr>
+    <tr>
+      <td>Breadcrumbs</td>
+      <td>Indicadores que muestran en qué parte del flujo está el usuario</td>
+      <td>Evitan la desorientación y permiten regresar fácilmente</td>
+    </tr>
+    <tr>
+      <td>Modo offline con navegación local</td>
+      <td>Permite moverse entre secciones aunque no haya conexión</td>
+      <td>Brinda autonomía al usuario en zonas sin internet</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>B. Landing Page</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Elemento de Navegación</th>
+      <th>Descripción</th>
+      <th>Beneficio para el Usuario</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Menú superior anclado (sticky nav)</td>
+      <td>Contiene enlaces a Home, About, Pricing, Testimonials, FAQ y Contact</td>
+      <td>Permite moverse rápidamente entre secciones clave desde cualquier parte de la página</td>
+    </tr>
+    <tr>
+      <td>Scroll fluido (smooth scroll)</td>
+      <td>El desplazamiento entre secciones ocurre de forma animada</td>
+      <td>Mejora la orientación y hace más agradable el recorrido</td>
+    </tr>
+    <tr>
+      <td>Botones de llamada a la acción (CTA)</td>
+      <td>“Start free trial”, “Contáctanos”, “Ver planes”, ubicados estratégicamente</td>
+      <td>Guían al usuario hacia conversiones deseadas como registro o contacto</td>
+    </tr>
+    <tr>
+      <td>Footer con enlaces repetidos</td>
+      <td>Accesos a Contacto, Soporte, Políticas, Redes sociales y Suscripción</td>
+      <td>Facilita la navegación desde el final de la página</td>
+    </tr>
+    <tr>
+      <td>Botón flotante de cambio de idioma</td>
+      <td>Selector de idiomas (ES / EN) siempre visible</td>
+      <td>Mejora la accesibilidad para diferentes audiencias</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+El sistema de navegación de ElixirLine está diseñado para ser <strong>intuitivo, predecible y accesible</strong>, asegurando que los usuarios puedan recorrer el contenido y utilizar la plataforma sin requerir experiencia previa en herramientas digitales complejas. Se guía al usuario paso a paso a través del flujo de valor, reduciendo la carga cognitiva y facilitando una interacción satisfactoria con el producto.
+</p>
 
 
 ### 5.1.3. Landing Page UI Design
