@@ -105,6 +105,7 @@ El diseño combina la estética rústica del mundo rural con un enfoque moderno 
 
 ### 5.1.2. Information Architecture
 
+Esta sección se enfoca en los elementos esenciales de contenido visual, estilos, etiquetas, y más, que se considerarán en el desarrollo de aplicación móvil y la landing page.
 
 #### 5.1.2.1. Organization Systems
 
