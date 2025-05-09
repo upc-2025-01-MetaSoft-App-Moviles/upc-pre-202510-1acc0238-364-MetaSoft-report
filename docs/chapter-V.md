@@ -159,6 +159,156 @@ Esta sección se enfoca en los elementos esenciales de contenido visual, estilos
 
 #### 5.1.2.2. Labelling Systems
 
+Para garantizar la simplicidad y evitar la confusión entre visitantes y usuarios, hemos definido un sistema de etiquetado claro, consistente y basado en el mínimo número de palabras posible.  
+Todas las etiquetas fueron diseñadas para ser intuitivas y facilitar la navegación, la búsqueda y el entendimiento inmediato de las funcionalidades del sistema.
+
+**1. Principios a seguir:**
+
+- Uso de palabras cortas, claras y específicas.
+- Consistencia de términos entre la Landing Page y la Mobile App.
+- Asociación directa entre las etiquetas y la acción o información representada.
+- Evitar tecnicismos innecesarios o frases ambiguas.
+- Uso de términos universales y en inglés.
+
+**2. Etiquetas Principales**
+
+<table>
+  <thead>
+    <tr>
+      <th>Plataforma</th>
+      <th>Sección</th>
+      <th>Etiqueta</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Landing Page</td>
+      <td>Home</td>
+      <td>Home</td>
+      <td>Página principal de bienvenida</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>About Us</td>
+      <td>About Us</td>
+      <td>Información sobre la app y propósito de ElixirLine</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Pricing</td>
+      <td>Pricing</td>
+      <td>Planes y precios del servicio</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Team Members</td>
+      <td>Our Team</td>
+      <td>Presentación del equipo de desarrollo</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Testimonials</td>
+      <td>Testimonials</td>
+      <td>Opiniones de usuarios reales</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>FAQ</td>
+      <td>FAQ</td>
+      <td>Preguntas frecuentes sobre uso y funcionamiento</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Login</td>
+      <td>Sign In</td>
+      <td>Ingreso de usuario registrado</td>
+    </tr>
+    <tr>
+      <td>Landing Page</td>
+      <td>Register</td>
+      <td>Sign Up</td>
+      <td>Registro de nuevo usuario</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Dashboard</td>
+      <td>Dashboard</td>
+      <td>Vista principal con tareas programadas</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Activities</td>
+      <td>Tasks</td>
+      <td>Listado y registro de tareas agrícolas o de bodega</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Lots</td>
+      <td>Lots</td>
+      <td>Gestión de lotes/productores asociados</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Inputs</td>
+      <td>Inputs</td>
+      <td>Registro y seguimiento de insumos</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Calendar</td>
+      <td>Calendar</td>
+      <td>Visualización de tareas por día o mes</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Reports</td>
+      <td>Reports</td>
+      <td>Generación y consulta de reportes</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Offline Mode</td>
+      <td>Offline Mode</td>
+      <td>Funcionalidad para trabajar sin conexión</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Profile</td>
+      <td>Profile</td>
+      <td>Información personal y preferencias del usuario</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Support Center</td>
+      <td>Support Center</td>
+      <td>Centro de ayuda y soporte técnico</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Settings</td>
+      <td>Settings</td>
+      <td>Configuraciones generales de la aplicación</td>
+    </tr>
+    <tr>
+      <td>Mobile App</td>
+      <td>Log Out</td>
+      <td>Log Out</td>
+      <td>Cierre de sesión del usuario</td>
+    </tr>
+  </tbody>
+</table>
+
+**3. Asociaciones entre Etiquetas:**
+
+- Home lleva a About Us, Pricing, Testimonials y Our Team como extensiones para conocer el producto.
+- Sign In y Sign Up están asociadas a la conversión del visitante en usuario registrado de la Mobile App.
+- Dashboard se conecta directamente con Tasks, Calendar y Inputs para el manejo diario de la producción.
+- Lots y Inputs se relacionan para una trazabilidad completa de cada cultivo o proceso de vinificación.
+- Reports se vincula con Calendar y Tasks para generar información consolidada de las actividades.
+- Support Center complementa el FAQ para brindar ayuda ante problemas o consultas técnicas.
+
+El sistema de etiquetado garantiza rapidez de navegación, reducción del esfuerzo cognitivo y consistencia en todo el ecosistema digital, permitiendo a los visitantes y usuarios adaptarse intuitivamente tanto en la Landing Page como en la aplicación móvil de ElixirLine.
 
 #### 5.1.2.3. SEO Tags and Meta Tags
 
