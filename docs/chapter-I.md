@@ -399,7 +399,7 @@ Productores de vino a pequeña y mediana escala, ubicados principalmente en regi
   <tbody>
     <tr>
       <td>Edad promedio</td>
-      <td>Entre 35 y 60 años</td>
+      <td>Entre 20 y 35 años</td>
     </tr>
     <tr>
       <td>Formación</td>
@@ -430,7 +430,7 @@ Encargados de ejecutar tareas agrícolas como riego, poda, fertilización, cosec
   <tbody>
     <tr>
       <td>Edad promedio</td>
-      <td>Entre 20 y 55 años</td>
+      <td>Entre 20 y 35 años</td>
     </tr>
     <tr>
       <td>Formación</td>
