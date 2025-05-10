@@ -308,6 +308,815 @@ A continuación, se presentan las convenciones de estilo de código que se utili
 en el proyecto. Estas convenciones son importantes para mantener la coherencia y la 
 legibilidad del código a lo largo del desarrollo.
 
+Dado que en este proyecto se emplearán varios lenguajes, como HTML, CSS, JavaScript, 
+C# para el desarrollo de la aplicación móvil, así como Gherkin para el 
+proceso de pruebas del programa, a continuación, se detallarán y describirán las 
+reglas y recomendaciones generales que se tendrán en cuenta al utilizarlos.
+
+**Nomenclatura General**
+
+Para los nombres de variables, objetos, elementos y funciones que se utilicen en el
+proyecto, se emplearán términos en inglés que estén relacionados con lo que representan.
+No se utilizarán mayúsculas en estos nombres, ya que, de acuerdo con W3Schools (sin fecha),
+la combinación de mayúsculas y minúsculas puede dificultar la legibilidad del código. 
+En su lugar, se optará por utilizar exclusivamente letras minúsculas, lo que contribuirá 
+a una mayor claridad en el código.
+
+Ejemplos de nomenclatura estándar, siguiendo las recomendaciones de Google (s.f.):
+
+    ```
+    .gallery {}
+    .video {}
+    .login {}
+    ```
+
+Estas pautas de nomenclatura ayudarán a mantener una coherencia en el código y facilitarán su comprensión.
+
+**Sangría**
+
+La sangría es una parte fundamental de la legibilidad del código. En este proyecto, 
+se utilizará una sangría de 2 espacios para el código HTML, CSS y JavaScript. Esta 
+elección se basa en las recomendaciones de Google (s.f.) y W3Schools (sin fecha), 
+que sugieren que una sangría adecuada mejora la claridad y la estructura del código.
+
+    ```
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>Título del Documento</title>
+      </head>
+      <body>
+        <h1>Encabezado Principal</h1>
+        <p>Este es un párrafo dentro del cuerpo del documento.</p>
+      </body>
+    </html>
+    ```
+
+Ejemplo de formato estándar de sangría en CSS, conforme a las recomendaciones de W3Schools (s.f):
+
+    ```
+    body {
+      background-color: #f0f0f0; /* Color de fondo */
+      font-family: Arial, sans-serif; /* Fuente del texto */
+    }
+    ```
+
+Ejemplo de nomenclatura estándar de la sangría en JavaScript según W3School (s.f.):
+
+    ```
+    function myFunction() {
+      var x = 5; // Declaración de variable
+      if (x > 0) {
+        console.log("x es positivo"); // Mensaje en la consola
+      }
+    }
+    ```
+
+**Especificaciones generales**
+
+A continuación, detallaremos las reglas específicas necesarias para comprender el código 
+de nuestra aplicación en cada lenguaje.
+
+**HTML**
+
+HTML, acrónimo de HyperText Markup Language en inglés, es el lenguaje de marcado que se utiliza
+para estructurar y presentar contenido en la web. A continuación, se presentan las reglas de
+nomenclatura y estilo de código que se aplicarán al HTML en este proyecto:
+
+1. [ ]  Declare Document Type La declaración del tipo de documento debe realizarse en la primera línea del código. Según 
+ las recomendaciones de Google (s.f.), se prefiere la sintaxis de HTML5 para todos los documentos HTML. Para declararla, simplemente copia lo siguiente:
+
+    ```
+    <!DOCTYPE html>
+    ```
+
+2. [ ] **Blank Lines:** Se recomienda dejar una línea en blanco entre las etiquetas de apertura y cierre de cada 
+   bloque. Esto mejora la legibilidad del código y facilita su comprensión, de acuerdo con
+    las pautas de W3School (s.f.).
+
+    ```
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>Título del Documento</title>
+      </head>
+    
+      <body>
+        <h1>Encabezado Principal</h1>
+        <p>Este es un párrafo dentro del cuerpo del documento.</p>
+      </body>
+      
+    </html>
+    ```
+
+3. [ ] **Quote attribute Values:** 
+   Se recomienda utilizar comillas dobles para los valores de los atributos. Esta convención es 
+   ampliamente aceptada y mejora la consistencia del código, como se indica en las pautas de Google (s.f.).
+
+    ```
+    <a href="https://www.ejemplo.com" target="_blank">Enlace</a>
+    ```
+
+
+4. [ ] **Never Skip the _< title >_ Element:** El elemento _< title >_ es fundamental para la accesibilidad y la 
+   optimización de motores de búsqueda (SEO). Se recomienda incluirlo en todas las páginas HTML, ya que proporciona información importante sobre el contenido de la página. 
+   Esta recomendación se basa en las pautas de Google (s.f.).
+
+    ```
+    <title> Guía de Estilo HTML y Convenciones de Codificación </title>
+    ```
+
+5. [ ] **HTML Line-Wrapping:** 
+   Se recomienda utilizar un ancho de línea de 80 caracteres para el código HTML. Esto mejora la legibilidad y facilita la revisión del código, como se sugiere en las pautas de Google (s.f.).
+
+    ```
+    <button mat-icon-button color='primary' class="menu-button"
+    (click)="openMenu()">
+    <mat-icon>menu</mat-icon>
+    </button>
+    ```
+
+    Este estilo de formateo ayuda a mantener un código más legible y facilita la identificación de los elementos y su jerarquía en la estructura del documento HTML.
+
+
+**CSS**
+
+CSS, conocido por sus siglas en inglés, Cascading Style Sheets (Hojas de Estilo en Cascada), es un lenguaje que se enfoca en definir y mejorar la presentación de un documento basado en HTML. A continuación, se presentan las directrices que debemos seguir al utilizar CSS:
+
+1. [ ] **Shorthand Properties** Se recomienda utilizar abreviaturas de propiedades y declarar los campos de los elementos en la menor cantidad de líneas posible, según las pautas de Google (sin fecha). Esto aumenta la eficiencia del código y lo hace más legible. Además, se debe evitar agregar unidades después del valor cero. Aquí tienes un ejemplo:
+
+    ```
+    border-top: 0;
+    font: 100%/1.6 palatino, georgia, serif;
+    padding: 0 1em 0;
+    ```
+
+    Siguiendo estas recomendaciones, se puede lograr un código CSS más conciso y fácil de entender.
+
+1. [ ] **Declaration Stops:** Es importante incluir un punto y coma al final de cada declaración en CSS, al igual 
+   que en la mayoría de los lenguajes de programación. Siguiendo las pautas de Google (sin fecha), esta práctica contribuye a mantener la coherencia en el código. A continuación, se muestra un ejemplo:
+
+    ```
+    h1 {
+      color: blue;
+      font-size: 24px;
+      text-align: center;
+    }
+    ```
+
+    El uso consistente de puntos y comas al final de las declaraciones CSS ayuda a prevenir errores y mejora la claridad del código.
+
+1. [ ] **Property Name Stops** Es necesario incluir un espacio entre los dos puntos que siguen al nombre de una propiedad y el valor correspondiente. Siempre se debe colocar un solo espacio después de los dos puntos, pero no antes. A continuación, se muestra un ejemplo siguiendo esta convención estándar de Google (s.f):
+
+    ```
+    h1 {
+      color: blue;
+      font-size: 24px;
+      text-align: center;
+    }   
+    ```
+
+    Mantener esta consistencia en la colocación de espacios ayuda a que el código CSS sea más legible y fácil de entender.
+
+1. [ ] **Declaration Block Separation:** Es esencial utilizar un espacio separador después del nombre de un selector de 
+elemento y antes de la llave que inicia un bloque de declaración CSS. Además, la llave de apertura del bloque debe estar en la misma línea que el selector. Aquí tienes un ejemplo siguiendo esta convención estándar de Google (sin fecha):
+
+    ```
+    h1 {
+      color: blue;
+      font-size: 24px;
+      text-align: center;
+    }
+    ```
+
+    El cumplimiento de estas directrices ayuda a mantener la consistencia y la legibilidad en el código CSS.
+
+1. [ ] **CSS quotation Marks:** No se deben utilizar comillas dobles (") en el código CSS; en su lugar, se permiten 
+   y deben emplearse comillas simples (') únicamente para selectores de atributos y valores de propiedades. Ejemplo conforme a las pautas estándar de Google (sin fecha):
+
+    ```
+    .gallery {
+      background-image: url('image.jpg');
+      background-size: cover;
+    }
+    ```
+    Este ejemplo muestra el uso de comillas simples para encerrar el valor de la propiedad background-image en CSS, lo cual es una práctica común y aceptada.
+
+**JavaScript**
+
+JavaScript es un lenguaje de programación que permite especificar de manera precisa las acciones que debe realizar el navegador web, incluyendo el orden de ejecución de tareas y la frecuencia con la que se deben llevar a cabo. A continuación, se presentan las pautas para el uso de JavaScript en nuestro proyecto:
+
+1. [ ] **Spaces around operators** Es importante añadir espacios alrededor de cada operador matemático y comas que se utilicen en el código JavaScript. A continuación, se muestra un ejemplo siguiendo la convención estándar de W3Schools (sin fecha):
+
+    ```
+    let x = y + z;
+    const myArray = ['Volvo', 'Saab', 'Fiat'];
+    ```
+
+    El uso consistente de espacios alrededor de operadores y comas mejora la legibilidad del código JavaScript.
+
+1. [ ] **Simple Statement's End** Es fundamental que una instrucción simple finalice con un punto y coma, tal como es el caso en muchos otros lenguajes de programación. A continuación, se muestra un ejemplo que cumple con la convención estándar de W3Schools (sin fecha):
+
+    ```
+    let x = v + 7;
+    const myArray = ['Volvo', 'Saab', 'Fiat'];
+    El uso de punto y coma al final de cada instrucción ayuda a garantizar la estructura correcta del código JavaScript y a evitar posibles errores.
+    ```
+
+1. [ ] **Beginning and End of Function** Un bloque de función debe incluir una llave al final de la primera línea, de modo que el cierre de la función esté en la última línea, sin necesidad de un punto y coma. Este mismo principio se aplica a las estructuras condicionales y los bucles. A continuación, se muestra un ejemplo que cumple con la convención estándar de W3Schools (sin fecha):
+
+    ```
+    function myFunction() {
+      let x = 5;
+      if (x > 0) {
+        console.log("x es positivo");
+      }
+    }   
+    ```
+    En este ejemplo, se observa que la llave de apertura de la función está en la misma línea que la declaración de la función, y la llave de cierre está al final del bloque, lo que sigue las pautas recomendadas.
+
+
+1. [ ] **Object Rules Para la creación de un objeto:** Al igual que en una función, se comienza con una llave al 
+   final de la primera línea. Sin embargo, en este caso, la llave de cierre debe ir seguida de un punto y coma. Para definir las propiedades del objeto, se utilizan dos puntos y un espacio para separar el nombre de la propiedad de su valor. Si el valor es un string, se debe encerrar entre comillas dobles. A continuación, se muestra un ejemplo siguiendo la convención estándar de W3Schools (sin fecha):
+
+    ```
+    const person = {
+      firstName: "John",
+      lastName: "Doe",
+      age: 50,
+      eyeColor: "blue"
+    };
+    ```
+
+    En este ejemplo, el objeto person está formateado de acuerdo con estas pautas, lo que mejora la legibilidad y la estructura del código JavaScript.
+
+**Gherkin:**
+
+Gherkin es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que se utiliza para resolver problemas específicos mediante la generación de casos de prueba que validan una característica en diversos escenarios. Gherkin incluye varios elementos, entre los cuales los más conocidos y utilizados son Feature, Scenario, Example, Given, When y Then. A continuación, se presentan las pautas que debemos seguir al utilizar Gherkin en nuestro código:
+
+1. [ ] **Discernible Given-When-Then Blocks** Es importante aplicar sangría a los elementos que representan los pasos a seguir en un escenario. En el caso de "And", se debe aplicar una sangría adicional. Siguiendo la recomendación de Keiblinger (2021), este enfoque ayuda a identificar rápidamente las partes que componen un escenario. A continuación, se muestra un ejemplo:
+
+    ```gherkin
+    
+    Feature: Ingreso de requisitos con claridad
+      Scenario: Ingreso de requisitos con claridad
+        Given que en el formulario de ingreso de oferta laboral
+          And el campo de requisitos está vacío
+        When escribo claramente los requisitos
+          And mi oferta solo aparecerá a quienes cumplan con estos
+        Then se mostrará el mensaje
+          And se habilita la opción
+    ```
+
+    En este ejemplo, se ha aplicado la sangría de manera adecuada para resaltar los pasos del escenario, y se ha utilizado una sangría adicional para los pasos que comienzan con "And". Esto mejora la legibilidad y la comprensión de los escenarios escritos en Gherkin.
+
+1. [ ] **Step with Tables** Conforme a la recomendación de Keiblinger (2021), cuando sea necesario introducir valores en partes del escenario, se debe emplear una tabla o crear un formulario que refleje esa parte del escenario. Antes de esta representación, se deben colocar dos puntos. Aquí tienes un ejemplo:
+Then se mostrará el mensaje:
+
+    ```gherkin
+    | Mensaje |
+    | Se completaron los requisitos adecuadamente |
+    ```
+
+    Este enfoque permite una representación clara y estructurada de los valores relacionados con una parte específica del escenario.
+
+
+1. [ ] **Reducing Noise** Para evitar la acumulación de demasiadas líneas de código en un escenario, es recomendable incluir valores por defecto dentro de los pasos para campos que no sean muy relevantes para ese escenario en particular. Los valores "estándar" que se coloquen deben estar entre comillas simples. Siguiendo el consejo de Keiblinger (2021), esta práctica contribuye significativamente a la reducción del tamaño del código. A continuación, se muestra un ejemplo:
+
+    ```gherkin
+    When escribo claramente los requisitos 'dominio en C'
+    ```
+
+    En este ejemplo, se ha incluido un valor por defecto ('dominio en C') entre comillas simples dentro del paso para representar un campo que no es esencial en ese escenario. Esto ayuda a mantener el escenario más conciso y legible.
+
+
+1. [ ] **Scenarios Separator** Para separar dos escenarios, se debe insertar un salto de línea y, según la sugerencia de Keiblinger (2021), si es posible, agregar una línea de comentario para facilitar la visualización de estos. De esta manera, se identifica rápidamente el inicio y el fin de un escenario. A continuación, se presenta un ejemplo:
+
+    ```gherkin
+    Scenario: Ingreso de requisitos con claridad
+    Given que en el formulario de ingreso de oferta laboral
+    When escribo claramente los requisitos
+    Then se mostrará el mensaje
+    And mi oferta solo aparecerá a quienes cumplan con estos
+    And se habilita la opción
+    
+    # --------------------------
+    
+    Scenario: Otro escenario
+    Given que en otro contexto
+    When ocurre algo diferente
+    Then se muestra otro resultado
+    ```
+
+    En este ejemplo, se ha agregado un salto de línea entre los dos escenarios y se ha incluido una línea de comentario como separador para mejorar la visualización y la identificación de cada escenario.
+
+**C#:**
+
+C# es un lenguaje de programación desarrollado por Microsoft en el año 2000 como parte de su plataforma .NET. Desde su creación, C# ha evolucionado significativamente, convirtiéndose en una herramienta esencial para el desarrollo de una amplia gama de aplicaciones, desde software de escritorio hasta aplicaciones web y móviles, así como servicios en la nube. Su diseño moderno y su integración con el ecosistema de .NET lo han consolidado como una opción preferida para muchos desarrolladores a nivel global.
+
+A continuación, se presentan las pautas que debemos seguir al utilizar C# en nuestro código:
+
+1. [ ] **Espacios alrededor de operadores:** Es importante añadir espacios alrededor de operadores de asignación, 
+   aritméticos, lógicos y de comparación. Esto mejora la legibilidad del código y sigue las convenciones oficiales del lenguaje.
+
+    ```csharp
+    int x = 5;
+    if (x > 0 && x < 10)
+    {
+        Console.WriteLine("x está entre 0 y 10");
+    }
+    ```
+
+    Este formato permite al lector identificar claramente las operaciones que se están realizando.
+
+2. [ ] **Finalización de sentencias simples:** Cada instrucción simple debe finalizar con un punto y coma (;). Este 
+   elemento sintáctico es obligatorio en C# y garantiza el correcto cierre de las operaciones.
+
+    ```csharp
+    int x = 5;
+    Console.WriteLine("Hola, mundo");
+    ```
+
+    El uso correcto del punto y coma evita errores de compilación y mantiene una estructura limpia.
+
+3. [ ] **Inicio y cierre de funciones y estructuras de control:** Las llaves de apertura deben colocarse al final de 
+   la línea de declaración, y la llave de cierre debe ir sola en la última línea del bloque. Esto aplica tanto a funciones como a condicionales y bucles.
+
+    ```csharp
+    void MiFuncion()
+    {
+        if (x > 0)
+        {
+            Console.WriteLine("x es positivo");
+        }
+    }
+    ```
+
+    Este estilo de formateo mejora la claridad y la organización del código.
+
+4. [ ] **Reglas para objetos (clases y propiedades):** Al crear clases u objetos, se recomienda seguir estas pautas:
+
+   * Usar PascalCase para nombres de clases y propiedades.
+   * Separar cada propiedad con una línea.
+   * Encapsular campos con propiedades.
+   * Colocar las llaves de apertura/cierre correctamente.
+   * Cerrar el bloque de clase sin punto y coma.
+
+    ```csharp
+    public class Persona
+    {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+
+        public void Saludar()
+        {
+            Console.WriteLine($"Hola, soy {Nombre} y tengo {Edad} años.");
+        }
+    }
+    ```
+
+    Este formato ayuda a mantener un código limpio y fácil de entender.
+
+5. [ ] **Definición de métodos y constructores:** Los métodos deben nombrarse con verbos que indiquen acción. Es 
+   recomendable agrupar constructores, métodos públicos y privados usando regiones opcionales para facilitar la navegación.
+
+    ```csharp
+    public class Persona
+    {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+
+        // Constructor
+        public Persona(string nombre, int edad)
+        {
+            Nombre = nombre;
+            Edad = edad;
+        }
+
+        // Método público
+        public void Saludar()
+        {
+            Console.WriteLine($"Hola, soy {Nombre} y tengo {Edad} años.");
+        }
+    }
+    ```
+
+    Este enfoque mejora la organización del código y facilita su comprensión.
+
+6. [ ] **Uso de async/await en operaciones asíncronas:** Las operaciones que acceden a recursos externos (como 
+   archivos o base de datos) deben declararse con async y usar await para evitar bloqueos.
+
+    ```csharp
+    public async Task<string> ObtenerDatosAsync()
+    {
+        using (HttpClient client = new HttpClient())
+        {
+            string resultado = await client.GetStringAsync("https://api.ejemplo.com/datos");
+            return resultado;
+        }
+    }
+    ```
+
+    Este enfoque mejora la eficiencia y la capacidad de respuesta de la aplicación.
+
+7. [ ] **Convenciones de nomenclatura:**
+
+   * Clases: PascalCase → MiServicio, ArchivoManager
+   * Métodos: PascalCase → CalcularSuma, GuardarCambios
+   * Variables: camelCase → resultadoTotal, contador
+   * Interfaces: Prefijo "I" → IRepositorio, IServicioLogger
+
+    ```csharp
+    public interface IRepositorio
+    {
+        void Guardar(Entidad entidad);
+        Entidad ObtenerPorId(int id);
+    }
+   
+    public class ServicioUsuario : IRepositorio
+    {
+        public void Guardar(Entidad entidad)
+        {
+            // Lógica para guardar la entidad
+        }
+
+        public Entidad ObtenerPorId(int id)
+        {
+            // Lógica para obtener la entidad por ID
+            return new Entidad();
+        }
+    }
+
+    ```
+    Este estilo de nomenclatura ayuda a identificar rápidamente el propósito de cada elemento en el código.
+
+8. [ ] **Comentarios XML y documentación:** Usar comentarios XML para documentar métodos y clases públicas. Esto permite generar documentación automáticamente y ayuda a otros desarrolladores a entender la intención del código.
+
+    ```csharp
+    /// <summary>
+    /// Clase que representa un servicio de usuario.
+    /// </summary>
+    public class ServicioUsuario
+    {
+        /// <summary>
+        /// Guarda una entidad en el repositorio.
+        /// </summary>
+        /// <param name="entidad">La entidad a guardar.</param>
+        public void Guardar(Entidad entidad)
+        {
+            // Lógica para guardar la entidad
+        }
+    }
+    ```
+
+    Esta práctica es esencial en proyectos colaborativos y de largo plazo.
+
+**Kotlin – Android Development**
+
+Kotlin es un lenguaje moderno, conciso y seguro, recomendado por Google para el desarrollo de aplicaciones Android. Su sintaxis clara permite escribir código robusto, mantenible y expresivo. A continuación, se presentan las pautas que deben seguirse al utilizar Kotlin en nuestro proyecto Android:
+
+1. [ ] Espacios alrededor de operadores
+   Es importante utilizar espacios alrededor de operadores matemáticos, lógicos y de comparación para mejorar la legibilidad del código Kotlin.
+
+    ```kotlin
+    val x = 5
+    if (x > 0 && x < 10) {
+        println("x está entre 0 y 10")
+    }
+    ```
+   
+    Esto permite que el código se lea de forma fluida y se reduzcan los errores visuales.
+
+2. [ ] Finalización de sentencias simples
+   En Kotlin no es obligatorio usar punto y coma (;) al final de una línea, y se debe evitar su uso salvo en casos muy específicos (como múltiples instrucciones en una sola línea, que también deben evitarse).
+
+    ```kotlin
+    val x = 5
+    println("Hola, mundo")
+    ```
+   
+    Este estilo de escritura ayuda a mantener el código limpio y fácil de seguir.
+
+3. [ ] Llaves en funciones y estructuras de control
+   Las llaves deben abrirse al final de la línea de definición del bloque (if, for, fun, etc.) y cerrarse en una nueva línea. Es preferible no usar bloques de una sola línea sin llaves, aunque Kotlin lo permite.
+
+    ```kotlin
+    fun miFuncion() {
+        if (x > 0) {
+            println("x es positivo")
+        }
+    }
+    ```
+   
+    Este formato mejora la claridad y la organización del código.
+
+4. [ ] Definición de clases y objetos
+   Las clases deben declararse con class, seguidas por las propiedades en el constructor primario (si es necesario). Los bloques deben estar correctamente tabulados y las propiedades deben seguir un orden lógico.
+
+    ```kotlin
+    class Persona(val
+        nombre: String,
+        var edad: Int
+    ) {
+        fun saludar() {
+            println("Hola, soy $nombre y tengo $edad años.")
+        }
+    }
+    ```
+   
+    Este estilo de declaración ayuda a mantener un código limpio y fácil de entender.
+
+5. [ ] Declaración de variables
+
+   * Usar val para variables inmutables (preferido).
+   * Usar var solo cuando se necesite mutabilidad.
+   * Utilizar nombres descriptivos en camelCase.
+
+    ```kotlin
+    val nombre = "Juan"
+    var edad = 25
+    ```
+    
+    Este enfoque mejora la claridad del código y evita confusiones sobre la mutabilidad de las variables.
+
+6. [ ] Funciones pequeñas y expresivas
+   Cada función debe realizar una sola tarea y su nombre debe describir claramente su propósito. Las funciones que retornan una sola expresión pueden usar la sintaxis de expresión.
+
+    ```kotlin
+    fun sumar(a: Int, b: Int): Int {
+        return a + b
+    }
+
+    fun sumar(a: Int, b: Int) = a + b
+    ```
+   
+    Este estilo de escritura ayuda a mantener el código limpio y fácil de seguir.
+
+7. [ ] Uso de lambdas y funciones de orden superior
+   Aprovechar la sintaxis funcional de Kotlin para colecciones y operaciones simples.
+
+    ```kotlin
+    val numeros = listOf(1, 2, 3, 4, 5)
+    val cuadrados = numeros.map { it * it }
+    println(cuadrados) // [1, 4, 9, 16, 25]
+    ```
+
+    Este enfoque mejora la legibilidad y la expresividad del código.
+
+8. [ ] Null Safety y uso de ? y !!
+   Evitar el uso de !! (not-null assertion operator). Usar operadores seguros (?., ?:, let) para prevenir excepciones de null.
+
+    ```kotlin
+    val nombre: String? = null
+    val longitud = nombre?.length ?: 0
+    ```
+    Este enfoque ayuda a prevenir errores de null y mejora la seguridad del código.
+
+9. [ ] Estructura de un archivo Kotlin
+   El orden recomendado en un archivo de clase es:
+
+   * Importaciones
+   * Declaración de clase
+   * Propiedades
+   * Constructores
+   * Métodos públicos
+   * Métodos privados
+   * Clases internas / objetos anidados
+
+    ```kotlin
+   package com.ejemplo.app
+
+    import android.os.Bundle
+    import androidx.appcompat.app.AppCompatActivity
+    
+    class MainActivity : AppCompatActivity() {
+
+        private val mensaje = "Hola mundo"
+
+        override fun onCreate(savedInstanceState: Bundle?) {
+            super.onCreate(savedInstanceState)
+            saludar()
+        }
+
+        private fun saludar() {
+            println(mensaje)
+        }
+    }
+    ```
+
+    Este orden ayuda a mantener una estructura clara y organizada en el código.
+
+10. [ ] Documentación y comentarios
+    Se recomienda utilizar comentarios en formato KDoc (/** ... */) para funciones, clases y propiedades públicas.
+
+    ```kotlin
+    /**
+     * Clase que representa una persona.
+     *
+     * @property nombre El nombre de la persona.
+     * @property edad La edad de la persona.
+     */
+    
+    class Persona(val nombre: String, var edad: Int) {
+        /**
+         * Saluda a la persona.
+         */
+        fun saludar() {
+            println("Hola, soy $nombre y tengo $edad años.")
+        }
+    }
+    ```
+    
+    Este enfoque mejora la documentación del código y facilita su comprensión por parte de otros desarrolladores.
+
+**Swift para Desarrollo iOS**
+
+Swift es un lenguaje de programación moderno y potente desarrollado por Apple para el desarrollo de aplicaciones en sus plataformas, como iOS, macOS, watchOS y tvOS. A continuación, se presentan las pautas que debemos seguir al utilizar Swift en nuestro código:
+
+1. [ ] **Espacios alrededor de operadores:** Es importante utilizar espacios alrededor de operadores matemáticos, 
+   lógicos y de comparación para mejorar la legibilidad del código Swift.
+
+    ```swift
+    let x = 5
+    if x > 0 && x < 10 {
+        print("x está entre 0 y 10")
+    }
+    ```
+   
+    Este formato permite que el código se lea de forma fluida y se reduzcan los errores visuales.
+
+2. [ ] **Finalización de sentencias simples:** En Swift, no es obligatorio usar punto y coma (;) al final de una 
+   línea, y se debe evitar su uso salvo en casos muy específicos (como múltiples instrucciones en una sola línea, que también deben evitarse).
+    
+     ```swift
+     let x = 5
+     print("Hola, mundo")
+     ```
+    
+     Este estilo de escritura ayuda a mantener el código limpio y fácil de seguir.
+
+3. [ ] **Llaves en funciones y estructuras de control:** Las llaves deben abrirse al final de la línea de definición del 
+   bloque (if, for, func, etc.) y cerrarse en una nueva línea. Es preferible no usar bloques de una sola línea sin llaves, aunque Swift lo permite.
+    
+     ```swift
+     func miFuncion() {
+          if x > 0 {
+                print("x es positivo")
+          }
+     }
+     ```
+    
+     Este formato mejora la claridad y la organización del código.
+
+4. [ ] **Declaración de variables:** Usar let para variables inmutables (preferido) y var solo cuando se necesite 
+   mutabilidad. Utilizar nombres descriptivos en camelCase.
+
+    ```swift
+    let nombre = "Juan"
+    var edad = 25
+    ```
+    
+    Este enfoque mejora la claridad del código y evita confusiones sobre la mutabilidad de las variables.
+
+5. [ ] **Definición de clases y estructuras:** 
+   Las clases deben declararse con class, seguidas por las propiedades en el constructor primario (si es necesario). 
+   Los bloques deben estar correctamente tabulados y las propiedades deben seguir un orden lógico.
+
+    ```swift
+    class Persona {
+        var nombre: String
+        var edad: Int
+
+        init(nombre: String, edad: Int) {
+            self.nombre = nombre
+            self.edad = edad
+        }
+
+        func saludar() {
+            print("Hola, soy \(nombre) y tengo \(edad) años.")
+        }
+    }
+    ```
+    
+    Este estilo de declaración ayuda a mantener un código limpio y fácil de entender.
+
+6. [ ] **Funciones pequeñas y expresivas:** Cada función debe realizar una sola tarea y su nombre debe describir 
+   claramente su propósito. Las funciones que retornan una sola expresión pueden usar la sintaxis de expresión.
+
+    ```swift
+    func sumar(a: Int, b: Int) -> Int {
+        return a + b
+    }
+
+    func sumar(a: Int, b: Int) -> Int {
+        a + b
+    }
+    ```
+    
+    Este estilo de escritura ayuda a mantener el código limpio y fácil de seguir.
+
+
+7. [ ] **Uso de closures y funciones de orden superior:** Aprovechar la sintaxis funcional de Swift para colecciones y operaciones simples.
+    
+     ```swift
+     let numeros = [1, 2, 3, 4, 5]
+     let cuadrados = numeros.map { $0 * $0 }
+     print(cuadrados) // [1, 4, 9, 16, 25]
+     ```
+     
+     Este enfoque mejora la legibilidad y la expresividad del código.
+
+8. [ ] **Manejo seguro de opcionales:** Evitar el uso de ! salvo cuando se tenga absoluta certeza. Usar if let, guard 
+   let, o el operador de coalescencia ?? para trabajar con opcionales de forma segura.
+
+    ```swift
+    func obtenerNombre() -> String? {
+        return nil
+    }
+
+    // Uso de if let
+    if let nombre = obtenerNombre() {
+        print(nombre)
+    } else {
+        print("Nombre no disponible")
+    }
+
+    // Uso de guard let
+    func imprimirNombre() {
+        guard let nombre = obtenerNombre() else {
+            print("Nombre no disponible")
+            return
+        }
+        print(nombre)
+    }
+    ```
+   
+    Este enfoque ayuda a prevenir errores de nil y mejora la seguridad del código.
+
+9. [ ]  **Organización del archivo Swift:** El orden recomendado en un archivo es:
+
+    * Importaciones
+   * Comentarios de encabezado
+   * Declaraciones de tipo (clases/structs)
+   * Propiedades
+   * Inicializadores
+   * Métodos públicos
+   * Métodos privados
+   * Extensiones
+
+     ```swift
+     import UIKit
+
+     /// Clase principal de la aplicación
+     class MiAplicacion: UIViewController {
+         // Propiedades
+         var nombre: String
+
+         // Inicializador
+         init(nombre: String) {
+             self.nombre = nombre
+             super.init(nibName: nil, bundle: nil)
+         }
+
+         // Métodos públicos
+         func saludar() {
+             print("Hola, soy \(nombre)")
+         }
+
+         // Métodos privados
+         private func metodoPrivado() {
+             // Lógica privada
+         }
+     }
+     ```
+
+    Una organización clara mejora el mantenimiento del código y la colaboración.
+
+10. [ ] **Comentarios y documentación:** Usar /// para documentar funciones, propiedades y clases. Utilizar // MARK: 
+para 
+    separar secciones de código dentro del archivo.
+
+    ```swift
+    /// Suma dos enteros y devuelve el resultado.
+    /// - Parameters:
+    ///   - a: El primer número.
+    ///   - b: El segundo número.
+    /// - Returns: El resultado de la suma.
+    func sumar(_ a: Int, _ b: Int) -> Int {
+    return a + b
+    }
+    
+    // MARK: - Métodos Auxiliares
+    
+    func calcularPromedio(_ numeros: [Int]) -> Double {
+        let suma = numeros.reduce(0, +)
+        return Double(suma) / Double(numeros.count)
+    }
+    ```
+    
+    Esta práctica es esencial en proyectos colaborativos y de largo plazo.
+
+
 
 
 
@@ -339,6 +1148,8 @@ El despliegue de los servicios web se realizará en la nube utilizando el servic
 GCP (Google Cloud platform). Para ello se utilizará el servicio de App Engine, que 
 permite desplegar aplicaciones web y servicios en la nube de manera sencilla 
 y escalable.
+
+
 
 
 
