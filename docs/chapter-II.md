@@ -599,7 +599,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Person Vinicultor
 <p>
-    <img src="../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
+    <img src="../assets/img/chapter-II/User_Person_Vinicultor.png"  alt="User_Person_Vinicultor">
 </p>
 
 #### b) User Person Trabajador de Campo
@@ -767,7 +767,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### a) User Journey Mapping Vinicultor
 <p>
-    <img src="../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/User_Journey_Mapping_Vinicultor.png"  alt="User_Journey_Mapping_Vinicultor.png">
 </p>
 
 #### b) User Journet Mapping Trabajador de Campo
@@ -807,7 +807,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vinicultores: Empathy Mapping
 
 <p>
-    <img src="../assets/img/chapter-II/Empathy_Mapping%20_Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/Empathy_Mapping%20_Vinicultor.png"  alt="Empathy_Mapping _Vinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
