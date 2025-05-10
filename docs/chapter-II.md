@@ -807,7 +807,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Segmento objetivo Vinicultores: Empathy Mapping
 
 <p>
-    <img src="../assets/img/chapter-II/Empathy_Mapping%20_Vinicultor.png"  alt="Empathy_Mapping _Vinicultor.png">
+    <img src="../assets/img/chapter-II/Empathy_Mapping_Vinicultor.png"  alt="Empathy_Mapping _Vinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
