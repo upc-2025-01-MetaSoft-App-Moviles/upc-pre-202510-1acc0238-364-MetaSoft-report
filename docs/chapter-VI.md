@@ -2270,7 +2270,7 @@ Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, program�
   </thead>
   <tbody>
     <tr>
-        <td>AQUI SUBIR Landing DEPLOYADO</td>
+        <td>https://upc-2025-01-metasoft-app-moviles.github.io/ElixirLine-Landing-Page/</td>
         <td>Mostrar la Landing Page Desplegada</td>
     </tr>
   </tbody>
@@ -2281,7 +2281,7 @@ Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, program�
 ### Landing page
 Para llevar a cabo la implementación de nuestro sitio web, decidimos utilizar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub que nos permitió gestionar el control de versiones. Desde la sección de Configuración, publicamos el proyecto alojado en la rama "¿?", el cual anteriormente se encontraba en la rama "¿?".
 
-[Landing Page ElixirLine]() - FALTA LINK
+[Landing Page ElixirLine](https://upc-2025-01-metasoft-app-moviles.github.io/ElixirLine-Landing-Page/) - https://upc-2025-01-metasoft-app-moviles.github.io/ElixirLine-Landing-Page/
 
 
 ### Web service
