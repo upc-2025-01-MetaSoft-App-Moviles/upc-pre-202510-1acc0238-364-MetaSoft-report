@@ -641,6 +641,14 @@ Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine--
 
 <img src="../assets/img/chapter-V/wireframe/profile-wireframe.png"> 
 
+**Notification settings**
+
+<img src="../assets/img/chapter-V/wireframe/notification-setting.png>
+
+<img src="../assets/img/chapter-V/wireframe/edit-profile.png>
+
+<img src="../assets/img/chapter-V/wireframe/delete-profile.png>
+
 Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine---Dise%C3%B1o-UI-UX?node-id=1-5
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
 #### 5.1.4.3. Mobile Applications Mock-ups
