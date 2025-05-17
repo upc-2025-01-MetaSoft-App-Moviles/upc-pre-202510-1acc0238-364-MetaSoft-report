@@ -645,7 +645,11 @@ Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine--
 
 <img src="../assets/img/chapter-V/wireframe/notification-setting.png">
 
+**Edit Profile**
+
 <img src="../assets/img/chapter-V/wireframe/edit-profile.png">
+
+**Delete Profile**
 
 <img src="../assets/img/chapter-V/wireframe/delete-profile.png">
 
