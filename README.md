@@ -106,6 +106,12 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 ---
 
+### Entregable TP
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro segundo sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
+
+
+
 ## Contenido
 
 # [Capítulo I: Presentación]()

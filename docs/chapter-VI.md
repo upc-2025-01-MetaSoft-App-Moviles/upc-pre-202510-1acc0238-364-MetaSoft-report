@@ -2561,7 +2561,26 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
 
 
 
-### Conclusiones
+### Avance de Conclusiones
+
+
+- El avance de la investigación y desarrollo del API REST para la gestión de procesos de vinificación ha permitido
+  establecer una arquitectura modular y escalable, facilitando la integración de diferentes contextos de negocio. La implementación de los bounded contexts ha permitido definir claramente las responsabilidades y relaciones entre las distintas entidades, asegurando una comunicación eficiente y un manejo adecuado de los datos.
+
+- La separación de los contextos de negocio ha permitido una mejor organización del código y una mayor facilidad para
+  realizar cambios y mejoras en el sistema. Además, la implementación de patrones de diseño como CQRS y Event Sourcing ha permitido una gestión más eficiente de los datos y una mejor respuesta a las necesidades del negocio.
+
+- ElixirLine brinda una solución sencilla y accesible para viñedos artesanales, integrando planificación de tareas,
+  control de insumos y trazabilidad de todo el proceso productivo en una única plataforma móvil. Al digitalizar la comunicación entre vinicultores y trabajadores de campo, facilita la coordinación, reduce errores manuales y mejora la calidad del producto final, permitiendo a los pequeños productores profesionalizar su gestión sin perder su esencia artesanal.
+
+- ElixirLine busca empoderar a viñedos al integrar herramientas de planificacion, control de insumos y trazabilidad
+  del proceso productivo en una sola plataforma intuitiva. Digitalizando la gestión y comunicación entre vinicultores y trabajadores de campo, se optimiza la coordinación de actividades, se minimizan errores humanos y se potencia la calidad de los productos, contribuyendo a la profesionalización de los productores sin alterar el valor.
+
+- El desarrollo de ExilirLine ha permitido profundizar en los requerimientos del sector vinícola, alineando
+  soluciones tecnológicas con las necesidades de los vitivinicultores y trabajadores de campo. A lo largo del proceso, se han abordado metodologías ágiles, estructuración de requerimientos y optimización de procesos digitales, con un impacto directo en los segmentos objetivos del proyecto.
+
+- En esta primera entrega, me he dado cuenta de lo comprometedor y exigente que puede llegar a ser este proyecto, lo
+  cual, lejos de desanimarme, me impulsa y me motiva a seguir adelante, aplicando los conceptos y metodologías que estamos aprendiendo en el curso y hemos ido aprendiendo a lo largo de la carrera. Durante esta etapa, participé activamente en el análisis de los segmentos objetivos, la definición de assumptions y outcomes, así como en el apoyo a la elaboración de user stories, aportando desde mis capacidades al avance del proyecto. Aunque reconozco que me hubiera gustado poder involucrarme aún más en algunas tareas, esta experiencia me ha permitido reforzar mi compromiso tanto con el proyecto como con el equipo, entendiendo que el aprendizaje y la mejora continua son esenciales para alcanzar los objetivos que nos hemos propuesto.
 
 - Se logró implementar la primera experiencia funcional de ElixirLine, abarcando la infraestructura backend, la landing page y los módulos iniciales de gestión del proceso de vinificación e historial de campañas. Estas funcionalidades permiten a los usuarios registrar lotes, analizar la calidad de la uva y consultar información histórica desde el primer uso.
 
@@ -2572,10 +2591,44 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
 - El trabajo realizado permite proyectar siguientes pasos estratégicos en el roadmap del producto, orientados a fortalecer la funcionalidad en campo. Se recomienda continuar con el desarrollo del modo offline, la implementación de alertas automáticas, reportes comparativos por campaña y herramientas de seguimiento por trabajador para consolidar la eficiencia operativa del sistema.
 
 
+## Bibliografía
+
+Salgado, E., Cabezas Y., Alvear M. (2024). Transformación digital en la comercialización agroempresarial: oportunidades y desafíos para los pequeños productores. Código Científico Revista de Investigación, 5(1), 1337-1344. Recuperado de: https://revistacodigocientifico.itslosandes.net/index.php/1/article/view/434/959 [Consulta: 26 de Abril de 2025].
+
+Mejía, D. (2023). La digitalización de la industria vitivinícola española [Trabajo de Investigación, Universidad Pontificia Comillas, Facultad de Administración y Dirección de Empresas. Madrid, España]. Recuperado de: https://repositorio.comillas.edu/xmlui/bitstream/handle/11531/69534/TFG%20-%20Mejia%20Cabrera%20Delia.pdf?sequence=1&isAllowed=y [Consulta: 26 de Abril de 2025].
+
+Gothelf, J. (2024, 24 julio). Lean UX Canvas vers. 1 - a clear guide to product discovery. Jeff Gothelf. https://jeffgothelf.com/blog/leanuxcanvas/
+
+Inova. (2024, 18 septiembre). Digitalización en el sector vitivinícola: tecnologías y tendencias para modernizar una bodega. Inova. https://inovalabs.es/es/digitalizacion-del-sector-vitivinicola/?utm_source=chatgpt.com
+
+
+
+## Anexos
+
+<table>
+<thead>
+    <tr>
+        <th> Sección </th>
+        <th> Características del video </th>
+        <th> Sobre el contenido </th>
+    </tr>
+</thead>
+<tbody>
+    <!-- ============================================================================ -->
+    <tr>
+        <td> Needfinding Interviews	</td>
+        <td> upc-pre-202510-1acc0238-364-MetaSoft-needfinding-sprint-1 </td>
+        <td> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b510_upc_edu_pe/EeWCYu7VKyRFon0M5xQc8zMBKrVlrAx9BwnqgIOnwX6nvQ?e=sURItA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </td>
+    </tr>
+    <!-- ============================================================================ -->
+    <tr>
+        <td> Exposición	</td>
+        <td> upc-pre-202510-1acc0238-364-MetaSoft-expo-tb1 </td>
+        <td> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b510_upc_edu_pe/EXCiG2J6mCFDhd5-Kj-R7AYBQBvUzWbVhx3PSaAMRbNBWw?e=N7ZCBl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D </td>
+    </tr>
+</tbody>
+</table>
+
 # Video About-the-team
 
-
-# Bibliografía
-
-
-# Anexos
+ 
