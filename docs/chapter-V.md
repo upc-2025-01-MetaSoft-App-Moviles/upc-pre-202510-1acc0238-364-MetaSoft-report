@@ -591,70 +591,91 @@ El sistema de navegación de ElixirLine está diseñado para ser <strong>intuiti
 
 
 ### 5.1.3. Landing Page UI Design
-
-
 #### 5.1.3.1. Landing Page Wireframe
+<img src="../assets/img/chapter-V/wireframe/landing-wireframe1.png"> 
+<img src="../assets/img/chapter-V/wireframe/landing-wireframe2.png">
+<img src="../assets/img/chapter-V/wireframe/landing-wireframe3.png">
+<img src="../assets/img/chapter-V/wireframe/landing-wireframe4.png">
+<img src="../assets/img/chapter-V/wireframe/landing-wireframe5.png">
 
+Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine---Dise%C3%B1o-UI-UX?node-id=0-1
 
 #### 5.1.3.2. Landing Page Mock-up
+<img src="../assets/img/chapter-V/mockup/landing-mockup1.png">
+<img src="../assets/img/chapter-V/mockup/landing-mockup2.png">
+<img src="../assets/img/chapter-V/mockup/landing-mockup3.png">
+<img src="../assets/img/chapter-V/mockup/landing-mockup4.png">
+<img src="../assets/img/chapter-V/mockup/landing-mockup5.png">
 
+Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine---Dise%C3%B1o-UI-UX?node-id=1-2
 
 ### 5.1.4. Mobile Applications UX/UI Design
-
-
 #### 5.1.4.1. Mobile Applications Wireframes
 
 **Auth View**
+
 <img src="../assets/img/chapter-V/wireframe/auth-wireframe.png"> 
 
 **Dashboard View**
+
 <img src="../assets/img/chapter-V/wireframe/dashboard-wireframe.png"> 
 <img src="../assets/img/chapter-V/wireframe/dashboard-wireframe2.png"> 
 
 **Binnacle View**
+
 <img src="../assets/img/chapter-V/wireframe/binnacle-wireframe.png"> 
 
 **History View**
+
 <img src="../assets/img/chapter-V/wireframe/history-wireframe.png"> 
 
 **Winebatch View**
+
 <img src="../assets/img/chapter-V/wireframe/winebatch-wiremae.png"> 
 
 **Management View**
+
 <img src="../assets/img/chapter-V/wireframe/managment-wireframe.png"> 
 
 **Profile View**
+
 <img src="../assets/img/chapter-V/wireframe/profile-wireframe.png"> 
 
+Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine---Dise%C3%B1o-UI-UX?node-id=1-5
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
-
 #### 5.1.4.3. Mobile Applications Mock-ups
 **Auth View**
+
 <img src="../assets/img/chapter-V/mockup/auth-mockup.png"> 
 
 **Dashboard View**
+
 <img src="../assets/img/chapter-V/mockup/dashboard-mockup.png"> 
 <img src="../assets/img/chapter-V/mockup/dashboard-mockup2.png"> 
 
 **Binnacle View**
+
 <img src="../assets/img/chapter-V/mockup/binnacle-mockup.png"> 
 
 **History View**
+
 <img src="../assets/img/chapter-V/mockup/history-mockup.png"> 
 
 **Winebatch View**
+
 <img src="../assets/img/chapter-V/mockup/winebatch-mockup.png"> 
 
 **Management View**
+
 <img src="../assets/img/chapter-V/mockup/managment-mockup.png"> 
 
 **Profile View**
 
 <img src="../assets/img/chapter-V/mockup/profile-mockup.png"> 
 
+Link del Figma: https://www.figma.com/design/HjARGXSkBMmx8xQAX2oL9F/ElixirLine---Dise%C3%B1o-UI-UX?node-id=1-6
+
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
-
-
 #### 5.1.4.5. Mobile Applications Prototyping
 
 
