@@ -31,7 +31,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
             <td> Overview</td>
             <td>ElixirLine es una plataforma completa enfocada en la gestión del proceso productivo de vinos y pisco. Integra herramientas para administrar inventarios, pedidos y el proceso de vinificación, con el objetivo de optimizar la eficiencia y mejorar la toma de decisiones.</td>
             <td>Vinotec es un software integral de gestión para bodegas y productores de vino. Su propósito es mejorar la eficiencia del proceso productivo y de ventas, facilitando el control de producción.</td>
-            <td>WineManager brinda soluciones específicas para el sector vitivinícola, con funciones de control de inventario, seguimiento de pedidos y análisis de ventas, enfocándose en integrar información para respaldar decisiones estratégicas.</td>
+            <td>WineManager brinda soluciones específicas para el sector vinícola, con funciones de control de inventario, seguimiento de pedidos y análisis de ventas, enfocándose en integrar información para respaldar decisiones estratégicas.</td>
             <td>VinTrace está orientado a la gestión de viñedos y seguimiento de la producción de vinos. Dispone de herramientas para planificación agrícola, registro de actividades y documentación de cosechas, priorizando el cumplimiento normativo y la calidad.</td>
         </tr>
         <tr>
@@ -46,7 +46,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
             <td> Mercado objetivo</td>
             <td>Productores y distribuidores de vinos y pisco que buscan herramientas adaptadas para gestionar eficientemente sus procesos productivos.</td>  
             <td>Bodegas y productores de vino que requieren mejorar la gestión de ventas y producción.</td>  
-            <td>Empresas del sector vitivinícola que necesitan soluciones integradas para la toma de decisiones.</td>  
+            <td>Empresas del sector vinícola que necesitan soluciones integradas para la toma de decisiones.</td>  
             <td>Productores de vino que demandan herramientas específicas para el manejo de viñedos y trazabilidad.</td>
         </tr>
         <tr>
@@ -96,7 +96,7 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
         <tr>
             <td>Oportunidades</td>
             <td>Incremento en la demanda de soluciones tecnológicas para la industria de vinos y pisco, con potencial de expansión internacional.</td>  
-            <td>Crecimiento del sector vitivinícola y necesidad de eficientizar procesos.</td>  
+            <td>Crecimiento del sector vinícola y necesidad de eficientizar procesos.</td>  
             <td>Posibilidad de ampliar su oferta de servicios.</td>  
             <td>Mayor interés en herramientas para control de calidad y manejo de viñedos.</td> 
         </tr>
@@ -129,7 +129,7 @@ Después de haber comparado nuestra propuesta con las soluciones actuales en el 
         </tr>
         <tr>
             <td>
-                1. El aumento del interés en sistemas de gestión para la industria vitivinícola representa una oportunidad clave para ElixirLine.<br>
+                1. El aumento del interés en sistemas de gestión para la industria vinícola representa una oportunidad clave para ElixirLine.<br>
                 2. Existen posibilidades de crecimiento geográfico hacia nuevas regiones y países.<br>
                 3. La evolución tecnológica constante permite mejorar la plataforma y brindar una mejor experiencia al usuario.<br>
                 4. Las colaboraciones con actores del sector podrían fortalecer la propuesta de valor.<br>
@@ -226,7 +226,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <li>¿Cuál es tu nombre y el nombre de tu empresa?</li>
             <li>¿Qué función específica cumples en la producción de vinos/piscos?</li>
             <li>¿Dónde se encuentra tu lugar de producción o empresa?</li>
-            <li>¿Cuánto tiempo llevas en la industria vitivinícola o pisquera?</li>
+            <li>¿Cuánto tiempo llevas en la industria vinícola o pisquera?</li>
         </ul>
     </li>
     <br>
@@ -277,7 +277,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
             <li>¿Cuál es tu nombre completo y en qué empresa o viñedo trabajas?</li>
             <li>¿Qué rol desempeñas dentro del trabajo de campo?</li>
             <li>¿En qué lugar está ubicado el campo o viñedo donde trabajas?</li>
-            <li>¿Cuánto tiempo llevas trabajando en labores agrícolas o vitivinícolas</li>
+            <li>¿Cuánto tiempo llevas trabajando en labores agrícolas o vinícolas</li>
         </ul>
     </li>
     <br>
@@ -430,7 +430,7 @@ En la parte de aqui, el equipo llevará a cabo entrevistas con los segmentos obj
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
-                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vitivinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
+                Marco es un joven trabajador de medio tiempo que apoya a su abuelo en un viñedo familiar ubicado en Ica. Lleva cinco años participando en labores vinícolas, especialmente durante la temporada de vendimia. Sus tareas principales incluyen la cosecha, selección de racimos, riego y mantenimiento básico del terreno.
 
 Entre los principales desafíos que enfrenta menciona las condiciones climáticas extremas y la falta de comunicación clara sobre las tareas diarias. No utiliza herramientas digitales en su trabajo actual, pero expresó interés en una aplicación simple que le permita recibir tareas, marcar actividades realizadas y reportar problemas, idealmente con funcionamiento sin conexión.
 
@@ -511,7 +511,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
         <tbody>
             <tr>
                 <td>Edad</td>
-                <td>21 años</td>
+                <td>25 años</td>
             </tr>
             <tr>
                 <td>Distrito</td>
@@ -523,7 +523,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
                 </td>
                 <td>
                 <strong>Resumen:</strong><br>
-                El entrevistado, de 25 años, un productor artesanal de vinos y piscos, con 12 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
+                El entrevistado, de 25 años, un descendiente de familia productor artesanal de vinos y piscos, con 2 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
                 </td>
             </tr>
             <tr>
@@ -540,51 +540,7 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
             </tr>
         </tbody>
 </table>
-<!-- JANOVER ENTREVISTA 6 COLOCAR AQUI
-<table>
-        <thead>
-            <tr>
-                <th>Entrevistado 6</th>
-                <th>Renzo José Araujo Ingunza</th>
-            </tr>
-            <tr>
-                <th>Entrevistador</th>
-                <th>Abraham Andres Estrada Cajamune</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Edad</td>
-                <td>21 años</td>
-            </tr>
-            <tr>
-                <td>Distrito</td>
-                <td>Surco - Ica</td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="../../assets/img/chapter-II/Entrevista_Abraham.png" alt="Foto de entrevista">
-                </td>
-                <td>
-                <strong>Resumen:</strong><br>
-                El entrevistado, de 25 años, un productor artesanal de vinos y piscos, con 12 años de experiencia y ubicado en Ica, Perú, se encarga de la destilación y control de calidad. Produce pisco quebranta y vino borgoña, enfrentando desafíos en la etapa de fermentación por el control de temperatura. Su principal reto es el control de calidad, y considera que el apoyo en esa area sería clave. Actualmente utiliza herramientas básicas como balanzas digitales, termómetros y Excel, pero está interesado en implementar nuevas tecnologías, especialmente para control de inventario y trazabilidad. Está dispuesto a participar en futuras consultas.
-                </td>
-            </tr>
-            <tr>
-                <td>Tiempo que empieza</td>
-                <td>0:00 minutos</td>
-            </tr>
-            <tr>
-                <td>Tiempo de la entrevista</td>
-                <td>4:14 minutos</td>
-            </tr>
-            <tr>
-                <td>URL de la entrevista</td>
-                <td><a href="">Ver entrevista</a></td>
-            </tr>
-        </tbody>
-</table>
--->
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -594,8 +550,8 @@ Marco mostró disposición a participar en futuras entrevistas o pruebas relacio
      - La edad promedio de los trabajadores del campo entrevistados es de 24.6 años.
      - La mayoría de los entrevistados se encuentra en un rango de 21 a 28 años.
      
-  2. Distrito: Las entrevistas provienen de distritos de Ica: Santiago, Surco, Ocucaje, Chorrillos, lo que sugiere que el segmento está ubicado en áreas rurales relacionadas con la viticultura.
-  3. Experiencia: Los trabajadores tienen experiencia en labores agrícolas de entre 1 y 5 años. La duración promedio de la experiencia laboral en la viticultura es de 3.5 años.
+  2. Distrito: Las entrevistas provienen de distritos de Ica: Santiago, Surco, Ocucaje, Chorrillos, lo que sugiere que el segmento está ubicado en áreas rurales relacionadas con la vinicultura.
+  3. Experiencia: Los trabajadores tienen experiencia en labores agrícolas de entre 1 y 5 años. La duración promedio de la experiencia laboral en la vinicultura es de 3.5 años.
   4. Tareas realizadas: Las principales tareas incluyen cosecha, riego, mantenimiento de terreno, poda, y control de insumos. El 80% de los trabajadores menciona que realizan tareas físicamente exigentes, como la cosecha y el mantenimiento de riego.
 
 
@@ -641,9 +597,9 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
     </p>
 </div>
 
-#### a) User Person Vitivinicultor
+#### a) User Person Vinicultor
 <p>
-    <img src="../assets/img/chapter-II/User_Person_Vitivinicultor.png"  alt="User_Person_Vitivinicultor">
+    <img src="../assets/img/chapter-II/User_Person_Vinicultor.png"  alt="User_Person_Vinicultor">
 </p>
 
 #### b) User Person Trabajador de Campo
@@ -656,11 +612,11 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 ### 2.3.2. User Task Matrix
 <div style="text-align: justify;">
     <p>
-        En esta sección se presentan los segmentos objetivos identificados: el vitivinicultor artesanal (representado por Josep Grau) y el trabajador de campo (representado por Luis Gómez). Cada uno desempeña un rol clave en la producción de vinos en el Valle del              Colca, Perú. A través del user person, se destacan las responsabilidades específicas de cada segmento e importancia en el cumplimiento de sus objetivos. Esto permite identificar similitudes, diferencias y áreas de enfoque entre los dos perfiles.
+        En esta sección se presentan los segmentos objetivos identificados: el vinicultor artesanal (representado por Daniel Shimabukuro) y el trabajador de campo (representado por Marco Berrati). Cada uno desempeña un rol clave en la producción de vinos en Ocucaje - ICa, Perú. A través del user person, se destacan las responsabilidades específicas de cada segmento e importancia en el cumplimiento de sus objetivos. Esto permite identificar similitudes, diferencias y áreas de enfoque entre los dos perfiles.
     </p>    
 </div>
 <p><b>
-    Vitivinicultor:
+    Vinicultor:
 </b><p>
 
 <table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
@@ -752,7 +708,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             <ul>
                 <li>
                     <strong>Supervisar la calidad del viñedo:</strong> Es altamente relevante para ambos segmentos, aunque su frecuencia varía.
-                    El vitivinicultor (Josep Grau) lo realiza semanalmente, mientras que el trabajador de campo (Luis Gómez) lo hace diariamente debido a su rol operativo.
+                    El vinicultor (Daniel Shimabukuro) lo realiza semanalmente, mientras que el trabajador de campo (Marco Berrati) lo hace diariamente debido a su rol operativo.
                 </li>
                 <li>
                     <strong>Gestionar la cosecha de uvas:</strong> Tiene una importancia alta para ambos, pero se lleva a cabo de manera estacional, 
@@ -764,12 +720,12 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             <strong>Principales diferencias:</strong>
             <ul>
                 <li>
-                    <strong>Aplicar técnicas de cultivo:</strong> Es una tarea mensual para Josep Grau, pero diaria para Luis Gómez, mostrando su rol 
+                    <strong>Aplicar técnicas de cultivo:</strong> Es una tarea mensual para Daniel Shimabukuro, pero diaria para Marco Berrati, mostrando su rol 
                     más activo en las actividades diarias del campo.
                 </li>
                 <li>
-                    <strong>Coordinar equipo de trabajo:</strong> Es una responsabilidad diaria y de alta importancia para Josep, quien lidera y organiza,
-                    mientras que para Luis tiene una importancia moderada, ya que su enfoque principal está en las actividades operativas.
+                    <strong>Coordinar equipo de trabajo:</strong> Es una responsabilidad diaria y de alta importancia para Daniel, quien lidera y organiza,
+                    mientras que para Marco tiene una importancia moderada, ya que su enfoque principal está en las actividades operativas.
                 </li>
             </ul>
         </li>
@@ -792,8 +748,8 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 ### 2.3.3. User Journey Mapping
 <div style="text-align: justify;">
     <p>
-        Durante esta sección, se desarrolla los <strong>User Journey Maps</strong> de los perfiles clave involucrados en el proceso vitivinícola: 
-        <strong>Josep Grau</strong>, el vitivinicultor, y <strong>Luis Gómez</strong>, el trabajador de campo. Estos journeys ilustran la experiencia 
+        Durante esta sección, se desarrolla los <strong>User Journey Maps</strong> de los perfiles clave involucrados en el proceso vinícola: 
+        <strong> Daniel Shimabukuro </strong>, el vinicultor, y <strong> Marco Berrati </strong>, el trabajador de campo. Estos journeys ilustran la experiencia 
         actual (<em>As-Is</em>) de cada persona en su respectivo rol, antes de la implementación de cualquier solución tecnológica o mejora en los procesos. 
     </p>
     <p> 
@@ -809,9 +765,9 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 </div>
 
-#### a) User Journey Mapping Vitivinicultor
+#### a) User Journey Mapping Vinicultor
 <p>
-    <img src="../assets/img/chapter-II/User_Journey_Mapping_Vitivinicultor.png"  alt="User_Journey_Mapping_Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/User_Journey_Mapping_Vinicultor.png"  alt="User_Journey_Mapping_Vinicultor.png">
 </p>
 
 #### b) User Journet Mapping Trabajador de Campo
@@ -825,7 +781,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 <section>
         <p>
             El <strong>Empathy Mapping</strong> es una técnica utilizada para profundizar en la perspectiva del usuario y entender sus pensamientos, emociones y 
-            comportamientos dentro de su entorno. Para desarrollar los Empathy Maps de <strong>Josep Grau</strong> y <strong>Luis Gómez</strong>, el equipo siguió un 
+            comportamientos dentro de su entorno. Para desarrollar los Empathy Maps de <strong>Daniel Shimabukuro</strong> y <strong>Marco Berrati</strong>, el equipo siguió un 
             proceso estructurado que permitió capturar observaciones relevantes sobre cada perfil.
         </p>
         <h3> Pasos de elaboración:</h3>
@@ -848,10 +804,10 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
         </p>
     </section>
     
-#### Segmento objetivo Vitivinicultores: Empathy Mapping
+#### Segmento objetivo Vinicultores: Empathy Mapping
 
 <p>
-    <img src="../assets/img/chapter-II/Empathy_Mapping%20_Vitivinicultor.png"  alt="Empathy_Mapping _Vitivinicultor.png">
+    <img src="../assets/img/chapter-II/Empathy_Mapping_Vinicultor.png"  alt="Empathy_Mapping _Vinicultor.png">
 </p>
     
  #### Segmento objetivo Trabajador de Campo: Empathy Mapping
@@ -863,7 +819,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 ### Identificación de Pains y Gains
 
-### Josep Grau (Vitivinicultor)
+### Daniel Shimabukuro (Vinicultor)
 
 ####     Pains (Desafíos y preocupaciones)
 
@@ -885,7 +841,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             <li><strong>Optimización de procesos agrícolas:</strong> Implementar técnicas modernas de cultivo para maximizar la producción y adaptarse mejor a cambios climáticos.</li>
         </ul>
 
-###  Luis Gómez (Trabajador de Campo)
+###  Marco Berrati (Trabajador de Campo)
 
 #### Pains (Desafíos y preocupaciones)
 <ul>
@@ -909,8 +865,8 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 
 #### ¿Qué dice?
 <ul>
-            <li><strong>Josep Grau:</strong> Expresa preocupación por la gestión del viñedo, la optimización de herramientas y el cumplimiento de estándares de calidad.</li>
-            <li><strong>Luis Gómez:</strong> Menciona problemas con herramientas, falta de organización en tareas y la necesidad de mejorar la logística en el campo.</li>
+            <li><strong> Daniel Shimabukuro:</strong> Expresa preocupación por la gestión del viñedo, la optimización de herramientas y el cumplimiento de estándares de calidad.</li>
+            <li><strong> Marco Berrati:</strong> Menciona problemas con herramientas, falta de organización en tareas y la necesidad de mejorar la logística en el campo.</li>
         </ul>
 
 #### ¿Qué puede convencerlo de que somos la alternativa correcta?
@@ -924,7 +880,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Conclusión
 <p>
             La construcción de los <strong>Empathy Maps</strong> permitió comprender de manera profunda las emociones, pensamientos y necesidades de 
-            <strong>Josep Grau</strong> y <strong>Luis Gómez</strong> en su contexto de trabajo. Con esta representación visual, logramos identificar los 
+            <strong>Daniel Shimabukuro</strong> y <strong>Marco Berrati</strong> en su contexto de trabajo. Con esta representación visual, logramos identificar los 
             desafíos (<strong>Pains</strong>) y oportunidades de mejora (<strong>Gains</strong>) que afectan su desempeño diario.
         </p>
 <p>
@@ -937,7 +893,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 ### Proceso de realización de As-is Scenario Mapping
 <p>
             El <strong>As-Is Scenario Mapping</strong> es una técnica que permite visualizar de manera estructurada la experiencia actual de los usuarios en su entorno, 
-            sin implementar cambios o mejoras. En este análisis, se desarrollaron dos mapas de escenario para <strong>Josep Grau</strong> (Vitivinicultor) y <strong>Luis Gómez</strong> 
+            sin implementar cambios o mejoras. En este análisis, se desarrollaron dos mapas de escenario para <strong> Daniel Shimanukuro </strong> (Vinicultor) y <strong>Marco Berrati</strong> 
             (Trabajador de Campo), capturando sus interacciones, desafíos y emociones en cada fase del proceso.
         </p>
 
@@ -961,7 +917,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
             Este proceso permitió capturar la experiencia actual de los User Personas en su contexto de trabajo, facilitando la identificación de puntos críticos y oportunidades de optimización.
         </p>
         
-#### Segmento objetivo Vitivinicultores: As-is Scenario Map
+#### Segmento objetivo Vinicultores: As-is Scenario Map
 
 <p>
     <img src="../assets/img/chapter-II/As-is_Scenario_Map_Vitivinicultor.png"  alt="As-is_Scenario_Map_Vitivinicultor.png">
@@ -1022,7 +978,7 @@ Esta información será útil para desarrollar los arquetipos y las funcionalida
 #### Conclusión
 <p>
             El <strong>As-Is Scenario Mapping</strong> permitió capturar de manera estructurada el <strong>estado actual</strong> del flujo de trabajo para 
-            <strong>Josep Grau</strong> (Vitivinicultor) y <strong>Luis Gómez</strong> (Trabajador de Campo). A través del análisis de <strong>Phases, Doing, Thinking y Feeling</strong>, 
+            <strong>Daniel Shimabukuro</strong> (Vinicultor) y <strong>Marco Berrati</strong> (Trabajador de Campo). A través del análisis de <strong>Phases, Doing, Thinking y Feeling</strong>, 
             identificamos las áreas críticas que afectan su rendimiento diario, así como oportunidades de mejora dentro del entorno laboral.
         </p>
 
