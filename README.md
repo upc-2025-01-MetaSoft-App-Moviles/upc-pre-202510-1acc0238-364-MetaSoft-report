@@ -252,40 +252,59 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
             <!-- ==================== ESTUDIANTE 01 ==================== !-->
             <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
             utilicé técnicas avanzadas como EventStorming y Context Mapping, lo que me permitió comprender profundamente el dominio del proyecto. A través de la creación de diagramas arquitectónicos a nivel de contexto, contenedor y despliegue, y al trabajar en Bounded Contexts y sus respectivas capas, actualicé mis conocimientos sobre cómo estructurar soluciones de software robustas y escalables, alineadas con las mejores prácticas del sector. <br><br>
+            <strong> Janover Gonzalo Saldaña Vela - TP </strong><br>
+            Fui responsable de la estructuración del bounded context de "WineBatch", definiendo su modelo de dominio como agregado raíz y asegurando una separación clara de responsabilidades en cada capa de la arquitectura limpia. También desarrollé vistas en Jetpack Compose y coordiné la interacción entre frontend y backend mediante un enfoque orientado al dominio, lo cual requirió actualización constante de conocimientos y análisis de buenas prácticas de integración.
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong>  Apaza Morales, Fabricio - TB1 </strong><br>
             Desarrollé el perfil inicial del startup, la problemática y el Lean UX Problem Statement, aplicando conceptos de lean startup y diseño centrado en el usuario. A su vez, algunas user stories  lo que me ayudó a mejorar en redacción de requisitos y en el uso de tecnologías para la plataforma.<br><br>            
+            <strong>  Apaza Morales, Fabricio - TP </strong><br>
+            Avancé con el bounded context de Production History, implementando su lógica principal tanto en el 
+backend como en la aplicación móvil. También elaboré parte del ppt para comunicar el avance del proyecto y diseñé en Figma las interfaces relacionadas, asegurando consistencia visual y una experiencia de usuario clara. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
             <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
             Durante el desarrollo del proyecto, he actualizado y reforzado conceptos esenciales relacionados con el análisis de segmentos objetivos, definición de assumptions y outcomes, así como otras características clave para la creación de soluciones de software. Esta actualización de conocimientos me ha permitido comprender mejor las necesidades de los usuarios y transformar esos requerimientos en elemento he logrado integrar buenas prácticas de gestión ágil, fortaleciendo así mi preparación profesional y aportando valor al desarrollo del proyecto. <br><br>
+            <strong> Lizano Coll Cardenas, Fernando Jesus - TP </strong><br>
+            Durante el desarrollo del proyecto, actualicé y apliqué diversos conocimientos relacionados con diseño 
+de interfaces, estructuración web y arquitectura de software. Me encargué de la elaboración de la estructura de la landing page, desarrollando tanto los wireframes como los mockups y su implementación en HTML. Además, participé activamente en la redacción del capítulo 5 del proyecto, lo cual me permitió profundizar en los aspectos técnicos y metodológicos de nuestra solución de software. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 04 ==================== !-->
             <strong> Quispe Erasmo, Raúl Ronaldo - TB1 </strong><br>
             Se llevó a cabo un análisis exhaustivo de todas las etapas del proyecto, con el propósito de identificar áreas críticas de mejora y resolver posibles inconvenientes. Este proceso permitió fortalecer los puntos clave del trabajo, asegurando una entrega final de alta calidad. Gracias a estas mejoras, el proyecto no solo fue más eficiente, sino que también incrementó sus posibilidades de obtener una excelente calificación al cumplir con los estándares de calidad esperados. <br><br>
+            <strong> Quispe Erasmo, Raúl Ronaldo - TP </strong><br>
+            Yo me encargué de la parte de "Testimonios" en la landing page, armando la sección donde los usuarios 
+pueden dejar sus opiniones y valoraciones. También trabajé en el backend, específicamente en el bounded context de "Planificación y Ejecución de Actividades Agrícolas", donde definí las entidades y lógica para poder crear, asignar y seguir actividades agrícolas. Además, hice los mockups de cómo se vería esta parte en la app móvil, con pantallas para ver las tareas, marcarlas como completadas, y ver el progreso. Por último, ayudé al grupo con la presentación en PowerPoint, organizando el contenido y dándole forma para explicar bien lo que hicimos. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
             <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
             Durante el desarrollo del primer entregable, consolidé y apliqué conocimientos en diseño de bases de datos, modelado de procesos y estructuración de arquitecturas de software, enfocándome en garantizar una solución robusta y escalable para el proyecto. Esta experiencia me permitió fortalecer mis habilidades en diseño técnico y aplicar mejores prácticas de organización modular, contribuyendo de manera significativa a la calidad y sostenibilidad de la plataforma desarrollada. <br><br>
+            <strong> Huanca Navarro, Gustavo Esau - TP </strong><br>
+            Durante el desarrollo del módulo Field Log Lookbook, identifiqué la necesidad de profundizar en 
+conceptos relacionados con Domain-Driven Design (DDD), la gestión eficiente de estados en interfaces móviles y la aplicación de buenas prácticas en UI/UX. Esta experiencia reafirmó la importancia del aprendizaje continuo para mejorar mi desempeño profesional y desarrollar soluciones de software más sólidas y alineadas con los objetivos del proyecto. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
             <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
             Mediante un trabajo de investigación, recopilando, analizando las necesidades de los segmentos objetivos, me enfoqué en la realización del NeedFinding para estructurar requisitos clave. Además de lo User Stories para poder satisfacer las necesidades del usuario final, se enfocó en en endpoints RESTful para la gestión técnica del sistema. <br><br>
+            <strong> Estrada Cajamune, Abraham Andres - TP </strong><br>
+            Fui encargado de la implementación de la seccion “Contact US” del Landing Page del proyecto, fabricando 
+la seccion para que los usuarios puedan, en caso de duda, consulta, sugerencia y/o reclamo, puedan contactarse con alguno del equipo desarrollador. Tambien fui responsable de la creación e implementación tanto Mobile Application como Backend del bounded context  Gestión de Trabajadores de Campo, dicho desarrollo me ayudo a comprender más los flujos internos que pueda tener el proyecto. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB2 </strong> <br><br>
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
         </td>
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <td>
-            A lo largo del proceso, se actualizó y profundizó en conceptos clave relacionados con el desarrollo de software, especialmente en Domain-Driven Design (DDD), EventStorming, y la arquitectura de software. Estas metodologías y herramientas resultaron fundamentales para estructurar de manera efectiva el diseño de la solución, garantizando que los requisitos del negocio se alinearan adecuadamente con la arquitectura técnica. Este enfoque contribuyó significativamente a la creación de una solución robusta, escalable y bien fundamentada, mejorando así la calidad y efectividad del software desarrollado.
+            A lo largo del proceso, se actualizó y profundizó en conceptos clave relacionados con el desarrollo de software, especialmente en Domain-Driven Design (DDD), EventStorming, y la arquitectura de software. Estas metodologías y herramientas resultaron fundamentales para estructurar de manera efectiva el diseño de la solución, garantizando que los requisitos del negocio se alinearan adecuadamente con la arquitectura técnica. Este enfoque contribuyó significativamente a la creación de una solución robusta, escalable y bien fundamentada, mejorando así la calidad y efectividad del software desarrollado.<br><br>
+            La constante actualización de conceptos técnicos y metodológicos me permitió afrontar con mayor 
+solvencia los retos del proyecto, desarrollando una solución robusta, modular y mantenible. Además, afianzó mis 
+bases en el desarrollo profesional de soluciones de software alineadas con las tendencias actuales de la industria.
+<br><br>
         </td>
     </tr>
     <!-- =========================================================== -->
     <!-- ========================= FILA 02 ========================= -->
+    <!-- ============================================================ -->
     <tr>
         <!-- ============================================================ -->
         <td>    
@@ -297,41 +316,58 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
         <!-- ============================================================ -->
         <td>
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB1 </strong> <br><br>
+            <strong> ENTREGABLES </strong> <br><br>
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <!-- ==================== ESTUDIANTE 01 ==================== !-->
             <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
             Durante este proceso de diseño arquitectónico y la implementación de Domain-Driven Design táctico, reconozco lo crucial que es el aprendizaje continuo para mejorar mis habilidades y competencias en el desarrollo de soluciones de software. Al trabajar en diagramas de clases y diseño de bases de datos, me di cuenta de que la evolución constante del conocimiento en metodologías de diseño y arquitectura es esencial para mantenerme competitivo y aplicar las mejores prácticas en mis proyectos de software. <br><br>
+            <strong> Janover Gonzalo Saldaña Vela - TP </strong><br>
+            El desarrollo de funcionalidades como el listado, creación y asignación de etapas en los lotes de vino implicó investigar constantemente sobre el ciclo completo del vino y su modelado técnico en software. Asimismo, adapté buenas prácticas para comunicarme de manera eficaz con APIs externas, enfocándome en una correcta separación de capas y un código desacoplado.
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong> Apaza Morales, Fabricio - TB1 </strong><br>
             Me enfoqué en crear el perfil del startup, definir la problemática y trabajar en el Lean UX Problem Statement, lo que me permitió aplicar lo aprendido sobre modelos de negocio y diseño centrado en el usuario. Además, desarrollé seis user stories y dos técnicas, lo que me ayudó a mejorar mis habilidades en la creación de requisitos y en la implementación de soluciones tecnológicas. <br><br>
+            <strong> Apaza Morales, Fabricio - TP </strong><br>
+            Desarrollé el bounded context de Production History, incorporando su lógica central en el backend y en la app móvil. Además, trabajé en la presentación en PowerPoint para mostrar el progreso del proyecto y diseñé las interfaces correspondientes en Figma, manteniendo una coherencia visual y una experiencia de usuario intuitiva. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
             <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
             A través de mi participación en el análisis de segmentos objetivos, la identificación de assumptions y outcomes, y el apoyo en la creación de user stories, he reafirmado la importancia del aprendizaje permanente para mantenerme actualizado en un entorno de constante cambio tecnológico. Este proceso ha fortalecido mi compromiso con la mejora continua, entendiendo que el aprendizaje constante es fundamental para un desempeño profesional sólido y sostenible. <br><br>
+            <strong> Lizano Coll Cardenas, Fernando Jesus - TP </strong><br>
+            Reconozco la importancia del aprendizaje permanente para mantenerme actualizado en el desarrollo profesional y en la construcción de soluciones de software de calidad. En este sentido, reforcé mis conocimientos en desarrollo móvil con Kotlin al implementar las vistas correspondientes al módulo de gestión de suministros, dentro de su respectivo bounded context. Asimismo, trabajé en parte del backend para este módulo, lo cual me llevó a investigar e incorporar buenas prácticas actuales en lógica de negocio y diseño de servicios.            <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 04 ==================== !-->
             <strong> Quispe Erasmo, Raúl Ronaldo - TB1 </strong><br>
             Basándome en los conocimientos adquiridos sobre la metodología Agile, implementé diversas prácticas dentro del proyecto, con el objetivo de optimizar tanto el flujo de trabajo como el rendimiento del equipo. Esta aplicación de Agile no solo buscaba fortalecer la comprensión de los conceptos vistos en el curso, sino también fomentar la toma de decisiones efectivas y alcanzar acuerdos que beneficiaran el desarrollo del proyecto. <br><br>
+            <strong> Quispe Erasmo, Raúl Ronaldo - TP </strong><br>
+            Desarrollé la sección de Testimonios en la landing page y participé en el backend del bounded context de Planificación y Ejecución de Actividades Agrícolas, definiendo su lógica principal. También diseñé los mockups móviles para esta funcionalidad y colaboré en la presentación del grupo. Durante el proyecto, entendí la importancia del aprendizaje continuo para mejorar mis aportes y adaptarme a nuevos desafíos técnicos.            <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
             <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
             Durante el desarrollo del proyecto, fortalecí mi capacidad de aprendizaje continuo al profundizar en el diseño de bases de datos, estructuración de arquitecturas de software y aplicación de buenas prácticas de desarrollo. Este proceso me permitió comprender la importancia de mantenerme en constante actualización tecnológica para enfrentar los desafíos de la industria y aportar soluciones de mayor calidad y eficiencia en proyectos de software. <br><br>
+            <strong> Huanca Navarro, Gustavo Esau - TP </strong><br>
+            Durante el desarrollo del bounded context de Field Log Lookbook, identifiqué la necesidad de profundizar 
+en conceptos técnicos y metodológicos, como la estructuración de microservicios, manejo eficiente de estados en interfaces móviles, y buenas prácticas en UI/UX. Esta experiencia reforzó mi compromiso con el aprendizaje continuo como eje fundamental para mejorar mi desempeño profesional y aportar soluciones sólidas e innovadoras en el ámbito del desarrollo de software <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
             <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
             He fortalecido mi capacidad de aprendizaje continuo, la profundización en metodologías agiles, mejoras en flujos de trabajo colaborativo, y una mayor adquisición de conocimientos en modelado de procesos <br><br>
+            <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
+            Comentar que dada la designación y ser el responsable de la creación e implementación tanto Mobile 
+Application como Backend del bounded context  Gestión de Trabajadores de Campo, dicho desarrollo me ayudo a comprender más los flujos internos que pueda tener el proyecto, he fortalecido mis conocimientos en el ambito del Backend y mobile application <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB2 </strong> <br><br>
-            <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
         </td>
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <!-- ============================================================ -->
         <td>
-            Se reconoció la necesidad del aprendizaje continuo como una herramienta esencial para el desempeño profesional en ingeniería de software. La evolución constante de tecnologías y metodologías, como el Domain-Driven Design y los diagramas de arquitectura, subraya la importancia de mantenerse actualizado con las últimas tendencias y herramientas. Este compromiso con el aprendizaje permanente no solo es crucial para el desarrollo profesional, sino también para asegurar que los proyectos de software se mantengan competitivos, innovadores y alineados con las mejores prácticas del sector.
+            Se reconoció la necesidad del aprendizaje continuo como una herramienta esencial para el desempeño 
+profesional en ingeniería de software. La evolución constante de tecnologías y metodologías, como el Domain-Driven Design y los diagramas de arquitectura, subraya la importancia de mantenerse actualizado con las últimas tendencias y herramientas. Este compromiso con el aprendizaje permanente no solo es crucial para el desarrollo profesional, sino también para asegurar que los proyectos de software se mantengan competitivos, innovadores y alineados con las mejores prácticas del sector. Reconocer la necesidad de aprendizaje permanente ha sido clave para mantenerme actualizado frente a las
+exigencias técnicas del proyecto. Este enfoque me permitió implementar soluciones con mayor calidad y eficiencia,
+además de fortalecer mi perfil como futuro profesional del software comprometido con la mejora continua. <br><br>
+            Reconocer la necesidad de aprendizaje permanente ha sido clave para mantenerme actualizado frente a las
+            exigencias técnicas del proyecto. Este enfoque me permitió implementar soluciones con mayor calidad y eficiencia,
+            además de fortalecer mi perfil como futuro profesional del software comprometido con la mejora continua. <br><br>
         </td>
     </tr>
 </tbody>
