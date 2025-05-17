@@ -604,9 +604,29 @@ El sistema de navegación de ElixirLine está diseñado para ser <strong>intuiti
 
 #### 5.1.4.1. Mobile Applications Wireframes
 
+**Auth View**
+<img src="../assets/img/chapter-V/wireframe/auth-wireframe.png"> 
+
+**Dashboard View**
+<img src="../assets/img/chapter-V/wireframe/dashboard-wireframe.png"> 
+<img src="../assets/img/chapter-V/wireframe/dashboard-wireframe2.png"> 
+
+**Binnacle View**
+<img src="../assets/img/chapter-V/wireframe/binnacle-wireframe.png"> 
+
+**History View**
+<img src="../assets/img/chapter-V/wireframe/history-wireframe.png"> 
+
+**Winebatch View**
+<img src="../assets/img/chapter-V/wireframe/winebatch-wiremae.png"> 
+
+**Management View**
+<img src="../assets/img/chapter-V/wireframe/managment-wireframe.png"> 
+
+**Profile View**
+<img src="../assets/img/chapter-V/wireframe/profile-wireframe.png"> 
 
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
-
 
 #### 5.1.4.3. Mobile Applications Mock-ups
 
