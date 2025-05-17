@@ -1142,12 +1142,30 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 
 ![rama-landing-page.png](../assets/img/chapter-VI/sprint-1/rama-landing-page.png)
 
+
+
 ### Web services Deployment (API REST)
 
-El despliegue de los servicios web se realizará en la nube utilizando el servicio de
-GCP (Google Cloud platform). Para ello se utilizará el servicio de App Engine, que 
-permite desplegar aplicaciones web y servicios en la nube de manera sencilla 
-y escalable.
+
+**Para desplegar mi backend en Azure desarrollado en .NET, hay que seguir lo siguientes pasos**
+
+
+
+**1. Seleccionar la opción “Publicar” desde el menú contextual del proyecto.**
+
+![](../assets/img/chapter-VI/sprint-1/boton%20publicar.png)
+
+**2. Elegir Azure como destino de publicación.**
+
+![](../assets/img/chapter-VI/sprint-1/azure.png)
+
+**3. Escoger “Azure App Service (Windows)” como tipo de servicio.**
+
+![](../assets/img/chapter-VI/sprint-1/azure-windows.png)
+
+**4. Configurar los parámetros del recurso de Azure y proceder a publicar Durante el proceso, Visual Studio muestra el estado "Publicando en Azure App Service"..**
+
+![](../assets/img/chapter-VI/sprint-1/imagen%20publicando.png)
 
 
 
@@ -1246,6 +1264,7 @@ y escalable.
       <td rowspan="3">US-03</td>
       <td rowspan="3">Información sobre beneficios de la aplicación</td>
       <td>US-03-T-01</td>
+      <td>Identificar beneficios clave</td>
       <td>Identificar beneficios clave</td>
       <td>Definir los principales beneficios de ElixirLine para incluirlos como contenido informativo.</td>
       <td>3h</td>
@@ -1793,9 +1812,27 @@ Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, program�
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
+### Landing page
 Para llevar a cabo la implementación de nuestro sitio web, decidimos utilizar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub que nos permitió gestionar el control de versiones. Desde la sección de Configuración, publicamos el proyecto alojado en la rama "¿?", el cual anteriormente se encontraba en la rama "¿?".
 
 [Landing Page ElixirLine]() - FALTA LINK
+
+
+### Web service
+
+Para llevar a cabo la implementacion del web service usamos azure siguiendo los pasos previamente vistos
+
+**La publicación fue exitosa y se generó un enlace de acceso al backend:**
+https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.azurewebsites.net**
+
+
+![](../assets/img/chapter-VI/sprint-1/deploy-finalizado.png)
+
+
+**Se observa el correcto despliegue del backend accediendo al Swagger UI, donde pude probar los endpoints REST de forma visual.**
+
+![](../assets/img/chapter-VI/sprint-1/dploy-final.png)
+
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
