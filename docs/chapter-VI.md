@@ -1205,7 +1205,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
     </tr>
   </thead>
   <tbody>
-    <!-- US-01 -->
+    <!-- US-01 - Todas las tareas asignadas a Janover -->
     <tr>
       <td rowspan="3">US-01</td>
       <td rowspan="3">Hipervínculos en el encabezado</td>
@@ -1221,7 +1221,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Aplicar estilos responsivos al encabezado</td>
       <td>Implementar estilos CSS para asegurar que el encabezado se visualice correctamente en todos los dispositivos.</td>
       <td>3h</td>
-      <td>Fabricio</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1229,10 +1229,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Agregar funcionalidad de scroll suave</td>
       <td>Implementar comportamiento de desplazamiento suave hacia las secciones cuando se haga clic en los enlaces del encabezado.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
-    <!-- US-02 -->
+    <!-- US-02 - Todas las tareas asignadas a Raúl -->
     <tr>
       <td rowspan="3">US-02</td>
       <td rowspan="3">Introducción clara y atractiva sobre ElixirLine</td>
@@ -1248,7 +1248,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar sección introductoria</td>
       <td>Implementar una sección visualmente atractiva con imagen de fondo y botón de llamada a la acción.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Raúl</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1256,19 +1256,18 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Optimizar para SEO</td>
       <td>Agregar metadatos y etiquetas semánticas que mejoren el posicionamiento en buscadores.</td>
       <td>2h</td>
-      <td>Abraham</td>
+      <td>Raúl</td>
       <td>Done</td>
     </tr>
-    <!-- US-03 -->
+    <!-- US-03 - Todas las tareas asignadas a Fabricio -->
     <tr>
       <td rowspan="3">US-03</td>
       <td rowspan="3">Información sobre beneficios de la aplicación</td>
       <td>US-03-T-01</td>
       <td>Identificar beneficios clave</td>
-      <td>Identificar beneficios clave</td>
       <td>Definir los principales beneficios de ElixirLine para incluirlos como contenido informativo.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1284,10 +1283,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Aplicar animaciones suaves</td>
       <td>Implementar animaciones con transición suave al mostrar los beneficios al hacer scroll.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Fabricio</td>
       <td>Done</td>
     </tr>
-    <!-- US-04 -->
+    <!-- US-04 - Todas las tareas asignadas a Gustavo -->
     <tr>
       <td rowspan="3">US-04</td>
       <td rowspan="3">Opciones de precios claras para decisiones informadas</td>
@@ -1295,7 +1294,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar tabla comparativa de precios</td>
       <td>Implementar una tabla de planes con diferencias visibles en beneficios y precios.</td>
       <td>3h</td>
-      <td>Raúl</td>
+      <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1311,10 +1310,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Agregar sección de preguntas frecuentes</td>
       <td>Incluir una sección con las dudas más comunes sobre los planes de precios.</td>
       <td>2h</td>
-      <td>Abraham</td>
+      <td>Gustavo</td>
       <td>Done</td>
     </tr>
-    <!-- US-05 -->
+    <!-- US-05 - Todas las tareas asignadas a Fernando -->
     <tr>
       <td rowspan="3">US-05</td>
       <td rowspan="3">Acceso fácil a soporte y asesoramiento</td>
@@ -1322,7 +1321,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Crear sección de contacto</td>
       <td>Diseñar un formulario accesible con campos de nombre, email y mensaje para contacto directo.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1330,7 +1329,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Integrar botón de WhatsApp</td>
       <td>Colocar botón flotante con enlace directo al soporte vía WhatsApp.</td>
       <td>2h</td>
-      <td>Fabricio</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1341,7 +1340,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Fernando</td>
       <td>Done</td>
     </tr>
-    <!-- US-06 -->
+    <!-- US-06 - Todas las tareas asignadas a Abraham -->
     <tr>
       <td rowspan="3">US-06</td>
       <td rowspan="3">Opiniones de usuarios que inspiran confianza</td>
@@ -1349,7 +1348,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Recolectar testimonios reales</td>
       <td>Solicitar y documentar opiniones de usuarios que hayan utilizado ElixirLine satisfactoriamente.</td>
       <td>2h</td>
-      <td>Raúl</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1357,7 +1356,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar sección visual de opiniones</td>
       <td>Implementar componente visual atractivo para mostrar testimonios con foto y nombre.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1366,9 +1365,9 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Asegurar que la sección de opiniones se vea correctamente en móviles y tablets.</td>
       <td>4h</td>
       <td>Abraham</td>
-      <td>Done</td>
+      <td>In-Process</td>
     </tr>
-    <!-- US-07 -->
+    <!-- US-07 - Todas las tareas asignadas a Janover -->
     <tr>
       <td rowspan="3">US-07</td>
       <td rowspan="3">Navegación fluida en dispositivos móviles</td>
@@ -1384,7 +1383,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Incluir icono hamburguesa</td>
       <td>Agregar botón de navegación tipo hamburguesa para dispositivos móviles.</td>
       <td>2h</td>
-      <td>Fabricio</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1392,10 +1391,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Optimizar botones y enlaces</td>
       <td>Aumentar el tamaño de las zonas clicables para facilitar la interacción en pantallas táctiles.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
-    <!-- US-08 -->
+    <!-- US-08 - Todas las tareas asignadas a Raúl -->
     <tr>
       <td rowspan="3">US-08</td>
       <td rowspan="3">Adaptación de la landing page en tabletas</td>
@@ -1411,7 +1410,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Probar compatibilidad en iPad y Android</td>
       <td>Realizar pruebas manuales en diferentes modelos de tablets y resolver problemas visuales.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Raúl</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1419,10 +1418,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Optimizar tiempos de carga</td>
       <td>Reducir el tamaño de imágenes para mejorar la velocidad de carga en conexión móvil.</td>
       <td>2h</td>
-      <td>Abraham</td>
+      <td>Raúl</td>
       <td>In-Process</td>
     </tr>
-    <!-- US-09 -->
+    <!-- US-09 - Todas las tareas asignadas a Fabricio -->
     <tr>
       <td rowspan="3">US-09</td>
       <td rowspan="3">Registro del lote de uvas</td>
@@ -1430,7 +1429,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar formulario de registro</td>
       <td>Crear formulario para ingresar tipo de uva, fecha y cantidad al ingresar a bodega.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1446,10 +1445,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Almacenar en base de datos</td>
       <td>Guardar los datos del lote de uvas en la base de datos con relación a campaña.</td>
       <td>3h</td>
-      <td>Fernando</td>
+      <td>Fabricio</td>
       <td>In-Process</td>
     </tr>
-    <!-- US-25 -->
+    <!-- US-25 - Todas las tareas asignadas a Gustavo -->
     <tr>
       <td rowspan="3">US-25</td>
       <td rowspan="3">Navegación simplificada en la aplicación móvil</td>
@@ -1457,7 +1456,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar menú móvil minimalista</td>
       <td>Diseñar una barra inferior con los accesos esenciales para navegación rápida.</td>
       <td>3h</td>
-      <td>Raúl</td>
+      <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1473,10 +1472,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Optimizar rendimiento de navegación</td>
       <td>Minimizar tiempo de carga y optimizar el uso de memoria en móviles.</td>
       <td>3h</td>
-      <td>Abraham</td>
+      <td>Gustavo</td>
       <td>In-Process</td>
     </tr>
-    <!-- US-34 -->
+    <!-- US-34 - Todas las tareas asignadas a Fernando -->
     <tr>
       <td rowspan="3">US-34</td>
       <td rowspan="3">Registro y análisis de calidad de la uva cosechada</td>
@@ -1484,7 +1483,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Crear campos para parámetros técnicos</td>
       <td>Diseñar inputs para capturar grados Brix, acidez y color al momento de ingreso.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1492,7 +1491,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Analizar parámetros y mostrar alertas</td>
       <td>Implementar lógica para validar si la uva cumple condiciones óptimas de calidad.</td>
       <td>3h</td>
-      <td>Fabricio</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1503,7 +1502,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Fernando</td>
       <td>In-Process</td>
     </tr>
-    <!-- US-36 -->
+    <!-- US-36 - Todas las tareas asignadas a Abraham -->
     <tr>
       <td rowspan="3">US-36</td>
       <td rowspan="3">Registro detallado del consumo de insumos</td>
@@ -1511,7 +1510,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar interfaz para registrar insumos</td>
       <td>Permitir el registro detallado por tipo de insumo, cantidad y tarea donde se utilizó.</td>
       <td>3h</td>
-      <td>Raúl</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1519,7 +1518,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Asociar insumo a lote y etapa</td>
       <td>Relacionar cada insumo registrado con el lote correspondiente y la fase productiva.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1530,7 +1529,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Abraham</td>
       <td>In-Process</td>
     </tr>
-    <!-- US-40 -->
+    <!-- US-40 - Todas las tareas asignadas a Janover -->
     <tr>
       <td rowspan="3">US-40</td>
       <td rowspan="3">Asignación rápida de tareas por lote</td>
@@ -1546,7 +1545,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Filtrar tareas disponibles</td>
       <td>Agregar filtros por tipo de tarea, trabajador disponible y estado de parcela.</td>
       <td>2h</td>
-      <td>Fabricio</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1554,10 +1553,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Confirmación automática de asignación</td>
       <td>Notificar al trabajador asignado y confirmar que ha leído la tarea asignada.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Janover</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-01 -->
+    <!-- TA-01 - Todas las tareas asignadas a Raúl -->
     <tr>
       <td rowspan="3">TA-01</td>
       <td rowspan="3">Endpoint para Registro de Tareas</td>
@@ -1573,7 +1572,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Implementar POST /api/tareas</td>
       <td>Crear endpoint en controlador que reciba los datos y los valide antes de guardar.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Raúl</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1581,10 +1580,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Gestionar errores 400</td>
       <td>Retornar error adecuado cuando falte información o el formato sea inválido.</td>
       <td>2h</td>
-      <td>Abraham</td>
+      <td>Raúl</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-02 -->
+    <!-- TA-02 - Todas las tareas asignadas a Fabricio -->
     <tr>
       <td rowspan="3">TA-02</td>
       <td rowspan="3">Endpoint para Consultar Historial de Actividades por Lote</td>
@@ -1592,7 +1591,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Crear servicio de consulta</td>
       <td>Implementar lógica para obtener todas las tareas asociadas a un lote específico en orden cronológico.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1608,10 +1607,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Devolver JSON estructurado</td>
       <td>Formatear la respuesta con fecha, trabajador, tarea y estado para facilitar visualización en frontend.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Fabricio</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-03 -->
+    <!-- TA-03 - Todas las tareas asignadas a Gustavo -->
     <tr>
       <td rowspan="3">TA-03</td>
       <td rowspan="3">Endpoint para Registro y Control de Insumos</td>
@@ -1619,7 +1618,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Diseñar entidad Insumo</td>
       <td>Definir estructura del modelo con nombre, categoría, stock y fecha de ingreso.</td>
       <td>3h</td>
-      <td>Raúl</td>
+      <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1635,10 +1634,10 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Validar duplicados y cantidad</td>
       <td>Evitar registros duplicados y controlar que el stock no sea negativo ni exceda límites.</td>
       <td>2h</td>
-      <td>Abraham</td>
+      <td>Gustavo</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-04 -->
+    <!-- TA-04 - Todas las tareas asignadas a Fernando -->
     <tr>
       <td rowspan="3">TA-04</td>
       <td rowspan="3">Endpoint para Generación y Consulta de Reportes de Producción</td>
@@ -1646,7 +1645,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Implementar generación de reporte</td>
       <td>Crear lógica que calcule rendimientos de campaña a partir de lotes y tareas asociadas.</td>
       <td>3h</td>
-      <td>Janover</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1654,7 +1653,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Desarrollar endpoint GET /api/reportes</td>
       <td>Filtrar por campaña, fecha y tipo de actividad para devolver los datos del reporte.</td>
       <td>3h</td>
-      <td>Fabricio</td>
+      <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1665,7 +1664,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Fernando</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-05 -->
+    <!-- TA-05 - Todas las tareas asignadas a Abraham -->
     <tr>
       <td rowspan="3">TA-05</td>
       <td rowspan="3">Endpoint de Autenticación y Gestión de Usuarios (IAM)</td>
@@ -1673,7 +1672,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Desarrollar registro de usuarios</td>
       <td>Implementar endpoint POST /auth/signup con validaciones y asignación de rol (vinicultor o trabajador).</td>
       <td>3h</td>
-      <td>Raúl</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1681,7 +1680,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Crear login con JWT</td>
       <td>Configurar endpoint POST /auth/login que genere y retorne token JWT válido.</td>
       <td>3h</td>
-      <td>Gustavo</td>
+      <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1692,7 +1691,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Abraham</td>
       <td>In-Process</td>
     </tr>
-    <!-- TA-06 -->
+    <!-- TA-06 - Todas las tareas asignadas a Janover -->
     <tr>
       <td rowspan="3">TA-06</td>
       <td rowspan="3">Endpoint Notificaciones Push</td>
@@ -1708,7 +1707,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Notificar tareas asignadas</td>
       <td>Enviar push cuando una nueva tarea es asignada al trabajador con ID correspondiente.</td>
       <td>3h</td>
-      <td>Fabricio</td>
+      <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
@@ -1716,7 +1715,7 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
       <td>Notificar incidencias reportadas</td>
       <td>Enviar notificación al vinicultor responsable si una incidencia fue registrada por un trabajador.</td>
       <td>2h</td>
-      <td>Fernando</td>
+      <td>Janover</td>
       <td>In-Process</td>
     </tr>
   </tbody>
@@ -1727,57 +1726,524 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 
+### Landing Page
+
 <table>
   <tr>
-    <td align ="center" > <strong>Repository</strong></td>
-    <td  align ="center" > <strong>Branch</strong></td>
-    <td  align ="center" > <strong>Commit ID</strong></td>
-    <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
-    <td  align ="center" > <strong>Commit on (date)</strong></td>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Landing-Page.git </td>
-    <td align="center"> Master </td>
-    <td align="center"> b09ede62c8d4705d99faeb5abdd9e95ff47b86ce </td>
-    <td align="center"> initial commit </td>
-    <td align="center">  </td>
-    <td align="center"> 2025/04/14 </td>
+    <td rowspan="24" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Landing-Page.git</td>
+    <td align="center">release-v1.0</td>
+    <td align="center">5bad480</td>
+    <td align="center">Merge remote-tracking branch 'origin/feat/Testimonies' into develop</td>
+    <td align="center"># Conflicts:<br>index.html</td>
+    <td align="center">2025/05/17</td>
   </tr>
 
   <tr>
-    <td align="center"> develop </td>
-    <td align="center"> b09ede62c8d4705d99faeb5abdd9e95ff47b86ce </td>
-    <td align="center"> chore: Added initial landing page project structure. </td>
-    <td align="center">  </td>
-    <td align="center"> 2025/04/14 </td>
-  </tr>
-  
-  <tr>
-    <td align="center"> feat/Benefits </td>
-    <td align="center"> 05431e5c9484a19a83ff3e61fbcdb063a18c46c2 </td>
-    <td align="center"> feat(benefits): benefits seccion added. </td>
-    <td align="center">  </td>
-    <td align="center"> 2025/05/08 </td>
+    <td align="center">develop</td>
+    <td align="center">798f003</td>
+    <td align="center">Merge remote-tracking branch 'origin/feat/SuscriptionsAndVideo' into develop</td>
+    <td align="center"># Conflicts:<br>index.html</td>
+    <td align="center">2025/05/17</td>
   </tr>
 
   <tr>
-    <td align="center"> feat/SuscriptionsAndVideo </td>
-    <td align="center"> 5ec751d9fb45fa63c6dc90aa838f78a9c94208e0 </td>
-    <td align="center"> feat(SubscriptionsAndVideo): added Subscriptions and Video section </td>
-    <td align="center">  </td>
-    <td align="center"> 2025/05/08 </td>
+    <td align="center">feat/Testimonies</td>
+    <td align="center">f97b481</td>
+    <td align="center">feat(testimonies): testimonies seccion added.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
   </tr>
 
   <tr>
-    <td align="center"> header-hero </td>
-    <td align="center"> 1a8bc4e4f804d2b670bf9d3b57b3ed3cf35777f6 </td>
-    <td align="center"> feat(index): added header area content </td>
-    <td align="center">  </td>
-    <td align="center"> 2025/05/07 </td>
+    <td align="center">feat/ContactUS</td>
+    <td align="center">cd50a00</td>
+    <td align="center">Implement feat/ContactUS</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
+  </tr>
+
+  <tr>
+    <td align="center">feat/Faq</td>
+    <td align="center">712c97a</td>
+    <td align="center">Implement feat/Faq</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
+  </tr>
+
+  <tr>
+    <td align="center">feat/SuscriptionsAndVideo</td>
+    <td align="center">833a263</td>
+    <td align="center">fix(SubscriptionAndVideo): Fixed a reference of the video url</td>
+    <td align="center"></td>
+    <td align="center">2025/05/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feat/SuscriptionsAndVideo</td>
+    <td align="center">5ec751d</td>
+    <td align="center">feat(SubscriptionsAndVideo): added Subscriptions and Video section</td>
+    <td align="center"></td>
+    <td align="center">2025/05/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feat/Benefits</td>
+    <td align="center">05431e5</td>
+    <td align="center">feat(benefits): benefits seccion added.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">bb8f986</td>
+    <td align="center">feat(index): added scroll top content and function</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">2cd2e32</td>
+    <td align="center">style: added styles for hero area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">9664b1d</td>
+    <td align="center">feat(index): added hero area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">b98ebd3</td>
+    <td align="center">feat: added main.svg into assets\images</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">f87dda7</td>
+    <td align="center">style: added styles for header area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">1a8bc4e</td>
+    <td align="center">feat(index): added header area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">451f95f</td>
+    <td align="center">feat: added logo_Elexir_white_lat.svg into assets\images\logo</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">92c6960</td>
+    <td align="center">feat: added logo_Elexir_color_lat.svg into assets\images\logo</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">e3ec034</td>
+    <td align="center">feat: added functions for preloader, sticky and other into main.js</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">b9d94a1</td>
+    <td align="center">style: added styles for preloader area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">144a63a</td>
+    <td align="center">feat(index): added preloader area content</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">header-hero</td>
+    <td align="center">de9adee</td>
+    <td align="center">style: added styles for titles</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">ba9fe2f</td>
+    <td align="center">chore: updated structure from main.css</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">83791ce</td>
+    <td align="center">chore: updated structure from project</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">f58fc11</td>
+    <td align="center">chore: Added project description.</td>
+    <td align="center"></td>
+    <td align="center">2025/04/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">b09ede6</td>
+    <td align="center">chore: Added initial landing page project structure.</td>
+    <td align="center"></td>
+    <td align="center">2025/04/14</td>
   </tr>
 </table>
+
+
+
+### Web Service
+
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="28" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Platform.git</td>
+    <td align="center">develop</td>
+    <td align="center">d37d0c7</td>
+    <td align="center">feat(develop): merged</td>
+    <td align="center"></td>
+    <td align="center">2025/05/17</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">7aac4e1</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/field-logbook' into develop</td>
+    <td align="center"># Conflicts:<br>ElixirLinePlatform.API/Program.cs</td>
+    <td align="center">2025/05/17</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">33d32da</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/supply-inventory' into develop</td>
+    <td align="center"># Conflicts:<br>ElixirLinePlatform.API/Shared/Infrastructure/Persistence/EFC/Configuration/AppDbContext.cs</td>
+    <td align="center">2025/05/17</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">ba8ed71</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/production-history' into develop</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">b69c88d</td>
+    <td align="center">feat(winemaking-process): The correction stage controller was discussed.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/supply-inventory</td>
+    <td align="center">32c9370</td>
+    <td align="center">fix: fixed Supply.cs for correct usage</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">323c66b</td>
+    <td align="center">feat: added BaseResponse.cs into ElixirLinePlatform</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">ef63bc1</td>
+    <td align="center">feat: added automapper into the project</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/supply-inventory</td>
+    <td align="center">98847ca</td>
+    <td align="center">feat(supply-inventory): added content to the files for pre-operation</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/supply-inventory</td>
+    <td align="center">0cf3266</td>
+    <td align="center">feat: added initial files for the supply inventory bounded context</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/field-logbook</td>
+    <td align="center">a232d14</td>
+    <td align="center">feat(field-log): field log added.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">5f85575</td>
+    <td align="center">fix(ProductionHistory): fixed ProductionRecordController</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">745eca1</td>
+    <td align="center">fix(ProductionHistory): fixed ProductionRecordAggregate</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">ea66246</td>
+    <td align="center">feat(ProductionHistory): added DbContext of my BC</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">c7b1651</td>
+    <td align="center">feat(ProductionHistory): added dependencies injection of the BC</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">7376e7b</td>
+    <td align="center">feat(ProductionHistory): added Interfaces Layer</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">f0c7fe4</td>
+    <td align="center">feat(ProductionHistory): added Application Layer</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">ff876ca</td>
+    <td align="center">feat(ProductionHistory): added Infrastructure Layer</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">7659651</td>
+    <td align="center">feat(ProductionHistory): added Domain Layer</td>
+    <td align="center"></td>
+    <td align="center">2025/05/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">729a235</td>
+    <td align="center">feat(winemaking-process): Added POST and GET endpoints for the Correction Stage.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/12</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">6769e05</td>
+    <td align="center">feat(winemaking-process): Added POST and GET endpoints for the Clarification Stage.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/12</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">6f35240</td>
+    <td align="center">feat(winemaking-process): Added POST and GET endpoints for the Pressing Stage.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">6fcbc06</td>
+    <td align="center">feat(winemaking-process): Added POST and GET endpoints for the Pressing Stage.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">9a9af7f</td>
+    <td align="center">feat(winemaking-process): Added POST and GET endpoints for the Reception and Fermenting stages.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">b8eb22e</td>
+    <td align="center">feat(winemaking-process): Added endpoints for creating a wine batch.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">6caef4f</td>
+    <td align="center">feat(winemaking-process): Added entities and value objets of the winemaking process.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/02</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">3cfa033</td>
+    <td align="center">chore: Added the initial structure of the vinification process bounded context.</td>
+    <td align="center"></td>
+    <td align="center">2025/04/14</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">f53427e</td>
+    <td align="center">chore: Initial commit</td>
+    <td align="center"></td>
+    <td align="center">2025/04/14</td>
+  </tr>
+</table>
+
+### Movil Application
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="7" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-App-Movil.git</td>
+    <td align="center">develop</td>
+    <td align="center">e2bb261</td>
+    <td align="center">Merge remote-tracking branch 'origin/feature/production-campaign-history' into develop</td>
+    <td align="center"># Conflicts:<br>app/src/main/AndroidManifest.xml<br>app/src/main/java/com/metasoft/elixirline_app_movil/MainActivity.kt</td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-campaign-history</td>
+    <td align="center">8ffe064</td>
+    <td align="center">chore(ProductionHistory): Added BC Package</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">ce40027</td>
+    <td align="center">feat(winemaking-process): Added navigation bar, filter batches.</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">baf27a4</td>
+    <td align="center">fix(ProductionHistory): added new color for NavBar</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">5000381</td>
+    <td align="center">feat(ProductionHistory): Added the feature to view all the Campaign History</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">26bf58b</td>
+    <td align="center">feat(winemaking-process): Added the feature to view all wine batches</td>
+    <td align="center"></td>
+    <td align="center">2025/05/16</td>
+  </tr>
+
+  <tr>
+    <td align="center">master</td>
+    <td align="center">a7f6a33</td>
+    <td align="center">Initial commit</td>
+    <td align="center"></td>
+    <td align="center">2025/05/15</td>
+  </tr>
+</table>
+
+
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
