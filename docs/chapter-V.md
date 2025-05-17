@@ -629,7 +629,28 @@ El sistema de navegación de ElixirLine está diseñado para ser <strong>intuiti
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
 #### 5.1.4.3. Mobile Applications Mock-ups
+**Auth View**
+<img src="../assets/img/chapter-V/mockup/auth-mockup.png"> 
 
+**Dashboard View**
+<img src="../assets/img/chapter-V/mockup/dashboard-mockup.png"> 
+<img src="../assets/img/chapter-V/mockup/dashboard-mockup2.png"> 
+
+**Binnacle View**
+<img src="../assets/img/chapter-V/mockup/binnacle-mockup.png"> 
+
+**History View**
+<img src="../assets/img/chapter-V/mockup/history-mockup.png"> 
+
+**Winebatch View**
+<img src="../assets/img/chapter-V/mockup/winebatch-mockup.png"> 
+
+**Management View**
+<img src="../assets/img/chapter-V/mockup/managment-mockup.png"> 
+
+**Profile View**
+
+<img src="../assets/img/chapter-V/mockup/profile-mockup.png"> 
 
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
 
