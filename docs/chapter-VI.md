@@ -1166,6 +1166,546 @@ y escalable.
 #### 6.2.1.2. Sprint Backlog 1
 
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="8">Sprint 1</th>
+    </tr>
+    <tr>
+      <td colspan="2">User Story</td>
+      <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (hours)</td>
+      <td>Assigned To</td>
+      <td>Status</td>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- US-01 -->
+    <tr>
+      <td rowspan="3">US-01</td>
+      <td rowspan="3">Hipervínculos en el encabezado</td>
+      <td>US-01-T-01</td>
+      <td>Diseñar estructura HTML del encabezado</td>
+      <td>Crear la estructura semántica del encabezado con etiquetas nav y ul/li para los hipervínculos.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-01-T-02</td>
+      <td>Aplicar estilos responsivos al encabezado</td>
+      <td>Implementar estilos CSS para asegurar que el encabezado se visualice correctamente en todos los dispositivos.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-01-T-03</td>
+      <td>Agregar funcionalidad de scroll suave</td>
+      <td>Implementar comportamiento de desplazamiento suave hacia las secciones cuando se haga clic en los enlaces del encabezado.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-02 -->
+    <tr>
+      <td rowspan="3">US-02</td>
+      <td rowspan="3">Introducción clara y atractiva sobre ElixirLine</td>
+      <td>US-02-T-01</td>
+      <td>Redactar mensaje introductorio</td>
+      <td>Crear un texto introductorio que explique de forma clara el propósito de la aplicación ElixirLine.</td>
+      <td>2h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-02-T-02</td>
+      <td>Diseñar sección introductoria</td>
+      <td>Implementar una sección visualmente atractiva con imagen de fondo y botón de llamada a la acción.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-02-T-03</td>
+      <td>Optimizar para SEO</td>
+      <td>Agregar metadatos y etiquetas semánticas que mejoren el posicionamiento en buscadores.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-03 -->
+    <tr>
+      <td rowspan="3">US-03</td>
+      <td rowspan="3">Información sobre beneficios de la aplicación</td>
+      <td>US-03-T-01</td>
+      <td>Identificar beneficios clave</td>
+      <td>Definir los principales beneficios de ElixirLine para incluirlos como contenido informativo.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-03-T-02</td>
+      <td>Diseñar iconografía para beneficios</td>
+      <td>Crear elementos visuales atractivos con íconos que acompañen cada beneficio.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-03-T-03</td>
+      <td>Aplicar animaciones suaves</td>
+      <td>Implementar animaciones con transición suave al mostrar los beneficios al hacer scroll.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-04 -->
+    <tr>
+      <td rowspan="3">US-04</td>
+      <td rowspan="3">Opciones de precios claras para decisiones informadas</td>
+      <td>US-04-T-01</td>
+      <td>Diseñar tabla comparativa de precios</td>
+      <td>Implementar una tabla de planes con diferencias visibles en beneficios y precios.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-04-T-02</td>
+      <td>Resaltar plan recomendado</td>
+      <td>Agregar estilos visuales y etiquetas para destacar el plan más elegido.</td>
+      <td>2h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-04-T-03</td>
+      <td>Agregar sección de preguntas frecuentes</td>
+      <td>Incluir una sección con las dudas más comunes sobre los planes de precios.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-05 -->
+    <tr>
+      <td rowspan="3">US-05</td>
+      <td rowspan="3">Acceso fácil a soporte y asesoramiento</td>
+      <td>US-05-T-01</td>
+      <td>Crear sección de contacto</td>
+      <td>Diseñar un formulario accesible con campos de nombre, email y mensaje para contacto directo.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-05-T-02</td>
+      <td>Integrar botón de WhatsApp</td>
+      <td>Colocar botón flotante con enlace directo al soporte vía WhatsApp.</td>
+      <td>2h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-05-T-03</td>
+      <td>Configurar envío de correos</td>
+      <td>Programar el backend para que los mensajes del formulario se envíen al email de soporte.</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-06 -->
+    <tr>
+      <td rowspan="3">US-06</td>
+      <td rowspan="3">Opiniones de usuarios que inspiran confianza</td>
+      <td>US-06-T-01</td>
+      <td>Recolectar testimonios reales</td>
+      <td>Solicitar y documentar opiniones de usuarios que hayan utilizado ElixirLine satisfactoriamente.</td>
+      <td>2h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-06-T-02</td>
+      <td>Diseñar sección visual de opiniones</td>
+      <td>Implementar componente visual atractivo para mostrar testimonios con foto y nombre.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-06-T-03</td>
+      <td>Optimizar para dispositivos móviles</td>
+      <td>Asegurar que la sección de opiniones se vea correctamente en móviles y tablets.</td>
+      <td>4h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-07 -->
+    <tr>
+      <td rowspan="3">US-07</td>
+      <td rowspan="3">Navegación fluida en dispositivos móviles</td>
+      <td>US-07-T-01</td>
+      <td>Aplicar diseño responsivo al menú</td>
+      <td>Hacer que el menú se adapte dinámicamente al tamaño de pantalla en móviles.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-07-T-02</td>
+      <td>Incluir icono hamburguesa</td>
+      <td>Agregar botón de navegación tipo hamburguesa para dispositivos móviles.</td>
+      <td>2h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-07-T-03</td>
+      <td>Optimizar botones y enlaces</td>
+      <td>Aumentar el tamaño de las zonas clicables para facilitar la interacción en pantallas táctiles.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-08 -->
+    <tr>
+      <td rowspan="3">US-08</td>
+      <td rowspan="3">Adaptación de la landing page en tabletas</td>
+      <td>US-08-T-01</td>
+      <td>Ajustar layout para tablets</td>
+      <td>Aplicar media queries para adaptar la disposición de columnas y secciones en pantallas de tablet.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-08-T-02</td>
+      <td>Probar compatibilidad en iPad y Android</td>
+      <td>Realizar pruebas manuales en diferentes modelos de tablets y resolver problemas visuales.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-08-T-03</td>
+      <td>Optimizar tiempos de carga</td>
+      <td>Reducir el tamaño de imágenes para mejorar la velocidad de carga en conexión móvil.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- US-09 -->
+    <tr>
+      <td rowspan="3">US-09</td>
+      <td rowspan="3">Registro del lote de uvas</td>
+      <td>US-09-T-01</td>
+      <td>Diseñar formulario de registro</td>
+      <td>Crear formulario para ingresar tipo de uva, fecha y cantidad al ingresar a bodega.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09-T-02</td>
+      <td>Validar datos del formulario</td>
+      <td>Implementar validaciones de campos requeridos y formatos antes del envío.</td>
+      <td>2h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-09-T-03</td>
+      <td>Almacenar en base de datos</td>
+      <td>Guardar los datos del lote de uvas en la base de datos con relación a campaña.</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- US-25 -->
+    <tr>
+      <td rowspan="3">US-25</td>
+      <td rowspan="3">Navegación simplificada en la aplicación móvil</td>
+      <td>US-25-T-01</td>
+      <td>Diseñar menú móvil minimalista</td>
+      <td>Diseñar una barra inferior con los accesos esenciales para navegación rápida.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-25-T-02</td>
+      <td>Probar accesibilidad</td>
+      <td>Realizar pruebas de usabilidad con usuarios que tengan poca experiencia digital.</td>
+      <td>2h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-25-T-03</td>
+      <td>Optimizar rendimiento de navegación</td>
+      <td>Minimizar tiempo de carga y optimizar el uso de memoria en móviles.</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- US-34 -->
+    <tr>
+      <td rowspan="3">US-34</td>
+      <td rowspan="3">Registro y análisis de calidad de la uva cosechada</td>
+      <td>US-34-T-01</td>
+      <td>Crear campos para parámetros técnicos</td>
+      <td>Diseñar inputs para capturar grados Brix, acidez y color al momento de ingreso.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-34-T-02</td>
+      <td>Analizar parámetros y mostrar alertas</td>
+      <td>Implementar lógica para validar si la uva cumple condiciones óptimas de calidad.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-34-T-03</td>
+      <td>Mostrar gráficos de calidad</td>
+      <td>Visualizar en frontend los datos de calidad mediante gráficos tipo barra y línea.</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- US-36 -->
+    <tr>
+      <td rowspan="3">US-36</td>
+      <td rowspan="3">Registro detallado del consumo de insumos</td>
+      <td>US-36-T-01</td>
+      <td>Diseñar interfaz para registrar insumos</td>
+      <td>Permitir el registro detallado por tipo de insumo, cantidad y tarea donde se utilizó.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-36-T-02</td>
+      <td>Asociar insumo a lote y etapa</td>
+      <td>Relacionar cada insumo registrado con el lote correspondiente y la fase productiva.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-36-T-03</td>
+      <td>Exportar reporte de consumo</td>
+      <td>Permitir descargar un resumen de insumos utilizados por campaña en formato PDF.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- US-40 -->
+    <tr>
+      <td rowspan="3">US-40</td>
+      <td rowspan="3">Asignación rápida de tareas por lote</td>
+      <td>US-40-T-01</td>
+      <td>Crear módulo de asignación masiva</td>
+      <td>Diseñar funcionalidad para asignar múltiples tareas al mismo lote de forma automática.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-40-T-02</td>
+      <td>Filtrar tareas disponibles</td>
+      <td>Agregar filtros por tipo de tarea, trabajador disponible y estado de parcela.</td>
+      <td>2h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-40-T-03</td>
+      <td>Confirmación automática de asignación</td>
+      <td>Notificar al trabajador asignado y confirmar que ha leído la tarea asignada.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-01 -->
+    <tr>
+      <td rowspan="3">TA-01</td>
+      <td rowspan="3">Endpoint para Registro de Tareas</td>
+      <td>TA-01-T-01</td>
+      <td>Crear modelo y DTO</td>
+      <td>Definir la entidad Task con campos requeridos: descripción, loteId, trabajadorId y fecha.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-01-T-02</td>
+      <td>Implementar POST /api/tareas</td>
+      <td>Crear endpoint en controlador que reciba los datos y los valide antes de guardar.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-01-T-03</td>
+      <td>Gestionar errores 400</td>
+      <td>Retornar error adecuado cuando falte información o el formato sea inválido.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-02 -->
+    <tr>
+      <td rowspan="3">TA-02</td>
+      <td rowspan="3">Endpoint para Consultar Historial de Actividades por Lote</td>
+      <td>TA-02-T-01</td>
+      <td>Crear servicio de consulta</td>
+      <td>Implementar lógica para obtener todas las tareas asociadas a un lote específico en orden cronológico.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-02-T-02</td>
+      <td>Implementar endpoint GET /api/lotes/{id}/historial</td>
+      <td>Exponer el historial de actividades usando un endpoint RESTful con parámetros de búsqueda.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-02-T-03</td>
+      <td>Devolver JSON estructurado</td>
+      <td>Formatear la respuesta con fecha, trabajador, tarea y estado para facilitar visualización en frontend.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-03 -->
+    <tr>
+      <td rowspan="3">TA-03</td>
+      <td rowspan="3">Endpoint para Registro y Control de Insumos</td>
+      <td>TA-03-T-01</td>
+      <td>Diseñar entidad Insumo</td>
+      <td>Definir estructura del modelo con nombre, categoría, stock y fecha de ingreso.</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-03-T-02</td>
+      <td>Crear endpoints GET y POST</td>
+      <td>Permitir registrar nuevos insumos y consultar los existentes con filtros por tipo y disponibilidad.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-03-T-03</td>
+      <td>Validar duplicados y cantidad</td>
+      <td>Evitar registros duplicados y controlar que el stock no sea negativo ni exceda límites.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-04 -->
+    <tr>
+      <td rowspan="3">TA-04</td>
+      <td rowspan="3">Endpoint para Generación y Consulta de Reportes de Producción</td>
+      <td>TA-04-T-01</td>
+      <td>Implementar generación de reporte</td>
+      <td>Crear lógica que calcule rendimientos de campaña a partir de lotes y tareas asociadas.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-04-T-02</td>
+      <td>Desarrollar endpoint GET /api/reportes</td>
+      <td>Filtrar por campaña, fecha y tipo de actividad para devolver los datos del reporte.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-04-T-03</td>
+      <td>Exportar reporte como PDF</td>
+      <td>Agregar funcionalidad para descargar el reporte en formato PDF estructurado con tablas y gráficos.</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-05 -->
+    <tr>
+      <td rowspan="3">TA-05</td>
+      <td rowspan="3">Endpoint de Autenticación y Gestión de Usuarios (IAM)</td>
+      <td>TA-05-T-01</td>
+      <td>Desarrollar registro de usuarios</td>
+      <td>Implementar endpoint POST /auth/signup con validaciones y asignación de rol (vinicultor o trabajador).</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-05-T-02</td>
+      <td>Crear login con JWT</td>
+      <td>Configurar endpoint POST /auth/login que genere y retorne token JWT válido.</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-05-T-03</td>
+      <td>Proteger rutas privadas</td>
+      <td>Configurar middleware para que solo usuarios autenticados accedan a rutas restringidas.</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>In-Process</td>
+    </tr>
+    <!-- TA-06 -->
+    <tr>
+      <td rowspan="3">TA-06</td>
+      <td rowspan="3">Endpoint Notificaciones Push</td>
+      <td>TA-06-T-01</td>
+      <td>Crear servicio de envío de notificaciones</td>
+      <td>Diseñar servicio que permita enviar notificaciones push a dispositivos móviles registrados.</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-06-T-02</td>
+      <td>Notificar tareas asignadas</td>
+      <td>Enviar push cuando una nueva tarea es asignada al trabajador con ID correspondiente.</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TA-06-T-03</td>
+      <td>Notificar incidencias reportadas</td>
+      <td>Enviar notificación al vinicultor responsable si una incidencia fue registrada por un trabajador.</td>
+      <td>2h</td>
+      <td>Fernando</td>
+      <td>In-Process</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 #### 6.2.1.3. Development Evidence for Sprint Review
 
 <table>
