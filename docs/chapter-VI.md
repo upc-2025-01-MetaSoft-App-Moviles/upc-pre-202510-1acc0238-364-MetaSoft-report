@@ -1181,6 +1181,24 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 #### 6.2.1.1. Sprint Planning 1
 
 
+
+| Sprint #                        | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Date                            | 07/05/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Time                            | 10:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Prepared By                     | Janover Gonzalo Saldaña Vela                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Attendees (to planning meeting) | Abraham Estrada / Raúl Quispe/ Gustavo Huanca / Fernando Lizano / Fabricio Apaza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint n Review Summary         | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Sprint n Retrospective Summary  | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Sprint Goal & User Stories      |
+| Sprint 1 Goal                   | Nuestro enfoque está en ofrecer una primera experiencia completa al usuario, que le permita conocer ElixirLine desde su landing page y comenzar a gestionar los procesos iniciales de vinificación y consultar campañas anteriores. Creemos que esto brinda claridad, confianza y control a los vinicultores al permitirles descubrir el valor de la plataforma y registrar información clave desde el primer uso.Esto se confirmará cuando los usuarios puedan acceder a la landing page, visualizar los beneficios del sistema, registrar lotes y tareas asociadas, analizar la calidad de la uva e inspeccionar el historial de producción. |
+| Sprint 1 Velocity               | 50 Velocity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Sum of Story Points             | 50 Story Points.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+
+
 #### 6.2.1.2. Sprint Backlog 1
 
 
@@ -1725,6 +1743,8 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 
 
 #### 6.2.1.3. Development Evidence for Sprint Review
+
+Durante el Sprint se implementaron los servicios web correspondientes a la gestión del proceso de vinificación, historial de producción, bitácoras de campo, insumos y uso de insumos. Esta sección presenta los avances relacionados, incluyendo los endpoints desarrollados y los commits vinculados a dicha implementación.
 
 ### Landing Page
 
@@ -2451,20 +2471,6 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
-
-## 6.3. Validation Interviews
-
-
-### 6.3.1. Diseño de Entrevistas
-
-
-### 6.3.2. Registro de Entrevistas
-
-
-### 6.3.3. Evaluaciones según heurísticas
-
-
-## 6.4. Video About-the-Product
 
 
 # Conclusiones y recomendaciones
