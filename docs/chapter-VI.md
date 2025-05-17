@@ -2279,7 +2279,7 @@ Durante el primer Sprint, el equipo de desarrollo de MetaSoft diseñó, program�
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
 ### Landing page
-Para llevar a cabo la implementación de nuestro sitio web, decidimos utilizar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub que nos permitió gestionar el control de versiones. Desde la sección de Configuración, publicamos el proyecto alojado en la rama "¿?", el cual anteriormente se encontraba en la rama "¿?".
+Para llevar a cabo la implementación de nuestro sitio web, decidimos utilizar GitHub Pages. Durante este proceso, creamos un repositorio en GitHub que nos permitió gestionar el control de versiones. Desde la sección de Configuración, publicamos el proyecto alojado en la rama "release-v1.0".
 
 [Landing Page ElixirLine](https://upc-2025-01-metasoft-app-moviles.github.io/ElixirLine-Landing-Page/) - https://upc-2025-01-metasoft-app-moviles.github.io/ElixirLine-Landing-Page/
 
