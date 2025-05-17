@@ -2277,6 +2277,69 @@ Cabe resaltar que el propósito principal de esta Landing Page es convertir a lo
 
 A continuación, compartimos capturas de pantalla que muestran el progreso alcanzado en el desarrollo de la Landing Page:
 
+**Encabezado y botones de desplazamiento:**
+
+En la parte superior de la landing page se encuentra el encabezado que incluye el logo de ElixirLine y una fila de botones de navegación: Home, About, Plans, Clients, Contact, y un botón adicional de Log in. Esta sección permite a los visitantes desplazarse rápidamente a las diferentes partes de la página y acceder fácilmente a su cuenta.
+
+Imagen 01: Encabezado y botones de desplazamiento
+
+![header-landing-page.png](../assets/img/chapter-VI/sprint-1/header-landing-page.png)
+
+**Sección Hero:**
+
+La sección Hero presenta una breve descripción de ElixirLine junto a una imagen decorativa que refuerza visualmente el propósito de la plataforma. Su diseño busca captar la atención del usuario desde el primer momento y motivarlo a explorar el sitio.
+
+Imagen 02: Sección Hero
+
+![hero-landing-page.png](../assets/img/chapter-VI/sprint-1/hero-landing-page.png)
+
+
+**Sección Benefits:**
+
+En la sección de beneficios, se explican las características y ventajas de utilizar ElixirLine. Está enfocada en los segmentos objetivos, permitiendo a los visitantes entender cómo la aplicación puede ayudarles a resolver sus necesidades o mejorar sus procesos.
+
+Imagen 03: Sección Benefits
+![benefits-landing-page.png](../assets/img/chapter-VI/sprint-1/benefits-landing-page.png)
+
+
+**Sección Suscriptions:**
+
+La sección de suscripciones muestra los diferentes planes y precios disponibles en ElixirLine. Se detallan las características incluidas en cada opción para que los usuarios puedan elegir la que mejor se ajuste a sus necesidades.
+
+Imagen 04: Sección Suscriptions
+![suscriptions-landing-page.png](../assets/img/chapter-VI/sprint-1/suscriptions-landing-page.png)
+
+
+**Sección Video:**
+
+En esta sección se incluye un botón que, al hacer clic, reproduce un video explicativo sobre ElixirLine. Esta herramienta visual ayuda a los visitantes a comprender rápidamente el valor de la aplicación mediante una demostración directa.
+
+Imagen 05: Sección Video
+
+![video-landing-page.png](../assets/img/chapter-VI/sprint-1/video-landing-page.png)
+
+
+**Sección FAQ:**
+
+La sección FAQ contiene una lista de preguntas y respuestas frecuentes, orientadas a resolver las dudas más comunes que puedan tener los usuarios sobre el servicio, uso o funcionalidades de ElixirLine.
+
+Imagen 06: Sección FAQ
+
+![faq-landing-page.png](../assets/img/chapter-VI/sprint-1/faq-landing-page.png)
+
+
+**Sección Contact:**
+
+En esta parte se muestra un formulario de contacto que permite a los visitantes enviar mensajes, preguntas o comentarios al equipo de ElixirLine. También se incluye un mapa, lo que facilita la localización física o geográfica del servicio, si aplica.
+
+![contact-landing-page.png](../assets/img/chapter-VI/sprint-1/contact-landing-page.png)
+
+**Footer:**
+
+El footer contiene los enlaces a las redes sociales oficiales de ElixirLine, así como información de contacto relevante y un botón para volver rápidamente al inicio de la página. Este espacio refuerza la conexión con los usuarios y les brinda acceso a canales adicionales de comunicación.
+
+![footer-landing-page.png](../assets/img/chapter-VI/sprint-1/footer-landing-page.png)
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el presente Sprint se logró documentar y exponer exitosamente los endpoints pertenecientes a los servicios clave de ElixirLinePlatform.API. Esto incluye operaciones CRUD para etapas de producción vitivinícola (Recepción, Fermentación, Clarificación y Prensado), así como módulos de producción histórica, uso de insumos y bitácora de campo.
