@@ -2340,6 +2340,14 @@ El footer contiene los enlaces a las redes sociales oficiales de ElixirLine, as�
 
 ![footer-landing-page.png](../assets/img/chapter-VI/sprint-1/footer-landing-page.png)
 
+## App Movil
+
+![](../assets/img/chapter-VI/sprint-1/historial.png)
+
+![](../assets/img/chapter-VI/sprint-1/evidencia.png)
+
+
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el presente Sprint se logró documentar y exponer exitosamente los endpoints pertenecientes a los servicios clave de ElixirLinePlatform.API. Esto incluye operaciones CRUD para etapas de producción vitivinícola (Recepción, Fermentación, Clarificación y Prensado), así como módulos de producción histórica, uso de insumos y bitácora de campo.
@@ -2534,9 +2542,34 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
+### Landing page
+
+![](../assets/img/chapter-VI/sprint-1/team-landing.png)
 
 
-# Conclusiones y recomendaciones
+### App Movil
+
+![](../assets/img/chapter-VI/sprint-1/team-mmovil.png)
+
+![](../assets/img/chapter-VI/sprint-1/team-movil.png)
+
+
+
+### Web Service
+
+![](../assets/img/chapter-VI/sprint-1/team-service.png)
+
+
+
+### Conclusiones
+
+- Se logró implementar la primera experiencia funcional de ElixirLine, abarcando la infraestructura backend, la landing page y los módulos iniciales de gestión del proceso de vinificación e historial de campañas. Estas funcionalidades permiten a los usuarios registrar lotes, analizar la calidad de la uva y consultar información histórica desde el primer uso.
+
+- Las problemáticas identificadas, como la falta de trazabilidad, la desorganización y el uso de métodos manuales, fueron abordadas mediante soluciones digitales accesibles que facilitan la planificación, el control y el registro de actividades en entornos rurales.
+
+- Las hipótesis planteadas durante el proceso Lean UX comenzaron a validarse con el diseño de funcionalidades orientadas a la simplicidad, el acceso desde dispositivos móviles y la operatividad sin conexión constante. Esto confirma que la propuesta está alineada con las necesidades del usuario objetivo.
+
+- El trabajo realizado permite proyectar siguientes pasos estratégicos en el roadmap del producto, orientados a fortalecer la funcionalidad en campo. Se recomienda continuar con el desarrollo del modo offline, la implementación de alertas automáticas, reportes comparativos por campaña y herramientas de seguimiento por trabajador para consolidar la eficiencia operativa del sistema.
 
 
 # Video About-the-team
