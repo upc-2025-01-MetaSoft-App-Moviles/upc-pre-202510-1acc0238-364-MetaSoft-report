@@ -2769,6 +2769,80 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
   </tbody>
 </table>
 
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+Durante el Sprint N°2 se implementaron las nuevas versiones correspondientes del Web Services, Movil Application y el Cross Platform Application. 
+
+### Web Service
+
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="28" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Platform.git</td>
+    <td align="center">develop</td>
+    <td align="center">3864e3e</td>
+    <td align="center">fix(Production History): Fixed QualityMetrics, now is a value object</td>
+    <td align="center"></td>
+    <td align="center">2025/06/06</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning-activities</td>
+    <td align="center">184a3e7</td>
+    <td align="center">fix(planning-activities): modifying folder and file locations</td>
+    <td align="center"></td>
+    <td align="center">2025/06/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/field-logbook</td>
+    <td align="center">526b229</td>
+    <td align="center">feat(field-logbook):fixed.</td>
+    <td align="center"></td>
+    <td align="center">2025/06/18</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history-v2</td>
+    <td align="center">08be561</td>
+    <td align="center">feat(production-history-v2): added event of production History</td>
+    <td align="center"></td>
+    <td align="center">2025/06/19</td>
+  </tr>
+</table>
+
+### Cross Platform Application
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-App-Movil.git</td>
+    <td align="center">main</td>
+    <td align="center">1fd7a0f</td>
+    <td align="center">first commit</td>
+    <td align="center"></td>
+    <td align="center">2025/06/19</td>
+  </tr>
+ 
+</table>
+
 ### Conclusiones
 
 - Se logró implementar la primera experiencia funcional de ElixirLine, abarcando la infraestructura backend, la landing page y los módulos iniciales de gestión del proceso de vinificación e historial de campañas. Estas funcionalidades permiten a los usuarios registrar lotes, analizar la calidad de la uva y consultar información histórica desde el primer uso.
