@@ -2856,12 +2856,87 @@ Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secc
 
 ![](../assets/img/chapter-VI/sprint-2/registro_lotes.png)
 
+![](../assets/img/chapter-VI/sprint-2/detalle-lote-de-vino.png)
+
+![](../assets/img/chapter-VI/sprint-2/etapas-vinificación.png)
+
 ![](../assets/img/chapter-VI/sprint-2/barra_lateral.png)
 
 ![](../assets/img/chapter-VI/sprint-2/historial_produccion.png)
 
 ![](../assets/img/chapter-VI/sprint-2/crear_historial.png)
 
+## 6.3. Validation Interviews.
+
+### 6.3.1. Diseño de Entrevistas.
+
+### Productores de Vinos y Piscos Artesanales
+
+1. ¿Cuál es tu nombre y cuántos años llevas produciendo vino o pisco?
+2. ¿Actualmente trabajas solo o con un equipo de personas?
+3. ¿Qué parte del proceso consideras más delicada o difícil de organizar?
+   
+#### Validación de necesidades
+
+4. ¿Te ha pasado que pierdes insumos o se malogran por falta de registro o desorganización?
+5. ¿Has tenido dificultades para hacer seguimiento al proceso de fermentación o controlar la calidad del producto?
+
+#### Validación de solución propuesta
+
+6. Muestra o describe brevemente la idea: una app móvil donde puedas:
+
+   * Registrar lotes y etapas de producción.
+   * Controlar inventarios e insumos.
+   * Organizar tareas con tu equipo.
+
+7. ¿Crees que una herramienta así te ayudaría en tu trabajo? ¿Por qué?
+8. ¿Cuál de estas funcionalidades te parece más útil o necesaria?
+9. ¿Usarías una app móvil para este fin si fuera sencilla y no requiriera internet todo el tiempo?
+
+10. ¿Prefieres usar tu celular personal o necesitarías uno solo para el trabajo?
+11. ¿Te gustaría recibir recordatorios o alertas automáticas en el teléfono?
+12. ¿Te gustaría acceder a reportes o estadísticas de tu producción desde la app?
+
+### Trabajadores del Campo
+
+1. ¿Cuál es tu nombre y cuántos años llevas trabajando en el campo o viñedo?
+2. ¿Qué tareas haces normalmente en tu trabajo diario?
+
+#### Validación de necesidades
+
+3. ¿Qué tareas te parecen más difíciles o peligrosas?
+4. ¿Qué pasa si ocurre un problema durante tu trabajo (por ejemplo, falta de agua, accidente, insumo vencido)?
+
+#### Validación de solución propuesta
+
+5. Muestra o describe brevemente la idea: una app móvil donde puedas:
+
+   * Ver las tareas asignadas para el día.
+   * Reportar problemas o necesidades de insumos.
+   * Consultar información sobre procedimientos.
+   * Funcionar sin conexión a internet. 
+
+6. ¿Crees que esta app sería útil para ti? ¿Por qué?
+7. ¿Qué cosas cambiarías o agregarías?
+8. ¿Sientes que una herramienta así mejoraría tu seguridad o comodidad en el trabajo?
+9. ¿Tu celular es moderno o de gama baja? ¿Tienes acceso frecuente a internet?
+10. ¿Preferirías que la app tenga íconos grandes y pocos botones?
+
+### 6.3.2. Registro de Entrevistas.
+
+
+### 6.3.3. Evaluaciones según heurísticas.
+
+
+## 6.4. Video About-the-Product
+
+En esta sección, se presenta un video que resume el producto ElixirLine, destacando sus principales características 
+y beneficios. El video está diseñado para ser claro y conciso, permitiendo a los espectadores comprender rápidamente 
+el propósito y las ventajas de la plataforma móvil. 
+
+![img.png](../assets/img/chapter-VI/sprint-2/elixir-line-about-the-product.png)
+
+Link: ElixirLine - About the Product: https://youtu.be/XE_mokwgC6o
 
 
 ### Avance de Conclusiones
