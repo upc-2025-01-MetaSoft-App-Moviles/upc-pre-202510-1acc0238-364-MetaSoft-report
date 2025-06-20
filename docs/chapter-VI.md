@@ -3138,6 +3138,16 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 ![](../assets/img/chapter-VI/sprint-2/android-deploy.png)
 
+#### 6.2.2.8. Team Collaboration Insights during Sprint
+
+### App Movil
+
+![](../assets/img/chapter-VI/sprint-2/team-movil.png)
+
+### Web Service
+
+![](../assets/img/chapter-VI/sprint-2/team-service.png)
+
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
