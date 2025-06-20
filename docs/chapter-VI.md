@@ -2866,6 +2866,14 @@ Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secc
 
 ![](../assets/img/chapter-VI/sprint-2/crear_historial.png)
 
+## Registro de bitacora 
+
+![](../assets/img/chapter-VI/sprint-2/bitacora_form.jpg)
+
+![](../assets/img/chapter-VI/sprint-2/mensaje_exito_bitacora.jpg)
+
+![](../assets/img/chapter-VI/sprint-2/Historial_bitacora.jpg)
+
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
