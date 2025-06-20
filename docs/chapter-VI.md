@@ -2874,6 +2874,288 @@ Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secc
 
 ![](../assets/img/chapter-VI/sprint-2/Historial_bitacora.jpg)
 
+#### 6.2.2.6 Services Documentation Evidence for Sprint Review
+
+Durante el presente Sprint se logró documentar y exponer exitosamente los endpoints pertenecientes a los servicios clave de ElixirLinePlatform.API. Esto incluye operaciones CRUD para etapas de producción vitivinícola (Recepción, Fermentación, Clarificación y Prensado), así como módulos de producción histórica, uso de insumos y bitácora de campo.
+A su vez, se agregaron nuevos endpoints en torno a las Tareas de Campo, Parcelas, Notificacion de Tareas, Tareas y reportes.
+La documentación generada está disponible en línea y se utilizó para pruebas funcionales con datos de muestra.
+
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Response</th>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/clarification</td>
+    <td>Obtener Clarification</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "startDate": "2025-05-16", "observations": "Clarified successfully."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/clarification</td>
+    <td>Crear Clarification</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "startDate": "2025-05-16", "observations": "Clarified successfully."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/fermentation</td>
+    <td>Obtener Fermentation</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "temperature": 22.5, "durationDays": 10}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/fermentation</td>
+    <td>Crear Fermentation</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "temperature": 22.5, "durationDays": 10}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/reception</td>
+    <td>Obtener Reception</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "receivedBy": "Juan Pérez", "date": "2025-05-10"}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/reception</td>
+    <td>Crear Reception</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "receivedBy": "Juan Pérez", "date": "2025-05-10"}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batch/{id}</td>
+    <td>Obtener lote por ID</td>
+    <td>GET</td>
+    <td>id (Guid)</td>
+    <td>{"id": "...", "grapeType": "Malbec", "harvestDate": "2025-03-21"}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batch</td>
+    <td>Crear nuevo lote</td>
+    <td>POST</td>
+    <td>body</td>
+    <td>{"id": "...", "grapeType": "Malbec", "harvestDate": "2025-03-21"}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batch</td>
+    <td>Listar todos los lotes</td>
+    <td>GET</td>
+    <td>-</td>
+    <td>[{"id": "...", "grapeType": "Malbec"}, {"id": "...", "grapeType": "Cabernet"}]</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batch/{batchId}/stages</td>
+    <td>Obtener etapas del lote</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"reception": {...}, "fermentation": {...}, "clarification": {...}, "pressing": {...}}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/pressing</td>
+    <td>Obtener Pressing</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "pressure": "medium", "durationHours": 2}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/pressing</td>
+    <td>Crear Pressing</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "pressure": "medium", "durationHours": 2}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/production-record</td>
+    <td>Crear Production Record</td>
+    <td>POST</td>
+    <td>body</td>
+    <td>{"recordId": "...", "volume": 150.0, "batchId": "..."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/field-log-entry</td>
+    <td>Crear bitácora de campo</td>
+    <td>POST</td>
+    <td>body</td>
+    <td>{"entryId": "...", "fieldId": "...", "notes": "Campo inspeccionado correctamente."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/supplies</td>
+    <td>Listar insumos</td>
+    <td>GET</td>
+    <td>-</td>
+    <td>[{"id": "1", "name": "Botella", "quantity": 500}]</td>
+  </tr>
+
+  <tr>
+    <td>/api/supplies/{id}</td>
+    <td>Obtener insumo por ID</td>
+    <td>GET</td>
+    <td>id</td>
+    <td>{"id": "1", "name": "Corcho", "quantity": 100}</td>
+  </tr>
+
+  <tr>
+    <td>/api/supply-usages/date-range</td>
+    <td>Listar usos por rango de fechas</td>
+    <td>GET</td>
+    <td>startDate, endDate</td>
+    <td>[{"usageId": "...", "supplyId": "...", "usedOn": "2025-05-10"}]</td>
+  </tr>
+
+  <tr>
+    <td>/api/parcels</td>
+    <td>Listar usos por rango de fechas</td>
+    <td>GET</td>
+    <td></td>
+    <td>[{
+  "parcelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": "string",
+  "area": 0,
+  "cropType": "string",
+  "location": "string"
+}]</td>
+  </tr>
+
+<tr>
+    <td>/api/parcels/{id}</td>
+    <td>Obtener una parcela por ID</td>
+    <td>GET</td>
+    <td>id</td>
+    <td>[{
+  "parcelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": "string",
+  "area": 0,
+  "cropType": "string",
+  "location": "string"
+}]</td>
+  </tr>
+
+  <tr>
+    <td>/api/tasks/{taskId}/reports</td>
+    <td>Listar reportes por TaskId</td>
+    <td>GET</td>
+    <td>taskId</td>
+    <td>[
+  {
+    "reportId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "taskId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "executorId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "executionDate": "2025-06-20T21:29:52.957Z",
+    "observations": "string",
+    "evidencePhotos": [
+      {
+        "evidencePhotoId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "reportId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "photoUrl": "string",
+        "report": "string"
+      }
+    ]
+  }
+]</td>
+  </tr>
+
+  <tr>
+    <td>/api/tasks/{taskId}/reports</td>
+    <td>Crear un nuevo task report</td>
+    <td>POST</td>
+    <td>taskId</td>
+    <td>{
+  "reportId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "taskId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "executorId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "executionDate": "2025-06-20T21:30:12.397Z",
+  "observations": "string"
+}</td>
+  </tr>
+
+  <tr>
+    <td>/api/tasks/{taskId}/notifications</td>
+    <td>Listar notificaciones por un task especifico</td>
+    <td>GET</td>
+    <td>taskId</td>
+    <td>[
+  {
+    "notificationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "recipientId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "taskId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "message": "string",
+    "sentDate": "2025-06-20T21:32:28.976Z",
+    "readStatus": true
+  }
+]</td>
+  </tr>
+
+  <tr>
+    <td>/api/tasks/{taskId}/notifications</td>
+    <td>Listar notificaciones por un task especifico</td>
+    <td>POST</td>
+    <td>taskId</td>
+    <td>{
+  "notificationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "recipientId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "taskId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "message": "string",
+  "sentDate": "2025-06-20T21:32:46.538Z",
+  "readStatus": true
+}</td>
+  </tr>
+
+</table>
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+### Web service
+
+Para llevar a cabo la implementacion del web service usamos azure siguiendo los pasos previamente vistos
+
+**La publicación fue exitosa y se generó un enlace de acceso al backend:**
+https://elixirline.azurewebsites.net/swagger/index.html
+
+
+**Se observa el correcto despliegue del backend accediendo al Swagger UI, donde pude probar los endpoints REST de forma visual.**
+
+![](../assets/img/chapter-VI/sprint-2/deploy-web.png)
+
+### Mobile Application
+
+Para la implementación de la aplicación Android, se desarrolló una interfaz funcional que consume los endpoints expuestos por el backend desplegado en Azure. Se utilizó Android Studio como entorno de desarrollo. 
+
+![](../assets/img/chapter-VI/sprint-2/android-deploy.png)
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint
+
+### App Movil
+
+![](../assets/img/chapter-VI/sprint-2/team-movil.png)
+
+### Web Service
+
+![](../assets/img/chapter-VI/sprint-2/team-service.png)
+
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
