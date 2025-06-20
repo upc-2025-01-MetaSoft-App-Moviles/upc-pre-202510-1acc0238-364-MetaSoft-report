@@ -2559,7 +2559,215 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
 
 ![](../assets/img/chapter-VI/sprint-1/team-service.png)
 
+### 6.2.2. Sprint 2
 
+
+#### 6.2.2.1. Sprint Planning 2
+
+
+
+| Sprint #                        | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Date                            | 20/06/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Time                            | 10:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Prepared By                     | Janover Gonzalo Saldaña Vela                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Attendees (to planning meeting) | Abraham Estrada / Raúl Quispe/ Gustavo Huanca / Fernando Lizano / Fabricio Apaza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sprint 1 Review Summary         | Como resumen del sprint 1, se avanzó la primera versión del landing page, movil y web services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sprint 1 Retrospective Summary  | Como resumen del sprint 1, se avanzó la primera versión del landing page, movil y web services.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Sprint Goal & User Stories      |
+| Sprint 2 Goal                   | Para este Sprint, tenemos como enfoque mejorar y presentar una nueva versión del Landing Page, Web Services, Native Mobile Development. A su vez, debe estar la primera versión de la aplicación con cross-platform mobile development. De igual modo, se espera también una versión del About the Product y About the Team |
+| Sprint 2 Velocity               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Sum of Story Points             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+#### 6.2.2.2. Sprint Backlog 2
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="8">Sprint 2</th>
+    </tr>
+    <tr>
+      <td colspan="2">User Story</td>
+      <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (hours)</td>
+      <td>Assigned To</td>
+      <td>Status</td>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- US-01 - Todas las tareas asignadas a Janover -->
+    <tr>
+      <td rowspan="3">US-01</td>
+      <td rowspan="3"> Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-02 - Todas las tareas asignadas a Raúl -->
+    <tr>
+      <td rowspan="3">US-02</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>2h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-03 - Todas las tareas asignadas a Fabricio -->
+    <tr>
+      <td rowspan="3">US-03</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-/td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-04 - Todas las tareas asignadas a Gustavo -->
+    <tr>
+      <td rowspan="3">US-04</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-05 - Todas las tareas asignadas a Fernando -->
+    <tr>
+      <td rowspan="3">US-05</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-06 - Todas las tareas asignadas a Abraham -->
+    <tr>
+      <td rowspan="3">US-06</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Conclusiones
 
