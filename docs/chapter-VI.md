@@ -2840,8 +2840,29 @@ Durante el Sprint N°2 se implementaron las nuevas versiones correspondientes de
     <td align="center"></td>
     <td align="center">2025/06/19</td>
   </tr>
- 
 </table>
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+**Testings Suite Evidences**
+
+AUN FALTAN
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+
+Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secciones de nuestra App Movil, asegurando una visualización óptima. Asimismo, aplicamos un diseño atractivo que capta la atención del usuario y lo dirige hacia los distintos elementos de la aplicación movil. También incorporamos funcionalidades de navegación, como botones situados en la parte inferior, que facilitan el desplazamiento entre las secciones.
+
+## App Movil
+
+![](../assets/img/chapter-VI/sprint-2/registro_lotes.png)
+
+![](../assets/img/chapter-VI/sprint-2/barra_lateral.png)
+
+![](../assets/img/chapter-VI/sprint-2/historial_produccion.png)
+
+![](../assets/img/chapter-VI/sprint-2/crear_historial.png)
+
+
 
 ### Conclusiones
 
