@@ -3118,7 +3118,25 @@ La documentación generada está disponible en línea y se utilizó para pruebas
 
 </table>
 
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
+### Web service
+
+Para llevar a cabo la implementacion del web service usamos azure siguiendo los pasos previamente vistos
+
+**La publicación fue exitosa y se generó un enlace de acceso al backend:**
+https://elixirline.azurewebsites.net/swagger/index.html
+
+
+**Se observa el correcto despliegue del backend accediendo al Swagger UI, donde pude probar los endpoints REST de forma visual.**
+
+![](../assets/img/chapter-VI/sprint-2/deploy-web.png)
+
+### Mobile Application
+
+Para la implementación de la aplicación Android, se desarrolló una interfaz funcional que consume los endpoints expuestos por el backend desplegado en Azure. Se utilizó Android Studio como entorno de desarrollo. 
+
+![](../assets/img/chapter-VI/sprint-2/android-deploy.png)
 
 ## 6.3. Validation Interviews.
 
