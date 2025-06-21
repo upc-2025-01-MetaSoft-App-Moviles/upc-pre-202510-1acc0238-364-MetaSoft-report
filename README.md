@@ -124,8 +124,11 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro tercer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
+![img.png](assets/img/develop/Network-graph-tb2.png)
 
+![img.png](assets/img/develop/Contributors-tb2.png)
 
+![img.png](assets/img/develop/traffic-tb2.png)
 
 
 
