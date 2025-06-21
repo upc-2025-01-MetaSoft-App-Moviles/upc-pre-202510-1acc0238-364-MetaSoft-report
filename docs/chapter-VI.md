@@ -2897,6 +2897,13 @@ Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secc
 ## Gestión de Trabajadores
 ![](../assets/img/chapter-VI/sprint-2/Gestión_Trabajadores.jpg)
 
+![](../assets/img/chapter-VI/sprint-2/Agregar_Trabajador.jpg)
+
+![](../assets/img/chapter-VI/sprint-2/Opcion_Eliminar_Trabajador.jpg)
+
+![](../assets/img/chapter-VI/sprint-2/editar_trabajador.jpg)
+
+![](../assets/img/chapter-VI/sprint-2/Trabajador_Eliminado.jpg)
 
 
 #### 6.2.2.6 Services Documentation Evidence for Sprint Review
