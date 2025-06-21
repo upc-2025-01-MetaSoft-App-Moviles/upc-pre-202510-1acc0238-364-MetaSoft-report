@@ -120,6 +120,15 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 ---
 
+### Entregable TB2
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro tercer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
+
+
+
+
+
+
 
 ## Contenido
 
@@ -247,13 +256,16 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
         <!-- ============================================================ -->
         <td>
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
-            <strong> ENTREGABLE TB1 </strong> <br><br>
+            <strong> ENTREGABLES </strong> <br><br>
             <!-- ||||||||||||||||||||||||||||||||||||||||||||||||||||||| !-->
             <!-- ==================== ESTUDIANTE 01 ==================== !-->
             <strong> Janover Gonzalo Saldaña Vela - TB1 </strong><br>
             utilicé técnicas avanzadas como EventStorming y Context Mapping, lo que me permitió comprender profundamente el dominio del proyecto. A través de la creación de diagramas arquitectónicos a nivel de contexto, contenedor y despliegue, y al trabajar en Bounded Contexts y sus respectivas capas, actualicé mis conocimientos sobre cómo estructurar soluciones de software robustas y escalables, alineadas con las mejores prácticas del sector. <br><br>
             <strong> Janover Gonzalo Saldaña Vela - TP </strong><br>
-            Fui responsable de la estructuración del bounded context de "WineBatch", definiendo su modelo de dominio como agregado raíz y asegurando una separación clara de responsabilidades en cada capa de la arquitectura limpia. También desarrollé vistas en Jetpack Compose y coordiné la interacción entre frontend y backend mediante un enfoque orientado al dominio, lo cual requirió actualización constante de conocimientos y análisis de buenas prácticas de integración.
+            Fui responsable de la estructuración del bounded context de "WineBatch", definiendo su modelo de dominio 
+como agregado raíz y asegurando una separación clara de responsabilidades en cada capa de la arquitectura limpia. También desarrollé vistas en Jetpack Compose y coordiné la interacción entre frontend y backend mediante un enfoque orientado al dominio, lo cual requirió actualización constante de conocimientos y análisis de buenas prácticas de integración. <br><br>
+            <strong> Janover Gonzalo Saldaña Vela - TB2 </strong><br>
+En este sprint profundicé en la integración de funcionalidades clave en la app móvil utilizando Jetpack Compose, reutilizando formularios para creación y edición de lotes de vino. Mejoré la navegación entre vistas y coordiné la interacción con el backend mediante patrones orientados al dominio. Además, estructuré y documenté historias de usuario detalladas para cubrir procesos como la visualización, filtrado, búsqueda y gestión de etapas e historial de producción, lo cual fortaleció mi capacidad de análisis funcional y técnico del sistema.<br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong>  Apaza Morales, Fabricio - TB1 </strong><br>
@@ -261,6 +273,8 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
             <strong>  Apaza Morales, Fabricio - TP </strong><br>
             Avancé con el bounded context de Production History, implementando su lógica principal tanto en el 
 backend como en la aplicación móvil. También elaboré parte del ppt para comunicar el avance del proyecto y diseñé en Figma las interfaces relacionadas, asegurando consistencia visual y una experiencia de usuario clara. <br><br>
+             <strong> Apaza Morales, Fabricio - TB2 </strong><br>
+TB2: En este sprint trabajé primero en la implementación de la app mobile en Kotlin, y luego avancé una versión inicial en Flutter. También hice modificaciones al backend del BC Production History, y ayudé a armar parte del PPT incluido con el reporte del Sprint 2. Con todo esto, estoy aplicando mis conocimientos para diseñar e implementar soluciones reales, alineándome con los resultados de aprendizaje del curso.<br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
             <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
@@ -275,6 +289,8 @@ de interfaces, estructuración web y arquitectura de software. Me encargué de l
             <strong> Quispe Erasmo, Raúl Ronaldo - TP </strong><br>
             Yo me encargué de la parte de "Testimonios" en la landing page, armando la sección donde los usuarios 
 pueden dejar sus opiniones y valoraciones. También trabajé en el backend, específicamente en el bounded context de "Planificación y Ejecución de Actividades Agrícolas", donde definí las entidades y lógica para poder crear, asignar y seguir actividades agrícolas. Además, hice los mockups de cómo se vería esta parte en la app móvil, con pantallas para ver las tareas, marcarlas como completadas, y ver el progreso. Por último, ayudé al grupo con la presentación en PowerPoint, organizando el contenido y dándole forma para explicar bien lo que hicimos. <br><br>
+            <strong>  Raúl Ronaldo Quispe Erasmo -TB2 </strong><br>
+En este sprint trabajé primero en el backend, luego hice una versión más avanzada de la app en Kotlin. También realicé cambios en el backend de BC Planning-activities y desarrollé una versión básica de la app en Flutter. Con todo esto he ido actualizando los conocimientos que necesito para seguir mejorando como profesional y avanzar en el desarrollo de soluciones de software.<br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
             <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
@@ -282,6 +298,8 @@ pueden dejar sus opiniones y valoraciones. También trabajé en el backend, espe
             <strong> Huanca Navarro, Gustavo Esau - TP </strong><br>
             Durante el desarrollo del módulo Field Log Lookbook, identifiqué la necesidad de profundizar en 
 conceptos relacionados con Domain-Driven Design (DDD), la gestión eficiente de estados en interfaces móviles y la aplicación de buenas prácticas en UI/UX. Esta experiencia reafirmó la importancia del aprendizaje continuo para mejorar mi desempeño profesional y desarrollar soluciones de software más sólidas y alineadas con los objetivos del proyecto. <br><br>
+            <strong> Huanca Navarro, Gustavo Esau - TB2: </strong><br>
+En este sprint desarrollé el módulo de bitácora en la aplicación móvil utilizando Kotlin y Jetpack Compose. Implementé el formulario de registro, la visualización del historial y la integración con servicios externos para la carga de imágenes. Además, documenté evidencias de ejecución en el reporte. Esta experiencia me permitió actualizar mis conocimientos en desarrollo móvil, reforzar el uso de buenas prácticas y mejorar la organización del proyecto en Android Studio, aportando de manera efectiva al avance del proyecto.<br><br> 
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
             <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
@@ -289,7 +307,9 @@ conceptos relacionados con Domain-Driven Design (DDD), la gestión eficiente de 
             <strong> Estrada Cajamune, Abraham Andres - TP </strong><br>
             Fui encargado de la implementación de la seccion “Contact US” del Landing Page del proyecto, fabricando 
 la seccion para que los usuarios puedan, en caso de duda, consulta, sugerencia y/o reclamo, puedan contactarse con alguno del equipo desarrollador. Tambien fui responsable de la creación e implementación tanto Mobile Application como Backend del bounded context  Gestión de Trabajadores de Campo, dicho desarrollo me ayudo a comprender más los flujos internos que pueda tener el proyecto. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
+            Abraham Andres Estrada Cajamune - TB2: 
+Durante este sprint, desarrollé las funcionalidades de CRUD con validaciones, agrupación visual por rol, filtros por fecha y alertas por vencimiento de contratos. También integré diálogos, navegación y manejo de estado usando buenas prácticas. Esta implementación me permitió actualizar mis conocimientos en desarrollo móvil moderno, diseño de interfaces dinámicas y arquitectura de navegación en Compose<br><br>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
         </td>
         <!-- ============================================================ -->
         <!-- ============================================================ -->
@@ -300,6 +320,11 @@ la seccion para que los usuarios puedan, en caso de duda, consulta, sugerencia y
 solvencia los retos del proyecto, desarrollando una solución robusta, modular y mantenible. Además, afianzó mis 
 bases en el desarrollo profesional de soluciones de software alineadas con las tendencias actuales de la industria.
 <br><br>
+            Como equipo, reconocemos que la actualización constante de conocimientos ha sido clave para el 
+desarrollo exitoso de nuestro proyecto. Aplicamos conceptos avanzados como Domain-Driven Design, arquitectura limpia,
+desarrollo móvil con Jetpack Compose y buenas prácticas de diseño UI/UX. Esta actualización nos permitió estructurar 
+soluciones robustas, bien organizadas y alineadas con estándares profesionales. Coincidimos en que mantenernos 
+técnicamente actualizados nos permite responder con mayor eficacia a los retos de proyectos reales.<br><br>
         </td>
     </tr>
     <!-- =========================================================== -->
@@ -323,13 +348,23 @@ bases en el desarrollo profesional de soluciones de software alineadas con las t
             Durante este proceso de diseño arquitectónico y la implementación de Domain-Driven Design táctico, reconozco lo crucial que es el aprendizaje continuo para mejorar mis habilidades y competencias en el desarrollo de soluciones de software. Al trabajar en diagramas de clases y diseño de bases de datos, me di cuenta de que la evolución constante del conocimiento en metodologías de diseño y arquitectura es esencial para mantenerme competitivo y aplicar las mejores prácticas en mis proyectos de software. <br><br>
             <strong> Janover Gonzalo Saldaña Vela - TP </strong><br>
             El desarrollo de funcionalidades como el listado, creación y asignación de etapas en los lotes de vino implicó investigar constantemente sobre el ciclo completo del vino y su modelado técnico en software. Asimismo, adapté buenas prácticas para comunicarme de manera eficaz con APIs externas, enfocándome en una correcta separación de capas y un código desacoplado.
+            <strong> Janover Gonzalo Saldaña Vela – TB2 </strong><br>
+Durante este sprint enfrenté desafíos al reutilizar formularios en Jetpack Compose y coordinar la navegación con la 
+lógica de backend. Esto me llevó a explorar nuevas prácticas de manejo de estado y arquitectura móvil, lo que 
+reforzó la importancia del aprendizaje continuo para mejorar mis habilidades y desarrollar soluciones más sólidas y 
+profesionales. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong> Apaza Morales, Fabricio - TB1 </strong><br>
             Me enfoqué en crear el perfil del startup, definir la problemática y trabajar en el Lean UX Problem Statement, lo que me permitió aplicar lo aprendido sobre modelos de negocio y diseño centrado en el usuario. Además, desarrollé seis user stories y dos técnicas, lo que me ayudó a mejorar mis habilidades en la creación de requisitos y en la implementación de soluciones tecnológicas. <br><br>
             <strong> Apaza Morales, Fabricio - TP </strong><br>
             Desarrollé el bounded context de Production History, incorporando su lógica central en el backend y en la app móvil. Además, trabajé en la presentación en PowerPoint para mostrar el progreso del proyecto y diseñé las interfaces correspondientes en Figma, manteniendo una coherencia visual y una experiencia de usuario intuitiva. <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
+            <strong> Fabricio Josue Apaza Morales - TB2: </strong><br>
+            En este sprint trabajé primero en la implementación de la app mobile en Kotlin, y luego avancé una versión inicial 
+            en Flutter. También hice modificaciones al backend del BC Production History, y ayudé a armar parte del PPT incluido 
+            con el reporte del Sprint 2. Con todo esto, estoy aplicando mis conocimientos para diseñar e implementar soluciones 
+            reales, alineándome con los resultados de aprendizaje del curso.<br> <br>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 03 ==================== !-->
             <strong> Lizano Coll Cardenas, Fernando Jesus - TB1 </strong><br>
             A través de mi participación en el análisis de segmentos objetivos, la identificación de assumptions y outcomes, y el apoyo en la creación de user stories, he reafirmado la importancia del aprendizaje permanente para mantenerme actualizado en un entorno de constante cambio tecnológico. Este proceso ha fortalecido mi compromiso con la mejora continua, entendiendo que el aprendizaje constante es fundamental para un desempeño profesional sólido y sostenible. <br><br>
@@ -341,6 +376,11 @@ bases en el desarrollo profesional de soluciones de software alineadas con las t
             Basándome en los conocimientos adquiridos sobre la metodología Agile, implementé diversas prácticas dentro del proyecto, con el objetivo de optimizar tanto el flujo de trabajo como el rendimiento del equipo. Esta aplicación de Agile no solo buscaba fortalecer la comprensión de los conceptos vistos en el curso, sino también fomentar la toma de decisiones efectivas y alcanzar acuerdos que beneficiaran el desarrollo del proyecto. <br><br>
             <strong> Quispe Erasmo, Raúl Ronaldo - TP </strong><br>
             Desarrollé la sección de Testimonios en la landing page y participé en el backend del bounded context de Planificación y Ejecución de Actividades Agrícolas, definiendo su lógica principal. También diseñé los mockups móviles para esta funcionalidad y colaboré en la presentación del grupo. Durante el proyecto, entendí la importancia del aprendizaje continuo para mejorar mis aportes y adaptarme a nuevos desafíos técnicos.            <br><br>
+            <strong> Raúl Ronaldo Quispe Erasmo - TB2: </strong><br>
+En este sprint primero trabajé en el backend, luego avancé una versión más completa de la app en Kotlin. También 
+hice ajustes en el backend de BC Planning-activities y creé una versión básica en Flutter. Con estas tareas he ido 
+aplicando lo que sé y dándome cuenta de que siempre necesito seguir aprendiendo para poder mejorar en lo profesional 
+y hacer mejores proyectos de software. <br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 05 ==================== !-->
             <strong> Huanca Navarro, Gustavo Esau - TB1 </strong><br>
@@ -348,14 +388,27 @@ bases en el desarrollo profesional de soluciones de software alineadas con las t
             <strong> Huanca Navarro, Gustavo Esau - TP </strong><br>
             Durante el desarrollo del bounded context de Field Log Lookbook, identifiqué la necesidad de profundizar 
 en conceptos técnicos y metodológicos, como la estructuración de microservicios, manejo eficiente de estados en interfaces móviles, y buenas prácticas en UI/UX. Esta experiencia reforzó mi compromiso con el aprendizaje continuo como eje fundamental para mejorar mi desempeño profesional y aportar soluciones sólidas e innovadoras en el ámbito del desarrollo de software <br><br>
+            <strong> Gustavo Esau Huanca Navarro - TB2: </strong><br>
+Durante este sprint trabajé en la funcionalidad de bitácora móvil con Kotlin y Jetpack Compose, abordando desafíos 
+como el manejo de formularios, subida de imágenes y navegación estructurada. En el proceso, identifiqué nuevas 
+herramientas y patrones que antes no dominaba, lo cual me motivó a seguir aprendiendo. Esta experiencia me demuestra 
+que el aprendizaje continuo es esencial para adaptarme a nuevas tecnologías y desarrollar soluciones más completas y 
+profesionales.<br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 06 ==================== !-->
             <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
             He fortalecido mi capacidad de aprendizaje continuo, la profundización en metodologías agiles, mejoras en flujos de trabajo colaborativo, y una mayor adquisición de conocimientos en modelado de procesos <br><br>
-            <strong> Estrada Cajamune, Abraham Andres - TB1 </strong><br>
+            <strong> Estrada Cajamune, Abraham Andres - TP </strong><br>
             Comentar que dada la designación y ser el responsable de la creación e implementación tanto Mobile 
 Application como Backend del bounded context  Gestión de Trabajadores de Campo, dicho desarrollo me ayudo a comprender más los flujos internos que pueda tener el proyecto, he fortalecido mis conocimientos en el ambito del Backend y mobile application <br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
+            <strong> Abraham Andres Estrada Cajamune - TB2: </strong><br>
+Durante este sprint, desarrollé las funcionalidades de CRUD con validaciones, agrupación visual por rol, filtros por 
+fecha y alertas por vencimiento de contratos. También integré diálogos, navegación y manejo de estado usando buenas prácticas. Esta implementación me permitió actualizar mis conocimientos en desarrollo móvil moderno, diseño de interfaces dinámicas y arquitectura de navegación en Compose <br><br>
+         <strong>Abraham Andres Estrada Cajamune - TB2: </strong><br>
+En el proceso, enfrenté desafíos como la edición en formularios reactivos, resolución de conflictos en Git y diseño 
+de interfaces escalables. Esta experiencia reafirmó la importancia del aprendizaje continuo para mantenerme 
+actualizado y poder aportar soluciones eficientes y profesionales a proyectos reales de software.<br><br>
+        <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
         </td>
         <!-- ============================================================ -->
         <!-- ============================================================ -->
@@ -368,6 +421,12 @@ además de fortalecer mi perfil como futuro profesional del software comprometid
             Reconocer la necesidad de aprendizaje permanente ha sido clave para mantenerme actualizado frente a las
             exigencias técnicas del proyecto. Este enfoque me permitió implementar soluciones con mayor calidad y eficiencia,
             además de fortalecer mi perfil como futuro profesional del software comprometido con la mejora continua. <br><br>
+            A lo largo del proyecto, como equipo identificamos que el aprendizaje permanente no es solo una 
+necesidad, sino una actitud clave para crecer profesionalmente. Cada desafío técnico fue una oportunidad para 
+investigar, mejorar y aplicar nuevos enfoques. Esta mentalidad nos permitió adaptarnos a nuevas herramientas, 
+resolver problemas de forma más eficiente y fortalecer nuestras habilidades. Estamos de acuerdo en que mantener esta 
+disposición al aprendizaje continuo es fundamental para el desarrollo de soluciones innovadoras y sostenibles en 
+ingeniería de software. <br><br>
         </td>
     </tr>
 </tbody>
