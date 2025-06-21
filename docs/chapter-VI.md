@@ -2893,6 +2893,12 @@ Tras finalizar el Sprint N°2, conseguimos desarrollar la nueva version las secc
 
 ![](../assets/img/chapter-VI/sprint-2/Historial_bitacora.jpg)
 
+
+## Gestión de Trabajadores
+![](../assets/img/chapter-VI/sprint-2/Gestión_Trabajadores.jpg)
+
+
+
 #### 6.2.2.6 Services Documentation Evidence for Sprint Review
 
 Durante el presente Sprint se logró documentar y exponer exitosamente los endpoints pertenecientes a los servicios clave de ElixirLinePlatform.API. Esto incluye operaciones CRUD para etapas de producción vitivinícola (Recepción, Fermentación, Clarificación y Prensado), así como módulos de producción histórica, uso de insumos y bitácora de campo.
