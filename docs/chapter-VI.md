@@ -2606,162 +2606,181 @@ https://elixirlineplatformapi20250517011708-fkhrbzgaerf0gffg.canadacentral-01.az
   <tbody>
     <!-- US-01 - Todas las tareas asignadas a Janover -->
     <tr>
-      <td rowspan="3">US-01</td>
-      <td rowspan="3"> Titulo</td>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-43	</td>
+      <td rowspan="3"> Visualización de detalle de lote	 </td>
+      <td> US-43-T-01</td>
+      <td> Diseñar interfaz de detalle </td>
+      <td> Maquetar la vista de detalle del lote en la app móvil. </td>
       <td>3h</td>
       <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-43-T-02	</td>
+      <td>Integrar datos del lote	</td>
+      <td>Conectar la interfaz con los datos del backend para mostrar información del lote.	</td>
       <td>3h</td>
       <td>Janover</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-43-T-03</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td> Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
       <td>3h</td>
       <td>Janover</td>
       <td>Done</td>
     </tr>
     <!-- US-02 - Todas las tareas asignadas a Raúl -->
     <tr>
-      <td rowspan="3">US-02</td>
-      <td rowspan="3">Titulo</td>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-45	</td>
+      <td rowspan="3">Filtro y búsqueda de lotes	</td>
+      <td>US-45-T-01	</td>
+      <td>Agregar barra de búsqueda	</td>
+      <td>Permitir buscar lotes por nombre o código en tiempo real.	</td>
       <td>2h</td>
       <td>Raúl</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-45-T-02</td>
+      <td>Implementar filtros avanzados		</td>
+      <td>Filtrar viñedo de origen	</td>
       <td>3h</td>
       <td>Raúl</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-45-T-03</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
       <td>3h</td>
       <td>Raúl</td>
       <td>Done</td>
     </tr>
     <!-- US-03 - Todas las tareas asignadas a Fabricio -->
     <tr>
-      <td rowspan="3">US-03</td>
-      <td rowspan="3">Titulo</td>
-      <td>US-/td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-46	</td>
+      <td rowspan="3">Consulta del historial de producción por lote	</td>
+      <td>US-46-T-01	/td>
+      <td>Diseñar vista de historial	</td>
+      <td>Diseñar interfaz que muestre cronológicamente cada etapa realizada.	</td>
       <td>3h</td>
       <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-46-T-02</td>
+      <td>Mostrar parámetros de cada fase	</td>
+      <td>Incluir datos de temperatura, pH, duración, etc.	</td>
       <td>3h</td>
       <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-46-T-03</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
       <td>3h</td>
       <td>Fabricio</td>
       <td>Done</td>
     </tr>
     <!-- US-04 - Todas las tareas asignadas a Gustavo -->
     <tr>
-      <td rowspan="3">US-04</td>
-      <td rowspan="3">Titulo</td>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-46	</td>
+      <td rowspan="3">Consulta del historial de producción por lote		</td>
+      <td>US-46-T-01	</td>
+      <td>Diseñar vista de historial	</td>
+      <td>Diseñar interfaz que muestre cronológicamente cada etapa realizada.	</td>
       <td>3h</td>
       <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-46-T-02	</td>
+      <td>Mostrar parámetros de cada fase	</td>
+      <td>Incluir datos de temperatura, pH, duración, etc.	</td>
       <td>3h</td>
       <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-46-T-03	</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
       <td>3h</td>
       <td>Gustavo</td>
       <td>Done</td>
     </tr>
     <!-- US-05 - Todas las tareas asignadas a Fernando -->
     <tr>
-      <td rowspan="3">US-05</td>
-      <td rowspan="3">Titulo</td>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-47	</td>
+      <td rowspan="3">Registro manual en historial de producción	</td>
+      <td>US-47-T-01	</td>
+      <td>Crear formulario de registro	</td>
+      <td>Permitir al usuario registrar una nueva etapa manualmente.	</td>
       <td>3h</td>
       <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-47-T-02	</td>
+      <td>Validar y guardar entradas	</td>
+      <td>Guardar la nueva entrada con datos técnicos y observaciones.	</td>
       <td>3h</td>
       <td>Fernando</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-47-T-03	</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
       <td>3h</td>
       <td>Fernando</td>
       <td>Done</td>
     </tr>
     <!-- US-06 - Todas las tareas asignadas a Abraham -->
     <tr>
-      <td rowspan="3">US-06</td>
-      <td rowspan="3">Titulo</td>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td rowspan="3">US-48	</td>
+      <td rowspan="3">Vista de registro de bitácora </td>
+      <td>US-48-T-01	</td>
+      <td>Diseñar formulario de bitácora	</td>
+      <td>Crear un formulario para que el usuario registre eventos o notas.	</td>
       <td>2h</td>
       <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-48-T-02	</td>
+      <td>Permitir adjuntar fotos	</td>
+      <td>Agregar funcionalidad para subir imágenes con los comentarios.	</td>
       <td>3h</td>
       <td>Abraham</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US-</td>
-      <td>Titulo</td>
-      <td>Descripcion</td>
+      <td>US-48-T-03	</td>
+      <td>Realizar pruebas funcionales	</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.	</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-49 - Todas las tareas asignadas a Abraham -->
+    <tr>
+      <td rowspan="2">US-49		</td>
+      <td rowspan="2">Consulta del historial de bitácora del lote	 </td>
+      <td>US-49-T-01		</td>
+      <td>Implementar lista de entradas		</td>
+      <td>Visualizar entradas de bitácora ordenadas por fecha.		</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-49-T-02	</td>
+      <td>RRealizar pruebas funcionales		</td>
+      <td>Verificar que toda la funcionalidad implementada se comporta correctamente desde la app.		</td>
       <td>3h</td>
       <td>Abraham</td>
       <td>Done</td>
