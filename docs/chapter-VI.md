@@ -3463,9 +3463,158 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 ### Cross Platform Application
 
-| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
-|-----------|--------|-----------|----------------|---------------------|------------------|
-|           |        |           |                |                     |                  |
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="28" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/elixirline_app_movil_flutter</td>
+    <td align="center">feature/field-log-and-report</td>
+    <td align="center">1d47db3</td>
+    <td align="center">feat(field log): field log added.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/07</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">a9c4734</td>
+    <td align="center">feat(winemaking-process): Added pages for viewing details, creating, and editing winemaking stages.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/fieldworkers-management</td>
+    <td align="center">8143c03</td>
+    <td align="center">Modified feath: worker management</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">028808c</td>
+    <td align="center">feat(production-history): added new dependencies</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">dddf9e7</td>
+    <td align="center">feat(production-history): Added connection with backend</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">d4e2d2b</td>
+    <td align="center">feat(winemaking-process): Added view to create a new batch.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">77b7fb0</td>
+    <td align="center">feat(winemaking-process): Added view to create and edit a new batch</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">b5795d3</td>
+    <td align="center">feat(winemaking-process): Added detail view of the first 3 stages of vinification of a wine batch.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/09</td>
+  </tr>
+
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">8e89a0d</td>
+    <td align="center">feat(production-history): added option to create a register and search bar with filters</td>
+    <td align="center"></td>
+    <td align="center">2025/07/10</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/production-history</td>
+    <td align="center">f1d308a</td>
+    <td align="center">feat(production-history): Added new dependencies and assets</td>
+    <td align="center"></td>
+    <td align="center">2025/07/10</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/management-agricultural-activities</td>
+    <td align="center">d1846ab</td>
+    <td align="center">chores(management-activities): Implement Management Agricultural Activities bounded context v2</td>
+    <td align="center"></td>
+    <td align="center">2025/07/10</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">161f1d7</td>
+    <td align="center">feat(winemaking-process): Added list of stages per wine batch.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">319ede5</td>
+    <td align="center">feat(winemaking-process): Refactor list of stages per wine batch.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">bbc9db0</td>
+    <td align="center">feat(winemaking-process): Added full functionality of the Receiving stage</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">5713da9</td>
+    <td align="center">feat(winemaking-process): Added CRUD view and logic for the correction stage.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">79511d4</td>
+    <td align="center">feat(winemaking-process): Added detail and CRUD views for the fermentation stage</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">59c7159</td>
+    <td align="center">feat(winemaking-process): Added stage settings for editing.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+</table>
 
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
 
