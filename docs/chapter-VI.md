@@ -3188,6 +3188,77 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 ![](../assets/img/chapter-VI/sprint-2/team-service.png)
 
+
+
+### 6.2.3. Sprint 3
+
+#### 6.2.3.1. Sprint Planning 3
+
+| Sprint #                        | Sprint 3 |
+|---------------------------------|----------|
+| Sprint Planning Background      |          |
+| Date                            |          |
+| Time                            |          |
+| Location                        |          |
+| Prepared By                     |          |
+| Attendees (to planning meeting) |          |
+| Sprint 2 Review Summary         |          |
+| Sprint 2 Retrospective Summary  |          |
+| Sprint Goal & User Stories      |          |
+| Sprint 3 Goal                   |          |
+| Sprint 3 Velocity               |          |
+| Sum of Story Points             |          |
+
+#### 6.2.3.2. Sprint Backlog 3
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+
+### Web Service
+
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+|-----------|--------|-----------|----------------|---------------------|------------------|
+|           |        |           |                |                     |                  |
+
+### Cross Platform Application
+
+| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
+|-----------|--------|-----------|----------------|---------------------|------------------|
+|           |        |           |                |                     |                  |
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review
+
+**Testings Suite Evidences**
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+
+| Endpoint | Acción | Verbo HTTP | Parámetros | Ejemplo de Response |
+|----------|--------|------------|------------|----------------------|
+|          |        |            |            |                      |
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+### Web service
+
+### Mobile Application
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 6.3. Validation Interviews.
 
 ### 6.3.1. Diseño de Entrevistas.
