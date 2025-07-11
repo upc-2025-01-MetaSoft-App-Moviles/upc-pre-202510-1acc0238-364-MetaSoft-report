@@ -1169,7 +1169,38 @@ Para desplegar la Landing Page desde GitHubPages hay que seguir los siguientes p
 
 
 
+## Mobile Application Deployment
 
+**Para el despliegue de la aplicación en kotlin y flutter se tiene que seguir los siguientes pasos:**
+
+
+
+**1. Generamos el Signed APK desde Android Studio:**
+
+   - Abrimos el proyecto en Android Studio.
+   - Vamos a "Build" > "Generate Signed Bundle/APK".
+   - Seleccionamos "APK" y hacemos clic en "Next".
+   - Elegimos el módulo de la aplicación y configuramos las opciones de firma.
+   - Hacemos clic en "Finish" para generar el APK firmado.
+
+![](../assets/img/chapter-VI/sprint-3/generate.PNG)
+
+
+![](../assets/img/chapter-VI/sprint-3/certificado.PNG)
+
+
+![](../assets/img/chapter-VI/sprint-3/release.PNG)
+
+**2. Subimos el APK firmado en Firebase**
+
+   - Ingresamos a la consola de Firebase.
+   - Seleccionamos el proyecto correspondiente.
+   - Vamos a "App Distribution" y hacemos clic en "Get Started".
+   - Agregamos testers y grupos de testers si es necesario.
+   - Hacemos clic en "Distribute" y seleccionamos el APK firmado que generamos anteriormente.
+   - Completamos los detalles necesarios y hacemos clic en "Distribute".
+
+![](../assets/img/chapter-VI/sprint-3/app%20distribution.PNG)
 
 
 ## 6.2. Landing Page & Mobile Application Implementation
@@ -3238,6 +3269,22 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 |          |        |            |            |                      |
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+### Web service
+
+Para llevar a cabo la implementacion del web service usamos azure siguiendo los pasos previamente vistos
+
+**La publicación fue exitosa y se generó un enlace de acceso al backend:**
+https://elixirline.azurewebsites.net/swagger/index.html
+
+
+**Se observa el correcto despliegue del backend accediendo al Swagger UI, donde pude probar los endpoints REST de forma visual.**
+
+![](../assets/img/chapter-VI/sprint-2/deploy-web.png)
+
+### Mobile Application
+
+
 
 ### Web service
 
