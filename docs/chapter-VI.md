@@ -3242,6 +3242,192 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 #### 6.2.3.2. Sprint Backlog 3
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="8">Sprint 3</th>
+    </tr>
+    <tr>
+      <td colspan="2">User Story</td>
+      <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Id</td>
+      <td>Title</td>
+      <td>Description</td>
+      <td>Estimation (hours)</td>
+      <td>Assigned To</td>
+      <td>Status</td>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- US-01 - Todas las tareas asignadas a Janover -->
+    <tr>
+      <td rowspan="3">US-01</td>
+      <td rowspan="3"> Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Janover</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-02 - Todas las tareas asignadas a Raúl -->
+    <tr>
+      <td rowspan="3">US-02</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>2h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Raúl</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-03 - Todas las tareas asignadas a Fabricio -->
+    <tr>
+      <td rowspan="3">US-03</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-/td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fabricio</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-04 - Todas las tareas asignadas a Gustavo -->
+    <tr>
+      <td rowspan="3">US-04</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Gustavo</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-05 - Todas las tareas asignadas a Fernando -->
+    <tr>
+      <td rowspan="3">US-05</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Fernando</td>
+      <td>Done</td>
+    </tr>
+    <!-- US-06 - Todas las tareas asignadas a Abraham -->
+    <tr>
+      <td rowspan="3">US-06</td>
+      <td rowspan="3">Titulo</td>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>2h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-</td>
+      <td>Titulo</td>
+      <td>Descripcion</td>
+      <td>3h</td>
+      <td>Abraham</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 6.2.3.3. Development Evidence for Sprint Review
 
 ### Web Service
