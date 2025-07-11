@@ -3432,9 +3432,34 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 ### Web Service
 
-| Repository | Branch | Commit ID | Commit message | Commit Message body | Commit on (date) |
-|-----------|--------|-----------|----------------|---------------------|------------------|
-|           |        |           |                |                     |                  |
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit message</strong></td>
+    <td align="center"><strong>Commit Message body</strong></td>
+    <td align="center"><strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="28" align="center">https://github.com/upc-2025-01-MetaSoft-App-Moviles/ElixirLine-Platform.git</td>
+    <td align="center">feature/winemaking-process</td>
+    <td align="center">8cb7f95</td>
+    <td align="center">feat(winemaking-process): Methods for updating winemaking stages have been updated.</td>
+    <td align="center"></td>
+    <td align="center">2025/07/08</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning-activities</td>
+    <td align="center">8b8d488</td>
+    <td align="center">fix(planning-activities): modifying folder and file locations v7</td>
+    <td align="center"></td>
+    <td align="center">2025/07/11</td>
+  </tr>
+
+</table>
 
 ### Cross Platform Application
 
