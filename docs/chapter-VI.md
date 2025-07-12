@@ -3763,6 +3763,10 @@ Para el despliegue de las aplicaciones moviles se utilizo Firebase App Distribut
 ![](../assets/img/chapter-VI/sprint-3/distribuidores.png)
 
 
+### Simulacion de deploy en Play Store:
+
+https://studio--app-showcase-wc9az.us-central1.hosted.app/
+
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
 ### Web service
