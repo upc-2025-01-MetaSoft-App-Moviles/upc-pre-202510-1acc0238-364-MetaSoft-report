@@ -3692,26 +3692,17 @@ https://elixirline.azurewebsites.net/swagger/index.html
 ### Mobile Application
 
 
+#### 6.2.3.8. Team Collaboration Insights during Sprint
 
 ### Web service
 
+
+![](../assets/img/chapter-VI/sprint-3/insight1.png)
+
 ### Mobile Application
 
-#### 6.2.3.8. Team Collaboration Insights during Sprint
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](../assets/img/chapter-VI/sprint-3/insight2.png)
 
 ## 6.3. Validation Interviews.
 
