@@ -3228,15 +3228,15 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 | Sprint #                        | Sprint 3 |
 |---------------------------------|----------|
 | Sprint Planning Background      |          |
-| Date                            |          |
-| Time                            |          |
-| Location                        |          |
-| Prepared By                     |          |
-| Attendees (to planning meeting) |          |
-| Sprint 2 Review Summary         |          |
-| Sprint 2 Retrospective Summary  |          |
+| Date                            |   11/07/2025       |
+| Time                            |  10:00PM        |
+| Location                        |      Discord/Meet    |
+| Prepared By                     |    Janover Gonzalo Saldaña Vela      |
+| Attendees (to planning meeting) |    Abraham Estrada / Raúl Quispe/ Gustavo Huanca / Fernando Lizano / Fabricio Apaza      |
+| Sprint 2 Review Summary         |     Como resumen del sprint 2, se avanzó la aplicación en Kotlin, a su vez, se añadieron más endpoints de acuerdo a lo solicitado en el web services. También se definió la etapa base en la aplicación movil en Flutter.    |
+| Sprint 2 Retrospective Summary  |    Como resumen del sprint 2, se avanzó la aplicación en Kotlin, a su vez, se añadieron más endpoints de acuerdo a lo solicitado en el web services. También se definió la etapa base en la aplicación movil en Flutter.        |
 | Sprint Goal & User Stories      |          |
-| Sprint 3 Goal                   |          |
+| Sprint 3 Goal                   |     Para este Sprint 3, tenemos como objetivo presentar la etapa final del aplicativo en Flutter. A su vez, presentar mejoras en el aplicativo en Kotlin, como en el Web Services.     |
 | Sprint 3 Velocity               |          |
 | Sum of Story Points             |          |
 
