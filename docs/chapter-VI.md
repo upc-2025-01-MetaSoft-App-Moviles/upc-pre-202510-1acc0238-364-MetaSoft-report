@@ -3752,6 +3752,16 @@ https://elixirline.azurewebsites.net/swagger/index.html
 
 ### Mobile Application
 
+Para el despliegue de las aplicaciones moviles se utilizo Firebase App Distribution
+
+![](../assets/img/chapter-VI/sprint-3/apprelease.png)
+
+![](../assets/img/chapter-VI/sprint-3/firebasekey.png)
+
+![](../assets/img/chapter-VI/sprint-3/subiendo.png)
+
+![](../assets/img/chapter-VI/sprint-3/distribuidores.png)
+
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
