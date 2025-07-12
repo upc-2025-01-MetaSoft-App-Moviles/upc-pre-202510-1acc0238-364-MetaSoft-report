@@ -3671,9 +3671,70 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el presente Sprint se logró documentar y exponer exitosamente los endpoints pertenecientes a los servicios clave de ElixirLinePlatform.API. Esto incluye operaciones CRUD 
+
 | Endpoint | Acción | Verbo HTTP | Parámetros | Ejemplo de Response |
 |----------|--------|------------|------------|----------------------|
 |          |        |            |            |                      |
+
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Response</th>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/clarification</td>
+    <td>Obtener Clarification</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "startDate": "2025-05-16", "observations": "Clarified successfully."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/clarification</td>
+    <td>Crear Clarification</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "startDate": "2025-05-16", "observations": "Clarified successfully."}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/fermentation</td>
+    <td>Obtener Fermentation</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "temperature": 22.5, "durationDays": 10}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/fermentation</td>
+    <td>Crear Fermentation</td>
+    <td>POST</td>
+    <td>batchId (Guid), body</td>
+    <td>{"batchId": "...", "temperature": 22.5, "durationDays": 10}</td>
+  </tr>
+
+  <tr>
+    <td>/api/v1/wine-batches/{batchId}/reception</td>
+    <td>Obtener Reception</td>
+    <td>GET</td>
+    <td>batchId (Guid)</td>
+    <td>{"batchId": "...", "receivedBy": "Juan Pérez", "date": "2025-05-10"}</td>
+  </tr>
+
+  <tr>
+  <td> /fieldworkers</td>
+ <td>Obtener trabajador</td>
+ <td>GET</td>
+ <td>workerId</td>
+ <td>{"workerId", "nombre", "DNI", "Role"}</td>
+  </tr>
+  </table>
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 
