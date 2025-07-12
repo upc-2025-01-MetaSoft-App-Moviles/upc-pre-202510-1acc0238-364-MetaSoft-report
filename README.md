@@ -102,7 +102,7 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 ![img.png](assets/img/develop/img.png)
 
-![img.png](assets/img/develop/img1.png)
+![img1.png](assets/img/develop/img1.png)
 
 ---
 
@@ -112,11 +112,11 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 **Gráficos de colaboración de los integrantes del equipo**
 
-![img.png](assets/img/develop/Network-graph-tp.png)
+![Network-graph-tp.png](assets/img/develop/Network-graph-tp.png)
 
-![img.png](assets/img/develop/Contributors-tp.png)
+![Contributors-tp.png](assets/img/develop/Contributors-tp.png)
 
-![img.png](assets/img/develop/traffic-tp.png)
+![traffic-tp.png](assets/img/develop/traffic-tp.png)
 
 ---
 
@@ -124,9 +124,15 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 
 A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro tercer sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
+![Network-graph-tb2.png](assets/img/develop/Network-graph-tb2.png)
 
+![Contributors-tb2.png](assets/img/develop/Contributors-tb2.png)
 
+![traffic-tb2.png](assets/img/develop/traffic-tb2.png)
 
+### Entregable Final
+
+A continuación, se presentan los gráficos de colaboración de los integrantes del equipo en el repositorio de nuestro cuarto sprint. Estos gráficos ofrecen una representación visual de la cantidad de contribuciones realizadas por cada miembro del equipo, junto con la fecha en que se llevaron a cabo. Además, se presenta información sobre la cantidad de líneas de código que se han modificado en cada uno de los commits.
 
 
 
@@ -266,7 +272,9 @@ A continuación, se presentan los gráficos de colaboración de los integrantes 
 como agregado raíz y asegurando una separación clara de responsabilidades en cada capa de la arquitectura limpia. También desarrollé vistas en Jetpack Compose y coordiné la interacción entre frontend y backend mediante un enfoque orientado al dominio, lo cual requirió actualización constante de conocimientos y análisis de buenas prácticas de integración. <br><br>
             <strong> Janover Gonzalo Saldaña Vela - TB2 </strong><br>
 En este sprint profundicé en la integración de funcionalidades clave en la app móvil utilizando Jetpack Compose, reutilizando formularios para creación y edición de lotes de vino. Mejoré la navegación entre vistas y coordiné la interacción con el backend mediante patrones orientados al dominio. Además, estructuré y documenté historias de usuario detalladas para cubrir procesos como la visualización, filtrado, búsqueda y gestión de etapas e historial de producción, lo cual fortaleció mi capacidad de análisis funcional y técnico del sistema.<br><br>
-            <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
+            <strong> Janover Gonzalo Saldaña Vela - TF </strong><br>
+Durante el trabajo final, consolidé y apliqué conocimientos adquiridos previamente en arquitectura de software, desarrollo móvil y diseño UI/UX. Me enfoqué en mejorar componentes ya implementados, optimizar la navegación, y estructurar correctamente las interacciones entre las etapas del proceso de vinificación. Además, me actualicé en patrones de diseño multiplataforma y profundicé en las convenciones de Jetpack Compose y Flutter para asegurar una experiencia fluida, técnica y funcionalmente robusta.<br><br>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong>  Apaza Morales, Fabricio - TB1 </strong><br>
             Desarrollé el perfil inicial del startup, la problemática y el Lean UX Problem Statement, aplicando conceptos de lean startup y diseño centrado en el usuario. A su vez, algunas user stories  lo que me ayudó a mejorar en redacción de requisitos y en el uso de tecnologías para la plataforma.<br><br>            
@@ -319,12 +327,16 @@ Durante este sprint, desarrollé las funcionalidades de CRUD con validaciones, a
             La constante actualización de conceptos técnicos y metodológicos me permitió afrontar con mayor 
 solvencia los retos del proyecto, desarrollando una solución robusta, modular y mantenible. Además, afianzó mis 
 bases en el desarrollo profesional de soluciones de software alineadas con las tendencias actuales de la industria.
-<br><br>
-            Como equipo, reconocemos que la actualización constante de conocimientos ha sido clave para el 
+<br><br> Como equipo, reconocemos que la actualización constante de conocimientos ha sido clave para el 
 desarrollo exitoso de nuestro proyecto. Aplicamos conceptos avanzados como Domain-Driven Design, arquitectura limpia,
 desarrollo móvil con Jetpack Compose y buenas prácticas de diseño UI/UX. Esta actualización nos permitió estructurar 
 soluciones robustas, bien organizadas y alineadas con estándares profesionales. Coincidimos en que mantenernos 
 técnicamente actualizados nos permite responder con mayor eficacia a los retos de proyectos reales.<br><br>
+Durante el desarrollo del proyecto, la actualización de conceptos fue clave para abordar los desafíos técnicos con 
+solvencia y claridad. La aplicación de prácticas modernas como DDD, arquitectura limpia y el uso de frameworks 
+móviles actuales permitió construir una solución profesional y escalable. Esta mejora constante de conocimientos nos 
+preparó no solo para completar con éxito cada sprint, sino también para enfrentar futuros proyectos con mayor 
+capacidad de análisis y ejecución técnica.<br><br>
         </td>
     </tr>
     <!-- =========================================================== -->
@@ -353,6 +365,12 @@ Durante este sprint enfrenté desafíos al reutilizar formularios en Jetpack Com
 lógica de backend. Esto me llevó a explorar nuevas prácticas de manejo de estado y arquitectura móvil, lo que 
 reforzó la importancia del aprendizaje continuo para mejorar mis habilidades y desarrollar soluciones más sólidas y 
 profesionales. <br><br>
+            <strong> Janover Gonzalo Saldaña Vela – TF </strong><br>
+Durante el desarrollo del trabajo final, reafirmé la importancia del aprendizaje constante al enfrentar nuevos retos 
+técnicos, especialmente al coordinar y desarrollar componentes multiplataforma con Flutter y Jetpack Compose. 
+Aprendí a optimizar formularios reutilizables, mejorar la navegación entre vistas y conectar correctamente con el 
+backend, lo que exigió revisar documentación oficial, explorar nuevas bibliotecas y aplicar buenas prácticas de 
+arquitectura móvil.<br><br>
             <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++ !-->
             <!-- ==================== ESTUDIANTE 02 ==================== !-->
             <strong> Apaza Morales, Fabricio - TB1 </strong><br>
@@ -427,6 +445,11 @@ investigar, mejorar y aplicar nuevos enfoques. Esta mentalidad nos permitió ada
 resolver problemas de forma más eficiente y fortalecer nuestras habilidades. Estamos de acuerdo en que mantener esta 
 disposición al aprendizaje continuo es fundamental para el desarrollo de soluciones innovadoras y sostenibles en 
 ingeniería de software. <br><br>
+Reconocer la necesidad del aprendizaje permanente fue fundamental para afrontar con éxito los desafíos técnicos y 
+conceptuales del proyecto. Este enfoque me permitió mantener una actitud de mejora continua, adaptarme a nuevas 
+tecnologías, y resolver problemas de manera más eficaz. Como equipo, coincidimos en que esta disposición al 
+aprendizaje constante es esencial para el crecimiento profesional en ingeniería de software y para el desarrollo de 
+soluciones innovadoras, sostenibles y de alta calidad.<br><br>
         </td>
     </tr>
 </tbody>
