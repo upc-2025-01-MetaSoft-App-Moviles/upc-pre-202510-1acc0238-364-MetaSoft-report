@@ -3620,7 +3620,21 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 **Testings Suite Evidences**
 
+
 #### 6.2.3.5. Execution Evidence for Sprint Review
+
+**Field Log Entry View**
+![](../assets/img/chapter-VI/sprint-3/field1.png)
+![](../assets/img/chapter-VI/sprint-3/field2.png)
+![](../assets/img/chapter-VI/sprint-3/field3.png)
+
+**Worker Field Management**
+![](../assets/img/chapter-VI/sprint-3/worker1.png)
+![](../assets/img/chapter-VI/sprint-3/worker2.png)
+![](../assets/img/chapter-VI/sprint-3/worker3.png)
+![](../assets/img/chapter-VI/sprint-3/worker4.png)
+![](../assets/img/chapter-VI/sprint-3/worker5.png)
+
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 
