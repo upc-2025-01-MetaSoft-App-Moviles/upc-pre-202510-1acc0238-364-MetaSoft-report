@@ -3623,17 +3623,50 @@ Para la implementación de la aplicación Android, se desarrolló una interfaz f
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
 
+
+**Winemaking Process**
+
+![](../assets/img/chapter-VI/sprint-3/wine1.jpg)
+![](../assets/img/chapter-VI/sprint-3/wine2.jpg)
+![](../assets/img/chapter-VI/sprint-3/wine3.jpg)
+![](../assets/img/chapter-VI/sprint-3/wine4.jpg)
+![](../assets/img/chapter-VI/sprint-3/wine5.jpg)
+
 **Field Log Entry View**
+
 ![](../assets/img/chapter-VI/sprint-3/field1.png)
 ![](../assets/img/chapter-VI/sprint-3/field2.png)
 ![](../assets/img/chapter-VI/sprint-3/field3.png)
 
 **Worker Field Management**
+
 ![](../assets/img/chapter-VI/sprint-3/worker1.png)
 ![](../assets/img/chapter-VI/sprint-3/worker2.png)
 ![](../assets/img/chapter-VI/sprint-3/worker3.png)
 ![](../assets/img/chapter-VI/sprint-3/worker4.png)
 ![](../assets/img/chapter-VI/sprint-3/worker5.png)
+
+**Production History**
+
+![](../assets/img/chapter-VI/sprint-3/history1.png)
+![](../assets/img/chapter-VI/sprint-3/history2.png)
+
+**Management Agricultural Activities**
+
+![](../assets/img/chapter-VI/sprint-3/managment1.png)
+![](../assets/img/chapter-VI/sprint-3/managment2.png)
+![](../assets/img/chapter-VI/sprint-3/managment3.png)
+![](../assets/img/chapter-VI/sprint-3/managment4.png)
+![](../assets/img/chapter-VI/sprint-3/managment5.png)
+![](../assets/img/chapter-VI/sprint-3/managment6.png)
+
+**Supply Management**
+
+![](../assets/img/chapter-VI/sprint-3/supply1.png)
+![](../assets/img/chapter-VI/sprint-3/supply2.png)
+![](../assets/img/chapter-VI/sprint-3/supply3.png)
+![](../assets/img/chapter-VI/sprint-3/supply4.png)
+![](../assets/img/chapter-VI/sprint-3/supply5.png)
 
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
